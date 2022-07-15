@@ -1,0 +1,909 @@
+[
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e82ac9c9b04f3f624d73c"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 2342,
+            "studentCount": 36217,
+            "avgRatingScore": 4.5289707,
+            "contentVideoLength": 97129
+        },
+        "basicInfo": {
+            "udemyCourseId": 1455618,
+            "slug": "wordpress-2022-the-complete-wordpress-website-course",
+            "title": "WordPress 2022: The Complete WordPress Website Course",
+            "subtitle": "Master The Complete WordPress - Build any Dynamic WordPress Website without Programming with WordPress Custom Post types",
+            "image": "https://img-c.udemycdn.com/course/240x135/1455618_592a_4.jpg",
+            "price": 2064370,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Be able to start your own WordPress web design business",
+                "Project 1: Personal/resume Website with WordPress",
+                "Project 2: Business Corporate Websites with WordPress",
+                "Project 3: Professional Blog with WordPress",
+                "Project 4: eCommerce website with WordPress and PayPal for accepting payments",
+                "Project 5: A real estate website with WordPress custom post types",
+                "Be able to work with WordPress APIs to accept credit Card payments",
+                "Be able to build your own Template",
+                "Be able to create any custom post type website i.e. movie review site, property selling site, affiliate coupons site, etc.",
+                "Be able to design a template for your custom post type"
+            ],
+            "requirements": [
+                "A working Laptop/computer, either Windows or Mac.",
+                "A browser: Chrome/Firefox/Safari",
+                "Internet Access",
+                "This Course starts from basics hence no EXPERIENCE Required"
+            ],
+            "description": "<p><strong>You're here because you want to master WordPress, right?</strong></p><p>This&nbsp;<strong>WordPress</strong>&nbsp;Course was created for you!</p><p><strong>Take this course if either of these applies to you:</strong></p><ol><li><p>You own a business and need more clients OR</p></li><li><p>Your Idea involves making a website OR</p></li><li><p>You want to learn&nbsp;<strong>WordPress</strong></p></li><li><p>You want to start your own web design business and sell websites.</p></li></ol><p>75 million users use&nbsp;<strong>WordPress</strong>&nbsp;making it Number One website content management system (CMS) worldwide. This course explains the most basic features of&nbsp;<strong>WordPress</strong>&nbsp;and also deals with advanced web design concepts. By the end of this&nbsp;<strong>WordPress</strong>&nbsp;online training, you will have enough knowledge to create a Professional&nbsp;<strong>WordPress</strong>&nbsp;website of your own, and not only that but you can create websites for your clients.</p><p>WordPress is the perfect tool for creating a fully customized website for any purpose. Whether you want to create a blog, &nbsp;a personal portfolio, a corporate business site, a forum, a classified website,&nbsp;an eCommerce site,&nbsp;or&nbsp;a business website to sell your products and services,&nbsp;you can do it with WordPress.<br></p><p>While it's&nbsp;<strong>never been easier</strong>&nbsp;to build a website, many people get lost when it comes to creating a&nbsp;<strong>stylish WordPress website</strong>. By following this Complete WordPress&nbsp;course, you will&nbsp;<strong>build powerful WordPress&nbsp;websites with different plugins&nbsp;and get ahead on&nbsp;your journey as an entrepreneur.</strong>&nbsp;</p><p><br></p><p><strong>Why am I&nbsp;Worth Your Time?</strong></p><p>Through this course, I'll teach you everything I've learned and mastered&nbsp;through 8 years of building, managing, migrating, and hosting WordPress websites.&nbsp; </p><p><strong>\"The instructor Tanzeel is very passionate about the topic of WordPress and it shows. He is very knowledgeable and I learned a lot! I am very confident about how to build my own WordPress site now, all thanks to this course\" ~~Wendy Aston</strong></p><p><strong>I'll walk you through every step in how to use WordPress through a series of videos</strong>. I've also included useful resource documents for you to reference.</p><p>~I know where you're at.</p><p>~I know where you're coming from.</p><p>_____________________________</p><p><strong>WHAT&nbsp;PROJECTS&nbsp;ARE&nbsp;INCLUDED&nbsp;IN&nbsp;THE&nbsp;COMPLETE&nbsp;WORDPRESS WEBSITE&nbsp;COURSE?</strong></p><p><strong>PROJECT#1:</strong> <em>A personal Website</em>: In this project we design a single-page responsive&nbsp;personal/resume WordPress-based&nbsp;website with a contact form that is connected via SMTP&nbsp;Server so it may send emails.</p><p><strong>PROJECT#2:</strong> <em>A Business&nbsp;Website</em>: In this project, we&nbsp;build a multi-page responsive&nbsp;business WordPress website with a contact form and a portfolio.</p><p><strong>PROJECT#3:</strong> <em>A Blog</em>: In this project, we design a professional blog&nbsp;with pagination and custom WordPress Blog Posts.</p><p><strong>PROJECT#4:</strong> An eCommerce&nbsp;Website: In this project, we&nbsp;build an amazing eCommerce website that consists of a cart and checkout page. Shipping rates, tax, use of coupons, variable products, and everything that is used to build an eCommerce website with WordPress&nbsp;is explained briefly.</p><p><strong>PROJECT#5:</strong> A real estate Website: In this project, we&nbsp;design a customized website. Since WordPress comes with posts and pages only, we create our own custom post type and name it as property, then we build a template for it.<br></p><p>After you are done with all these projects, you would be able to work with the WordPress Custom Post type feature to build and design your own custom post type instead of just post and pages. You would also be able to add custom fields to that custom post type and design that page dynamically.</p><p>_______________________________________</p><p><strong>Summary of what you'll learn?</strong></p><ul><li><p>How WordPress works and why it uses PHP&nbsp;as its main language.</p></li><li><p>You will learn in detail about&nbsp;Domain, Hosting, Xampp for running WordPress</p></li><li><p>Manual and Auto&nbsp;Installation of WordPress</p></li><li><p>Creation and&nbsp;integration of databases with WordPress</p></li><li><p>WordPress Basic Settings</p></li><li><p>How to Choose a Perfect WordPress theme for your business</p></li><li><p>How to build a personal/resume site with WordPress</p></li><li><p>What are the WordPress plugins and how to use them</p></li><li><p>How to build professional blogs with WordPress</p></li><li><p>How to build a Corporate style business website with WordPress</p></li><li><p>How to set up an eCommerce site&nbsp;(online store) and sell your products using WordPress and WooCommerce</p></li><li><p>What is Paypal and how to integrate WordPress&nbsp;with API&nbsp;to receive payments</p></li><li><p>What is Stripe and how to integrate WordPress&nbsp;with API to receive Credit Card Payments</p></li><li><p>How to register your own custom post type in WordPress</p></li><li><p>How to add custom fields in WordPress</p></li><li><p>How to build a template in WordPress</p></li><li><p>How to build archive templates in WordPress</p></li><li><p>How to optimize your WordPress website for SEO</p></li></ul><p>___________________________________</p><p><strong>Paid Hosting,&nbsp;Plugins, and themes recommended in this course:</strong></p><p>1. Bluehost web hosting:&nbsp;worth $80. (you can also go with a free method,&nbsp;explained in the course)</p><p>2. Elementor pro plugin: worth $49. (You can go with the free version if you do not wish to buy that, however, the 5th project requires you to purchase that).</p><p>___________________________________</p><p><strong>What This Course Does NOT&nbsp;Include:</strong></p><p>This course is a 100% complete \"Front End course\" and does NOT cover WordPress Backend PHP&nbsp;Programming.</p>",
+            "suitableLearners": [
+                "You want to start your own Website Design Business? This Course is for you!",
+                "If you are already a WordPress developer, You may not need this Course"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-02-19T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-02-22T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 298220,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e82ac9c9b04f3f624d73c"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 1837,
+            "studentCount": 9541,
+            "avgRatingScore": 4.4603634,
+            "contentVideoLength": 13945
+        },
+        "basicInfo": {
+            "udemyCourseId": 1343998,
+            "slug": "responsive-design-html-css-web-design-dreamweaver-cc",
+            "title": "Responsive Design HTML CSS Web design - Dreamweaver CC",
+            "subtitle": "Learn HTML5 & CSS3 web design skills. Build beautiful responsive design websites in Dreamweaver CC",
+            "image": "https://img-c.udemycdn.com/course/240x135/1343998_78dd_5.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "39 lectures 3+ hours of well-structured content!",
+                "You'll learn to build a responsive portfolio website from scratch.",
+                "Learn how to take a design from Illustrator & create a professional website.",
+                "How to use templates in Dreamweaver.",
+                "Create mobile, tablet & desktop versions of the website.",
+                "Build our own custom responsive navigation with burger menu.",
+                "Introduction to JavaScript & jQuery.",
+                "How to publish your website to the internet.",
+                "Ways to preview your designs straight to your mobile device.",
+                "How to get the most from your portfolio Images.",
+                "How to use beautiful web fonts in your designs.",
+                "You will get the finished files so you never fall behind.",
+                "Downloadable exercise files & cheat sheet.",
+                "Forum support from me and the rest of the BYOL crew.",
+                "All the techniques used by professional website designers."
+            ],
+            "requirements": [
+                "You will need a copy of Adobe Dreamweaver CC 2017 or above. A free trial can be downloaded from Adobe.",
+                "No previous web design skills are needed.",
+                "No previous Dreamweaver skills are needed."
+            ],
+            "description": "<p>Hi there, my name is Dan and together we’re going to build a portfolio website using Adobe Dreamweaver.</p><p>We’ll use Dreamweaver's handy templating tools to make updates to our site super easy. We’ll create our very own mobile 'burger menu' from scratch learning some basic JavaScript &amp; jQuery.</p><p>I am an Adobe Certified Instructor and better yet I work closely with Adobe themselves to develop their own online help videos. I am also a Dreamweaver speaker at the huge Adobe Max conference in Las Vegas. I’m even inside your version of Dreamweaver right now... go on try it... open Dreamweaver &gt; Go to Help &gt; quick tutorial - I’m right there!</p><p>This course is for beginners. You do not need any previous knowledge in Dreamweaver or web design. We will use Dreamweaver ‘split’ view so we can use all the good visual tools as well as doing some simple amends down here in the code as well. </p><p>In this series we will take this static design from either Illustrator or Photoshop and together, step by step, build everything in HTML5, CSS3 &amp; JavaScript. We will make our own responsive design navigation. We will make adjustments so that everything looks great on different mobile devices. </p><p>We will work with beautiful fonts &amp; colours &amp; even add Google Analytics to our site to get amazing information about exactly who visits your site. \n\n\n\nNow web design can sometimes be tricky so I am here to help - just message me if you get stuck. There are also exercise files so you can follow along. I even save a full copy of the website at the end of every video so that you can check yours again mine if you’re is not working quite right.</p><p>Let's get excited about finally being able to build a website like a professional web designer. See you in class.</p>",
+            "suitableLearners": [
+                "YES: This course is for beginners. Aimed at people new to the world of web design. No previous Dreamweaver experience is necessary.",
+                "NO: This course is NOT suited to people experienced in using HTML & CSS."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2019-05-19T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2019-05-22T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e82ac9c9b04f3f624d73c"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 1632,
+            "studentCount": 10433,
+            "avgRatingScore": 4.426732,
+            "contentVideoLength": 7479
+        },
+        "basicInfo": {
+            "udemyCourseId": 1061202,
+            "slug": "complete-flexbox-course-master-css3-flexbox-for-good",
+            "title": "Complete Flexbox Course: Master CSS3 Flexbox for Good",
+            "subtitle": "This tutorial teaches you how to use the new CSS3 Flexbox box model to create responsive web layouts more effectively!",
+            "image": "https://img-c.udemycdn.com/course/240x135/1061202_291d_7.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Use CSS Flexbox confidently to create modern layouts",
+                "Create web site designs more effectively",
+                "Write high-quality and reusable CSS code",
+                "Vertically align any element",
+                "Take up the remaining space in a container",
+                "Beautiful responsive galleries with Flexbox",
+                "Implement the so-called Holy Grail Layout"
+            ],
+            "requirements": [
+                "Basic HTML & CSS",
+                "Using a code editor"
+            ],
+            "description": "<p><strong>After this course, you'll be able to&nbsp;use Flexbox&nbsp;to...</strong><br></p><ul><li><p>vertically align any element</p></li><li><p>create modern&nbsp;grids</p></li><li><p>take up remaining space</p></li><li><p>add spacing between elements</p></li><li><p>implement complete site layouts</p></li><li><p>and much more!</p></li></ul><p>&nbsp;</p><p><strong>More goodies inside this course:</strong></p><ul><li><p><strong>I'll answer all&nbsp;questions</strong> you may have along the way to make sure you reach your learning goals</p></li><li><p>I've added <strong>manual, high-quality captions (CC)</strong>&nbsp;to this course</p></li><li><p>To see Flexbox in practice,&nbsp;<strong>3 mini-projects</strong>&nbsp;will&nbsp;manifest your skills and enable you&nbsp;to use Flexbox productively in future web design&nbsp;projects.</p></li></ul><p><br></p><p><strong>What Students Say About Me</strong> (taken&nbsp;from various courses of mine)</p><p><em>Such a great course. second one for me with Peter Sommerhoff.<br>a great Instructor, uses very easy way to explain the materials.</em></p><p>- Ahmed</p><p><br></p><p><em>I absolutely LOVE this course, it teaches everything you need in details<br> and more! They really do listen to their students and answer as fast as<br> the road runner. Thanks so much for posting your course and I am <br>looking forward other courses!</em></p><p>- Ana</p><p><br></p><p><em>Great course, Peter explained it thoroughly, and he answers any questions within a day.<br></em></p><p>- Dunja</p><p><br></p><p><em>The course covered the required information quickly and concisely <br>without fluff or wasted motion. It provides sufficient pointers to <br>additional information and documentation. I thought it was a good <br>value.</em></p><p>- Robert<br></p><p><br></p><p>I'm glad to have received such great reviews from my students -- and I'll do my best to provide <em>you</em> with the best learning I&nbsp;can as well.</p><p><br></p><p><strong>Check out the free preview videos below.</strong></p><p>I&nbsp;look forward to seeing you inside :)</p><p><br></p><p><br></p><p>***</p><p><br></p><p><strong>In this tutorial, you'll learn to use each and every&nbsp;Flexbox property:</strong></p><p>Styling flex containers:</p><ol><li><p>flex-direction</p></li><li><p>justify-content</p></li><li><p>align-items</p></li><li><p>flex-wrap</p></li><li><p>align-content</p></li></ol><p>Then individual flex items:</p><ol><li><p>order</p></li><li><p>align-self</p></li><li><p>flex-grow</p></li><li><p>flex-shrink</p></li><li><p>flex-basis</p></li><li><p>flex</p></li></ol><p>At the end, we'll look at <strong>real-world&nbsp;Flexbox examples</strong> to see what kinds of layouts can be achieved:</p><ol><li><p><strong>Simple grids with Flexbox</strong> where all columns in a row have the same size</p></li><li><p><strong>More advanced Flexbox&nbsp;grids</strong> where columns can have arbitrary sizes</p></li><li><p><strong>Vertical centering</strong> to vertically align any element</p></li><li><p><strong>Media objects</strong>,&nbsp;the popular OOCSS&nbsp;pattern</p></li><li><p><strong>The Holy Grail Layout</strong>,&nbsp;a complete site&nbsp;layout with sidebars and sticky footer</p></li></ol><p><br></p><p>As a bonus, this course <strong>includes a complete Flexbox Cheat Sheet</strong> that you can use to recap all you've learned and to refer back to while using Flexbox.</p><p>Additionally, I&nbsp;included the&nbsp;code for&nbsp;a <strong>Flexbox demo showcase</strong>&nbsp;-- which is like an interactive cheat sheet for you to see in the browser that contains every property and every layout&nbsp;example from this tutorial.</p>",
+            "suitableLearners": [
+                "Web designers and developers who want to improve their frontend skills",
+                "Designers who want to increase their productivity",
+                "Anyone who wants to keep up with newest developments in web standards"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-09-10T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-09-13T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e82ac9c9b04f3f624d73c"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 1188,
+            "studentCount": 4402,
+            "avgRatingScore": 4.5899143,
+            "contentVideoLength": 17819
+        },
+        "basicInfo": {
+            "udemyCourseId": 879532,
+            "slug": "adobe-animate-cc-2018-html5-banner-ads",
+            "title": "Adobe Animate CC 2018 - HTML5 Banner Ads",
+            "subtitle": "This course is for designers needing to make banner advertising.",
+            "image": "https://img-c.udemycdn.com/course/240x135/879532_0839_3.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "How to build banner advertising",
+                "How to keep file sizes down.",
+                "Firm understanding of the publishing process for ad networks like Google Doubleclick, Adwords, Simek etc. ",
+                "Professional workflows and shortcuts. ",
+                "A wealth of other resources and websites to help your new career path."
+            ],
+            "requirements": [
+                "No previous Adobe Animate or digital advertising knowledge is necessary.",
+                "You'll need a copy of Adobe CC 2015 or above. A free 30 day trial can be download from Adobe here."
+            ],
+            "description": "<p>This course is for visual, creative people who need to start making HTML5 banner ads. I made this course for people that are struggling to get their heads around the new world of HTML5 advertising. </p>\n\n<p>At the end of this course you'll be able to create advertising banners ready for the Google Doubleclick, Google Display Network and Simek. You will have learnt the principles behind HTML5 banner advertising so you'll be able to apply these publishing techniques to any ad network. </p>\n\n\n\n\n\n<p>If you're finding the changes in online advertising stressful then this course will enlighten you. We'll start right at the beginning. Work our way through building our own ads. Then we'll spend good time working out how to keep your files sizes really small for publishing.</p>\n\n\n\n\n\n<p>This course is step by step with exercise files. I’ve saved a copy of each Adobe Animate file after every video so if you get lost you can compare your files to my completed files. </p>\n\n\n\n\n\n<p>I’m with you at every step to make sure your questions are answered quickly and your time is well spent achieving real world skills that directly relate to your career and business. </p>\n\n\n\n\n\n<p>So if you’re ready to learn how Adobe Animate CC can do amazing (and productive) things for your web advertising or interactive design workflow, it’s time to take this course sign up today.</p>\n\n\n\n\n\n<p>Daniel Walter Scott (Adobe Certified Instructor). </p>",
+            "suitableLearners": [
+                "This course is for beginners. For people who prefer not to work in code. Visual people. Creative people. Graphic designers. Marketers. Past users of Flash.",
+                "This course is not for developers. This course will cover standard animated banners. Not dynamic banners like expanding banners, video banners or game banners. "
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2019-07-21T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2019-07-24T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e82ac9c9b04f3f624d73c"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 1144,
+            "studentCount": 6283,
+            "avgRatingScore": 4.0864267,
+            "contentVideoLength": 7127
+        },
+        "basicInfo": {
+            "udemyCourseId": 512678,
+            "slug": "angularjs-crash-course-for-beginners",
+            "title": "AngularJS Crash Course for Beginners",
+            "subtitle": "Learn the essentials you'll need to get started with AngularJS. Advance your web dev skills to build web apps FAST.",
+            "image": "https://img-c.udemycdn.com/course/240x135/512678_47fd.jpg",
+            "price": 1720270,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Discover how to use CRUD (Create, Read, Update, Delete) capabilities via scope binding.",
+                "Learn about data binding, controllers and creating simple apps.",
+                "Discover the benefits of using Angular.",
+                "Understand the Angular HTTP service.",
+                "Learn about using Angular in IDE projects.",
+                "Discover why using custom directives is important.",
+                "Become fluent in AngularJS terminology.",
+                "Write quicker, better AngularJS code and ultimately  save time by using reusable components."
+            ],
+            "requirements": [
+                "Prerequisites include a foundation of creating basic websites, an understanding of HTML/CSS familiarity, and basic web concepts.",
+                "Basic HTML and Javascript knowledge.",
+                "A browser and a text editor"
+            ],
+            "description": "<p>Learn the essentials you'll need to get started with AngularJS, a popular open-source web application framework maintained by Google. During this two-hour introductory course, your instructor will introduce you to the basics of AngularJS. </p>\n\n<p>The course is designed for individuals and web development professionals that need to understand the fundamentals of AngularJS.</p>\n\n<p>Learn about data binding, controllers and creating simple apps, along with additional ways to control the data of AngularJS applications with multiple rows of data and scope binding.</p>\n\n<p>Discover how to use CRUD (Create, Read, Update, Delete) capabilities via scope binding.</p>\n\n<p>Learn advanced topics, including using Angular in IDE projects, the Angular HTTP service, using custom directives, and combining binding, validation, and directives.</p>\n\n<p>By the end of this course, you will be confident in your knowledge of the fundamentals needed to effectively use AngularJS. </p>\n\n<p>All of our videos are high-definition videos, therefore, they are <strong>best viewed with the HD setting on</strong>, and the videos enlarged.</p><p><strong>What People Are Saying:</strong>\n\n  </p>\n\n<p>★★★★★ “<em>Clear concise and easy to follow. Concepts are explained in detail and each concept flows to the next with a clear thread.” </em>–<strong>Hennie Grobler</strong>\n\n  </p><p> ★★★★★ “<em>I was completely new with Angular and this course made me see the next steps more clearly, also, the presentation of the course is clear. I recommend it!” </em>-<strong>Jorge Ibarra Delgado</strong></p>",
+            "suitableLearners": [
+                "Web masters or web designers who need to improve their development skills.",
+                "Web developers and designers looking to learn AngularJS."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-09-03T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-09-06T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e82ac9c9b04f3f624d73c"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 1098,
+            "studentCount": 6273,
+            "avgRatingScore": 4.6043296,
+            "contentVideoLength": 31465
+        },
+        "basicInfo": {
+            "udemyCourseId": 864758,
+            "slug": "ui-animation-using-sketch-3-principle-app-and-flinto",
+            "title": "UI Animation using Sketch 3, Principle App, and Flinto",
+            "subtitle": "Learn to prototype UI animations and micro-interactions using Sketch, Flinto, Principle, Marvel & Invision Craft Plugin",
+            "image": "https://img-c.udemycdn.com/course/240x135/864758_7c6e_2.jpg",
+            "price": 573270,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Learn the Fundamentals and Some Advanced Tricks on Sketch",
+                "Create realistic prototypes for mobile devices and web",
+                "Create UI animation and micro-interactions using Flinto",
+                "Create UI animation and micro-interactions using Principle",
+                "Create simple prototypes using Marvel App"
+            ],
+            "requirements": [
+                "Basic design skills (not obligatory)",
+                "Sketch only runs on Mac. Having the latest OS is a must",
+                "Get Sketch 3 (30 day trial)",
+                "Get Flinto for Mac (15 day trial)",
+                "Get Principle (15 day trial)"
+            ],
+            "description": "<p><strong class=\"redactor-inline-converted\">UPDATE June 2017 - Nested Symbols!</strong></p><ul><li>Creating a Button System with Nested Symbols</li><li>Creating a Left Bar Navigation with Nested Symbols</li></ul><p><strong class=\"redactor-inline-converted\">UPDATE December 27 2016 - New projects!</strong></p>\n\n<ul><li>Creating an on-boarding parallax animation using Flinto and Sketch</li><li>Drawing Santa on Sketch (Holiday Special)</li><li>The most useful keyboard shortcuts on Sketch</li><li>My Favorite practical Sketch Plugins!</li></ul>\n\n\n\n<p><strong class=\"redactor-inline-converted\">UPDATE July 11th 2016 - New content!</strong></p>\n\n\n\n<ul><li>Added How to add Hover effects on Flinto - Mouse Over / Mouse Out. Great for web design prototypes</li><li>Creating a Parallax UI Animation Using Flinto.</li></ul>\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">UPDATE July 5th 2016 - New content!</strong><br></p>\n\n\n\n\n\n\n\n<ul><li>Added a section covering Principle for Mac.</li><li>12 videos (over an hour of content)</li><li>How to create character animations</li><li>Parallax Effect using Principle</li><li>Drag And Drop Interaction</li><li>Continuous Interactions like Paging, Scrolling, Dragging.</li><li>Many more!</li></ul>\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">UPDATE June 18th 2016 - New content!</strong></p>\n\n\n\n\n\n\n\n\n\n<ul><li>Added a section covering Flinto for Mac.\n</li><li>9 videos (over an hour of content)\n</li><li>Connecting Layers, Complex Transitions</li><li>User Interface Cards Flow Animation</li><li>Adding Sound to Your Prototype (and many more)</li></ul>\n\n\n\n\n\n\n\n\n\n<p><strong>//////////////////////////////////////</strong></p>\n\n\n\n\n\n\n\n<p><strong>Introduction<br></strong>Hola, my name is Pablo Stanley. I’ve been a designer for almost 18 years– And I have worked with different startups for quite a while. I want to teach you how to apply the tools I use every day–and I’ll give you some insight into my workflow and process as a product designer.</p>\n\n\n\n\n\n\n\n\n\n\n\n<p>On this course you'll learn how to design web and mobile products using Sketch 3. We’ll also learn how to prototype full flows and micro-interactions using the most current apps in the industry like Flinto, Principle, Marvel App, and Invision’s Craft Plugin. And the coolest part about this course? We’ll learn how to create detailed UI animations and how to apply them to your projects.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>This course is designed in different sections so you can jump around depending on your skill level. You’ll be able to learn how to use the tools to make your own designs from scratch. And we’ll also learn by doing, getting hands-on with more advanced projects.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">So, Why Sketch?</strong><br>Sketch 3 is a design tool focused on user interface and user experience design. Because of its simplicity, it’s really easy to understand; anyone with little to no training can learn Sketch. It’s perfect for designing for multiple mobile devices, working on responsive web design, delivering assets in an easy way, and makes collaboration with developers amazing. It also costs a fraction of the price of Adobe Suite (goodby monthly payment). So yeah, it's pretty cool.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Why Flinto, Principle, Marvel App and Craft by</strong><strong class=\"redactor-inline-converted\"> InVision</strong><br>Principle makes it easy to create animated and interactive user interface designs. Great for Multi-screen app, or new interactions and animations.<br></p>\n\n\n\n\n\n\n\n\n\n<p>Flinto lets designers quickly make interactive prototypes of their mobile, desktop, or web apps.with custom animations, gestures, and Sketch import<br></p>\n\n\n\n\n\n\n\n\n\n<p>This simple editor in Marvel allows you to link all your designs together in seconds, then add gestures and transitions to make your prototype feel just like a real app or website.<br></p>\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">This Course<br></strong>This course covers the basics, but also goes into detail on some advanced features, tricks, and plugins that I use in my daily workflow.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>We'll also work on some cool projects that we'll be able to prototype and share on our mobile devices and the web. We'll even do some UI animation and micro-interactions that will make your prototypes look pretty realistic.</p>",
+            "suitableLearners": [
+                "Web Designers",
+                "Mobile App Designers",
+                "Developers wanting to know a bit more about User Interface Design",
+                "Product Managers trying to learn new skills.",
+                "Graphic Designers who which to start creating web and mobile products"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2018-04-13T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2018-04-16T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e82ac9c9b04f3f624d73c"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 1071,
+            "studentCount": 40765,
+            "avgRatingScore": 4.465473,
+            "contentVideoLength": 12231
+        },
+        "basicInfo": {
+            "udemyCourseId": 132112,
+            "slug": "getting-started-with-wordpress-a-beginners-guide",
+            "title": "Getting Started With Wordpress - A Beginners Guide",
+            "subtitle": "Learn to use and manage your Wordpress Website with this in-depth course from Website Designer Jerad Hill.",
+            "image": "https://img-b.udemycdn.com/course/240x135/132112_dd6f_5.jpg",
+            "price": 458570,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Understand Wordpress",
+                "How to add and manage content on your website",
+                "How to upload photos and video content to your website",
+                "How to customize Wordpress features to fit your needs"
+            ],
+            "requirements": [
+                "Wordpress Website",
+                "Internet Connection"
+            ],
+            "description": "<p>&nbsp; \t&nbsp; WordPress is a website platform often used for blogs but now powers websites for companies and organizations. WordPress is a simple platform and is easy to use but knowing what options to use when can often lead to confusion.&nbsp; </p><p>&nbsp; \t&nbsp; I am a website designer with over 13 years of experience. I have been designing websites with WordPress for over 5 years. In 2013, I deployed over 62 customized WordPress websites for Small Businesses and Organizations in my area. With each deployment, came the training. I provided recorded tutorials for each of my clients so they could have something to reference. That is where this course comes into play.&nbsp; </p><p>&nbsp; \t&nbsp; I want you to completely understand how to use your WordPress Website so you can get the most out of it. You either spent a lot of time setting up your website or paid somebody else to do it, so it needs to provide you value. In this course, I will walk through WordPress section by section describing how and when to use each feature.&nbsp; </p><p>&nbsp; \t&nbsp; By the end of this course, you will know everything that WordPress is capable of doing on its own. I want your website to be a successful website and that starts with understanding how to use it.&nbsp; </p><p>&nbsp; \t&nbsp; This course is for anybody who has either just setup Wordpress or was just handed login access to a website they had designed by a website designer. If you have had your Wordpress Website for a while and never got the hang of using it, this course will refresh and renew your desire to create good content and share your story with the world.&nbsp; </p><p>&nbsp; \t&nbsp; Sign up today. You can use the Udemy.Com app to view the content on your smart phone or tablet which makes it easy to follow along with your browser as you watch me describe Wordpress features and best practices.&nbsp; </p><p>&nbsp; \t Some say I am a little long winded with my explanations, however I am that way because I want all to understand. Some aspects of Wordpress are very apparent to some while others struggle with understanding how a certain feature works. Fast learners may want to cruise through the video at a faster pace.&nbsp; </p>",
+            "suitableLearners": [
+                "Bloggers",
+                "Business Owners",
+                "Non-Profits",
+                "Wordpress.com Users",
+                "Wordpress.org Users"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-04-12T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-04-15T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e82ac9c9b04f3f624d73c"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 923,
+            "studentCount": 4436,
+            "avgRatingScore": 4.52893,
+            "contentVideoLength": 21363
+        },
+        "basicInfo": {
+            "udemyCourseId": 2031086,
+            "slug": "sass-the-complete-sass-course-css-preprocessor",
+            "title": "SASS - The Complete SASS Course (CSS Preprocessor)",
+            "subtitle": "SASS - Learn SASS, the most popular CSS Extension. Build modern and beautiful projects using SASS and lots of CSS",
+            "image": "https://img-b.udemycdn.com/course/240x135/2031086_e14b_2.jpg",
+            "price": 458570,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Learn about what SASS is and how to write it",
+                "Install SASS Compiler",
+                "Learn about basics of SASS: Variables, Nesting, Mixins, Extend, Functions, Placeholder Selectors and much more...",
+                "Build and style website using basics of SASS",
+                "Learn about Advanced SASS topics: Data Types, Interpolation, Loops, If Directive and more...",
+                "Build and design website based on advanced SASS",
+                "Practice a lot in CSS"
+            ],
+            "requirements": [
+                "Modern Web Browser",
+                "Code Editor",
+                "Basic Understanding of CSS"
+            ],
+            "description": "<p><strong>The Brand New SASS Course on Udemy!!!</strong></p><p><strong>\"SASS - The Complete SASS Course (CSS Preprocessor)\"</strong></p><p>If you want to learn about the most popular CSS Extension and build modern, beautiful and real world websites, then this is the right course for you. The course covers all you need to know about this awesome technology.</p><p><strong>INCLUDED:</strong></p><p>1. You will start from SASS basic topics, such as how to install SASS compiler, how to create variables and mixins in order to write more concise and flexible code. Also, we will cover topics like: extend, placeholder selectors, functions, imports, partials and much more...</p><p>2. You will build modern and beautiful website - Restaurant \"Georgia\". Project will be created based on basics of SASS. You will learn about how to structure your code using SASS and you will be able to put all the learned stuff together and build the website.</p><p>3. Next we will cover some advanced stuff in SASS. You will be able to learn about SASS data types, Interpolation, loops, IF Directive and much more.</p><p>4. After completing the advanced SASS section, we will build our next project - \"Clothes Store\" based on advanced SASS stuff.  </p><p>5. You will be able to make websites responsive for all screen sizes using some SASS techniques.</p><p>Throughout the course, you will meet detailed explanations about how SASS works, also, you will introduce to modern practices and solutions.</p><p><strong>Get fast and friendly support from instructors 24/7.</strong></p><p><strong>JOIN US!!!</strong></p>",
+            "suitableLearners": [
+                "Everyone who has zero experience in SASS",
+                "Everyone who wants to learn the most popular CSS extension",
+                "Everyone who wants to learn how to build modern and beautiful websites using SASS"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2020-11-02T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2020-11-05T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e82ac9c9b04f3f624d73c"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 849,
+            "studentCount": 18256,
+            "avgRatingScore": 4.2226143,
+            "contentVideoLength": 7018
+        },
+        "basicInfo": {
+            "udemyCourseId": 310072,
+            "slug": "wordpress-for-beginners",
+            "title": "WordPress for Beginners",
+            "subtitle": "A WordPress for beginners complete, easy to follow, step by step guide to creating a complete website using WordPress.",
+            "image": "https://img-b.udemycdn.com/course/240x135/310072_c79c_6.jpg",
+            "price": 458570,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "You will be able to create and configure a fully functional WordPress driven website from scratch",
+                "You will have a thorough understanding of how to setup WordPress within your hosting account",
+                "You will have a thorough understanding of WordPress settings",
+                "You will be able to customize WordPress visually and functionally.",
+                "You will have a thorough understanding of how to structure WordPress to fit your site's needs",
+                "You will be able to manage content within a WordPress site and have a thorough understanding of how it will work and flow.",
+                "You will be able to setup and manage domain name registrations",
+                "You will be able to setup and manage a web hosting account",
+                "You will be able to setup users in WordPress and assign appropriate permissions to allow creating content or managing content",
+                "The goal is to help you get WordPress working, setup, with no previous wordpress experience"
+            ],
+            "requirements": [
+                "How to use a computer and access the Internet"
+            ],
+            "description": "<p>Welcome to WordPress for Beginners !</p><p>  \t  The <strong>WordPress for Beginners Guide</strong> shows you how to setup and create a complete site using WordPress.  This is an easy to follow, simple and straight forward guide that takes you through the process of creating a complete, fully functional and professional website, for any purpose, as a beginner using WordPress.  </p>  <p>  \t  Even if you don't have or know how to obtain a domain name, I show you how to go from step 1 of getting a domain name, all the way to going live with an easy to manage, great looking complete site using WordPress.</p>  <p>  \t<strong>In this extensive, very easy to follow step-by-step wordpress for beginners guide you'll learn:</strong>  </p>  <ul>  \t<li>How to setup and configure a domain name</li>  \t<li>How to setup and configure a hosting account</li>  \t<li>How to install and setup WordPress</li>  \t<li>How to customize WordPress into a fully functional website</li>  \t<li>How to use Plugins in WordPress to enhance your sites capabilities</li>  \t<li>What each setting in WordPress is for and how to configure the settings to make your site work exactly how you want it to</li>  \t<li>How to thoroughly test your new WordPress site and fix issues</li>  \t<li>Going Live with WordPress and your site</li>  </ul>  <p>  \t  This guide is broken down into four (4) easy to digest sections, each with several videos where I take you step by step through the entire process of setting up a website using WordPress.  The course is designed with the WordPress beginner in mind, but I also cover some sections for the total domain and website novice, showing you every step in creating a domain name, hosting, and all the steps to installing and setting up WordPress and customizing it to your liking.  </p>  <p>  \t  This is a \"point and click\" course, meaning you won't be learning complicated HTML or PHP coding, but rather an approach that anyone can master, no matter your experience level.  You can know nothing about setting up a website and within a couple hours have a beautiful and fully functioning website up and running.  </p>  <p>  \t  If you are a beginner to WordPress or even domains/hosting and website creation, you'll benefit from this course immensely.  </p>  <p>  \t  If you're looking for a simple, step-by-step, beginner's guide to setting up a website or WordPress, than this is definitely the course for you.  </p>",
+            "suitableLearners": [
+                "This course is intended for beginners who don't know how to install or configure WordPress ",
+                "If you don't know how to setup a website, this course is a perfect start for you!",
+                "No experience with setting up a website, domain, etc of any kind is required.",
+                "If you're familiar with how to setup a WordPress site and configure it to meet your needs, then this course is probably not for you.",
+                "Anyone wanting to learn wordpress basics",
+                "Anyone who wants to learn to setup wordpress",
+                "Anyone who wants to start hosting their own WordPress site"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2016-03-15T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2016-03-18T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e82ac9c9b04f3f624d73c"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 790,
+            "studentCount": 4282,
+            "avgRatingScore": 4.590945,
+            "contentVideoLength": 9754
+        },
+        "basicInfo": {
+            "udemyCourseId": 635272,
+            "slug": "adobe-photoshop-cc-web-design-responsive-design-ui",
+            "title": "Adobe Photoshop CC - Web Design, Responsive Design & UI",
+            "subtitle": "Learn how to design a professional quality website in Photoshop CC.",
+            "image": "https://img-c.udemycdn.com/course/240x135/635272_5c6d_4.jpg",
+            "price": 2064370,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Take on paid commercial web design projects.",
+                "Design professional web design mockups using Photoshop. ",
+                "Create web designs for mobile, tablets and desktop.",
+                "Present your concepts on actual mobile devices.",
+                "Supply files to a web developer. "
+            ],
+            "requirements": [
+                "No previous experience in Photoshop is necessary. ",
+                "You will need a copy of Photoshop CC 2015 installed. Free trials can be downloads from Adobe"
+            ],
+            "description": "<p><strong>Hi - my name is Dan and I’ll be leading you through this course on how to Build Professional Website Mockups using Photoshop. This course is for people serious about making money building professional website mockups using Photoshop. </strong></p>\n\n<p>These are the skills employers want. UI/UX design skills are where the high paying jobs are at.  </p>\n\n\n\n\n\n\n\n<p>I built this course for beginners. For the people nervous about changing their careers into web design - as well as for developers who lack any design skills. No experience in Photoshop or web design is necessary before taking this class. </p>\n\n\n\n\n\n\n\n<p>During the course we’ll create this website for a mock creative agency - creating mobile and desktop versions.    With exercise files you can download and work along with me. While we’ll start right at the basics we’ll move quickly into the professional tricks of the trade. </p>\n\n\n\n\n\n\n\n<p>This course is a mixture of head and shoulders style presentations and HD screen captures. The course also includes printable notes as well as quizzes to help retain what you have learnt. </p>\n\n\n\n\n\n\n\n<p> I’ll be teaching you how to setup your new documents. How to work with mobile, tablet and desktop views.  You’ll be able to easily pick web safe colours and fonts for your website and preview them on your iPhone or iPad. You’ll learn how to crop images and make full backgrounds all the way through to exporting all the right files for your website. Know that I’ll be around to help - when you’re ready you can send me your work and I’ll see if they are any suggestions I can offer.  </p>\n\n\n\n\n\n\n\n<p> If you’ve ever wondered <strong>how to design a website in Photoshop</strong> than this is the course for you. </p>\n\n\n\n\n\n\n\n<p>Now it’s time to upgrade your skills, get that better job and impress your clients.  </p>",
+            "suitableLearners": [
+                "This course is for people who want to start earning money as a web designer.",
+                "This course is for beginners wanting to learn to use Photoshop for web design. ",
+                "This course is not intended for people wanting to learn Photoshop for graphic design or photography uses."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2019-07-21T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2019-07-24T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 298220,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e82ac9c9b04f3f624d73c"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 772,
+            "studentCount": 31461,
+            "avgRatingScore": 4.065094,
+            "contentVideoLength": 5465
+        },
+        "basicInfo": {
+            "udemyCourseId": 3147068,
+            "slug": "learn-figma-for-web-design-user-interface-ui-ux-in-an-hour",
+            "title": "Learn Figma for Web Design, User Interface, UI UX in an hour",
+            "subtitle": "Learn Figma to design Beautiful App, Web designs, UI UX Design. User Interface, Prototyping for virtual App Experience",
+            "image": "https://img-c.udemycdn.com/course/240x135/3147068_6613_7.jpg",
+            "price": 1261470,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "All about Figma, How to use Tools, Design Essential",
+                "Graphic Design, wireframes, UX UI design",
+                "Creating a Virtual App experience",
+                "Modern App and Web Design"
+            ],
+            "requirements": [
+                "Laptop/Computer and Internet connection",
+                "Nothing more, Just your Curiosity"
+            ],
+            "description": "<p>Learn the most important Skill of 2020, Graphic design in Figma in just an Hour!</p><p>Taught by a Professional Web Designer who has his own multiple startups.</p><p>Figma is the best tool to start your design career and fill your Passion for design. </p><p>With it you can do UI UX Design, Graphical User Interface, Web Design, Wireframe, User Interface, Icon, Logo design, Graphic Design all in Figma!</p><p>It is simple to use, is portable, ultra-light, and has amazing features to give your creativity wings!</p><p>You will know why Figma is much better than other Softwares and why you should be using it to help you become a better designer, SO you keep designing and leave the worries to Figma!</p>",
+            "suitableLearners": [
+                "New designers, new to design",
+                "Beginner designer",
+                "Someone curious to learn Design in the simplest way",
+                "college students",
+                "University students"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2020-08-08T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2020-08-11T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e82ac9c9b04f3f624d73c"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 729,
+            "studentCount": 7590,
+            "avgRatingScore": 4.5253277,
+            "contentVideoLength": 78749
+        },
+        "basicInfo": {
+            "udemyCourseId": 3598684,
+            "slug": "10-mega-responsive-websites-with-html-css-and-javascript",
+            "title": "10 Mega Responsive Websites with HTML, CSS, and JavaScript",
+            "subtitle": "HTML, CSS, and JavaScript. Build 10 Big and Complete Responsive Websites with HTML, CSS, and JavaScript",
+            "image": "https://img-b.udemycdn.com/course/240x135/3598684_c319_5.jpg",
+            "price": 458570,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "10 Projects with pure HTML, CSS, and JavaScript",
+                "Modern Techniques and Tricks",
+                "Modern HTML5, CSS3, and JavaScript Features",
+                "CSS3 Animations, Transforms, and Transitions",
+                "How to create Modern Web Design Templates"
+            ],
+            "requirements": [
+                "Text Editor",
+                "Modern Web Browser",
+                "Basic knowledge of HTML, CSS, and JavaScript"
+            ],
+            "description": "<p><strong>THE #1 BEST SELLING COURSE IN WEB DESIGN / WEB DEVELOPMENT CATEGORY</strong></p><p><strong>10 Mega Responsive Websites with HTML, CSS, and JavaScript...</strong></p><p>Welcome to the brand new course where you can learn about how to create modern and beautiful design templates for your websites.</p><p>If you want to build and customize your portfolio, become an experienced developer, and get hired, then this is the right course for you.</p><p>We will build together 10 mega and complete responsive websites with three core technologies HTML, CSS, and JS. If you have some basic knowledge of these technologies and still you have some trouble building the websites or if you want to level up your developer and designer skills, then you’ve come to the right place.</p><p>We created this course in order to give students the best experience in three core technologies and give them the opportunity to create the best-designed templates that will allow them to excite their clients.</p><p>We will build 10 different complete websites and not only the parts of them from scratch. They will be full of modern, nice, and beautiful effects and designs. We will start with relatively simple projects and we will go through some advanced parts as well. We can guarantee you that you will master the front end web development after completing this course.</p><p>Using this course you can get the inspirations that will help you to enhance your projects and put them in your portfolio.</p><p>Mastering just these core technologies of front-end web development you can create awesome and modern themes and simply get hired. Also, you will have enough knowledge to move on and learn other technologies like some front-end frameworks and libraries, which nowadays are really popular and highly demanded.</p><p><strong>PROJECT 1 - FOODS</strong></p><p><strong>PROJECT 2 - CREATIVE DESIGN</strong></p><p><strong>PROJECT 3 - BUSINESS AGENCY WEBSITE</strong></p><p><strong>PROJECT 4 - APPLE E-COMMERCE</strong></p><p><strong>PROJECT 5 - PERSONAL PORTFOLIO</strong></p><p><strong>PROJECT 6 - CLASSIC CARS</strong></p><p><strong>PROJECT 7 - ARCHITECT WEBSITE</strong></p><p><strong>PROJECT 8 - THE ROAD</strong></p><p><strong>PROJECT 9 - THE WINE HOUSE</strong></p><p><strong>PROJECT 10 - PAYPAL CLONE</strong></p><p><br></p><p>JOIN US!!!</p>",
+            "suitableLearners": [
+                "Students who want to practice in three core technologies - HTML, CSS, and JavaScript",
+                "Students who have the basic knowledge of Front End Web Development and want to develop their skills",
+                "Students who want develop Web Design skills"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-05-25T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-05-28T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e82ac9c9b04f3f624d73c"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 726,
+            "studentCount": 28357,
+            "avgRatingScore": 4.359508,
+            "contentVideoLength": 7954
+        },
+        "basicInfo": {
+            "udemyCourseId": 790818,
+            "slug": "how-to-make-a-profitable-wordpress-website-step-by-step-2016",
+            "title": "How To Make A Profitable Wordpress Website Step By Step 2016",
+            "subtitle": "Properly step-up a WordPress website to gain subscribers, leads and customers!",
+            "image": "https://img-b.udemycdn.com/course/240x135/790818_b798.jpg",
+            "price": 458570,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Create a full functioning WordPress website that is properly setup to drive website traffic, stimulate leads, customers and ultimately generate cash-flow! ",
+                "Create a full functioning blog that will engage and wow your audience!",
+                "Add YouTube videos to your website!",
+                "Add your photo gallery to your website!",
+                "Create a lead magnet to tap into the pinpoints of your audience leaving them hungry for more!",
+                "Install our 5 free must have plugins to drive more free traffic customers and cash-flow!",
+                " Get started with email marketing to deeply connect with your subscribers turing them into paying customers!"
+            ],
+            "requirements": [
+                "Nothing is required to get started! Although you will be learning some new concepts and when learning something new this can cause fear and overwhelm! It’s import that you step into this knowing that the “start stops most people”  I ask that you just be aware of this and realize anything that feels uncomfortable is a good thing…  You are stepping out of the box and learning a new skill set! This is the only way to grow and i just part of the deal with trying something new.. Go through the videos a couple of times to learn the concepts then proceed to apply them.. Remember eduction that is not applied is useless..  I will leave you with this, a quote from Joseph Campbell “The cave you fear to enter holds the treasure you seek”"
+            ],
+            "description": "<p>Awesome! Learn how to make a profitable website &amp; blog. To Start your own website &amp; blog doesn’t have to be an epic challenge. </p><p>Whether you want a website for personal reasons or in order to run an online business, you will find that there are some ways to make the process of creating a website faster and easier! </p><p>With our expert tips at the ready, you’ll be able to create your own website without investing too much time, energy and money, and you’ll be primed to attract an audience in no time flat. </p><p>Create Your Own Website with Wordpress</p><p>You definitely do not need to be a tech wizard when it comes to creating your own website. Instead, you simply need to know the most streamlined steps to follow! When you choose the right interface, the process will move quickly and it will be extremely efficient and straightforward. </p><p>In case you didn’t know, the most impressive platform for creating your own website is Wordpress. </p><p>This free (and world-famous!) application allows website creation newbies, intermediates and experts alike to create new websites, just by pointing and clicking (and doing a little copying and pasting!). </p><p>When you choose Wordpress, you’ll empower yourself, as this intuitive platform offers customizable options galore, all of which will make it simple to give your new website tons of functionality, as well as plenty of personalized style and panache!</p><p>What You Need to Know about Wordpress</p><p>Wordpress is relied upon by almost everyone these days. In other words, “webmasters” from the world’s richest, most successful corporations utilize Wordpress in order to design and run websites – however, so do millions of others, from start-up entrepreneurs to mid-size business owners and beyond! </p><p>You may be wondering why Wordpress has risen to the top, when so many competing applications are also out there? Well, the answer is that Wordpress is very user-friendly… primarily due to the WYSIWYG philosophy of its developers! WYSIWYG is an acronym which stands for “what you see is what you get”! </p><p>With regard to Wordpress, navigating and then selecting Web design elements will always be a total breeze, as the system is very easy to understand. In other words, it’s been created with your ease and convenience in mind! </p><p>In addition, the team at Wordpress provide a range of educational materials within the interface itself, so accessing immediate answers, advice and tips will be completely stress-free.</p><p>Website Creation Is a Three-step Process</p><p>Now that you understand the value of Wordpress, let’s talk about the three steps which must be taken in order to get a website operational! First, you’ll need to choose and register your “url” (website address), which may also be referred to as a domain name. Your domain name will be “hosted” by a company which specializes in this service – Hostgator dot com is an example of a reputable, affordable and popular hosting company. </p><p>Second, you’ll need to begin designing your website, with the help of the Wordpress application. During this step, you may publish your work, after creating a Web design which suits your needs. </p><p>The third and final step is “going live” by putting your new website out there on the World Wide Web. When you do so, people will be able to enjoy what you’ve created right away! Your hosting company will make sure that your website is viewable by everyone who drops by – just let its reps know that your new website design is complete. </p><p>Hopefully, our guide has demystified the process of how to create a website. So, why not create your own website today?</p>",
+            "suitableLearners": [
+                "This course is specifically designed with the absolute beginner in mind! I have put together the best information I know in terms of creating a profitable WordPress website that is setup properly to drive search engine traffic, capture leads and create new customers! Truly anyone can get started with this course, and create an amazing website!",
+                "entrepreneurs, aspiring entrepreneurs, consultants, coaches, trainers, Udemy instructors, digital marketing experts who are good with marketing, but with no technical experience , and anyone who wants to create a killer profitable website"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2020-10-18T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2020-10-21T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e82ac9c9b04f3f624d73c"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 714,
+            "studentCount": 2306,
+            "avgRatingScore": 4.6750126,
+            "contentVideoLength": 12407
+        },
+        "basicInfo": {
+            "udemyCourseId": 2841584,
+            "slug": "learn-adobe-xd-webdesign-design-websites-from-zero-ux-ui",
+            "title": "Learn Adobe Xd Webdesign: Design websites from zero: UX & UI",
+            "subtitle": "Become an efficient Adobe Xd Webdesigner by using my Copy & Paste workflow method",
+            "image": "https://img-c.udemycdn.com/course/240x135/2841584_6ba0_2.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Design full websites from begin to end in Adobe Xd",
+                "How to get images, color pallets and icons for free",
+                "You will be able to add Xd Designer to your CV",
+                "How to have a great workflow optimised for speed & quality",
+                "How to make a style-guide for your website",
+                "How to make a quick prototype that you can share",
+                "How to record your design while scrolling through it"
+            ],
+            "requirements": [
+                "You will need to have Adobe XD. A free trial can be downloaded from Adobe",
+                "Besides that, nothing. No previous Adobe XD skills are needed"
+            ],
+            "description": "<p><em>Is Adobe Xd really better than Photoshop when it comes to webdesign?<br></em><strong><br>The problem<br></strong>The problem with designing websites in older design tools (like Photoshop or Illustrator) is that these tools don't have the features that UX/UI&nbsp;designers really need to help them designing websites. Like working with color pallets, font style guides and repeating elements. Or things like sharing your work via prototypes. These old software tools are also not vector, which can be an issue for development.&nbsp; </p><p><strong><br>What is the solution?</strong><br>Working with Adobe Xd! Because Adobe Xd was built with UI/UX designers in mind. This means that Adobe has done everything to make sure that you can design and share your work without limitations. The only thing you have to do is prepare a few things upfront and then re-use your elements on the whole website.&nbsp; </p><p><strong><br>What if I don't have any design elements?</strong><br>In this course was build for people who only have Adobe Xd on their computer. I will give you my design files to practice and I will give you websites where you can get fonts, colors and images for free (for your next project). </p><p><strong><br>The opportunity<br></strong>Learning how to design websites comes with huge opportunities. You will be able to design your own website (like I do in this course) or design websites for other people or businesses. This makes website creation a hugely profitable skill. Companies are willing to spend thousands of dollars for each website. </p><p><strong><br>Why is this course different?</strong><br>Most Adobe Xd courses on this platform focus on App Design. This is cool and very fancy, but I like a more realistic approach. Because from my experience an UI/UX&nbsp;designer doesn't start his first interface design project for a cool startup.&nbsp;We start by designing websites for web and mobile. This is why I believe this course is very different from most of the courses about Adobe Xd. Again, app design is fancy, but I like to give you a skill that you can actually start using next week (because you probably already know a few people who need a redesign for their current website, don't you?).</p><p><strong><br>Step by step<br></strong>In this course we are not going to rush and design a quick cool website without learning the basics first. There is enough of that on the internet. I am going to show you a real project where I'm going to start from scratch and slowly built up 4 pages in Adobe XD. This means that I will show you all the steps, from the first title to the last button.</p><p>Once we progress in the course (and you've seen the same techniques over and over) we will slowly start increasing the speed so will also be able to speed up your skills by watching this course. <br></p><p><strong>Reviews from others</strong><br>\"I watch your videos and I get inspired every time because of your work/design.\" - Sam<br>\"Your channel has inspired me to start designing myself.\" - Jordy<br>\"I can't wait until the next video. I am following you for 4 years already and I've learned how to design this way :)\" - Floor<br></p><p><strong>Buy without any risk<br></strong>If you really don't like my course, then that's not a problem. You can just ask your money back with the 30-Day Money-Back Guarantee that this website offers. This makes it possible for everybody to hop on the course. </p><p>Sign up for the course and you can start right away! </p>",
+            "suitableLearners": [
+                "Beginning Adobe Xd users who want to design websites more efficiently"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-02-02T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-02-05T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    }
+]

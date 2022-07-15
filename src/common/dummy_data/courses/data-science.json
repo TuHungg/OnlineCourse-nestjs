@@ -1,0 +1,1231 @@
+[{
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "6255171e87671dccf53fbc3d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4908,
+            "studentCount": 29123,
+            "avgRatingScore": 4.635079,
+            "contentVideoLength": 36402
+        },
+        "basicInfo": {
+            "udemyCourseId": 977062,
+            "slug": "scala-and-spark-for-big-data-and-machine-learning",
+            "title": "Scala and Spark for Big Data and Machine Learning",
+            "subtitle": "Learn the latest Big Data technology - Spark and Scala, including Spark 2.0 DataFrames!",
+            "image": "https://img-c.udemycdn.com/course/240x135/977062_019b_2.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Use Scala for Programming",
+                "Use Spark 2.0 DataFrames to read and manipulate data",
+                "Use Spark to Process Large Datasets",
+                "Understand hot to use Spark on AWS and DataBricks"
+            ],
+            "requirements": [
+                "Basic Programming Knowledge in some language",
+                "Basic Math Skills",
+                "English Language"
+            ],
+            "description": "<p>Learn how to utilize some of the most valuable tech skills on the market today, <strong>Scala and Spark</strong>! In this course we will show you how to use Scala and Spark to analyze Big Data.<br></p>\n\n\n\n<p>Scala and Spark are two of the most in demand skills right now, and with this course you can learn them quickly and easily! This course comes packed with content:</p>\n\n\n\n\n\n\n\n<ul><li>Crash Course in Scala Programming</li><li>Spark and Big Data Ecosystem Overview</li><li>Using Spark's MLlib for Machine Learning </li><li>Scale up Spark jobs using Amazon Web Services</li><li>Learn how to use Databrick's Big Data Platform</li><li>and much more!</li></ul>\n\n\n\n\n\n\n\n<p>This course comes with full projects for you including topics such as analyzing financial data or using machine learning to classify Ecommerce customer behavior! We teach the latest methodologies of <strong>Spark 2.0</strong> so you can learn how to use SparkSQL, Spark DataFrames, and Spark's MLlib!</p>\n\n\n\n\n\n\n\n<p>After completing this course you will feel comfortable putting Scala and Spark on your resume!</p>\n\n\n\n\n\n\n\n<p>Thanks and I will see you inside the course!</p>",
+            "suitableLearners": [
+                "Someone who already knows how to program and is interested in learning Big Data Technologies",
+                "Interested in using Spark with Scala for Machine Learning with Large Data Sets"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2019-09-04T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2019-09-07T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "6255171e87671dccf53fbc3d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4759,
+            "studentCount": 28556,
+            "avgRatingScore": 4.3385653,
+            "contentVideoLength": 62179
+        },
+        "basicInfo": {
+            "udemyCourseId": 1382702,
+            "slug": "the-complete-machine-learning-course-with-python",
+            "title": "The Complete Machine Learning Course with Python",
+            "subtitle": "Build a Portfolio of 12 Machine Learning Projects with Python, SVM, Regression, Unsupervised Machine Learning & More!",
+            "image": "https://img-c.udemycdn.com/course/240x135/1382702_a351.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Machine Learning Engineers earn on average $166,000 - become an ideal candidate with this course!",
+                "Solve any problem in your business, job or personal life with powerful Machine Learning models",
+                "Train machine learning algorithms to predict house prices, identify handwriting, detect cancer cells & more",
+                "Go from zero to hero in Python, Seaborn, Matplotlib, Scikit-Learn, SVM, unsupervised Machine Learning etc"
+            ],
+            "requirements": [
+                "Basic Python programming knowledge is necessary",
+                "Good understanding of linear algebra"
+            ],
+            "description": "<p>The <em>Complete Machine Learning Course in Python</em> has been <strong>FULLY UPDATED for November 2019</strong>!</p><p>With <strong>brand new sections</strong> as well as <strong>updated and improved content</strong>, you get everything you need to master Machine Learning in one course! The machine learning field is constantly evolving, and we want to make sure students have the most up-to-date information and practices available to them:</p><p><strong>Brand new sections include:</strong></p><ul><li><p><strong>Foundations of Deep Learning</strong> covering topics such as the difference between classical programming and machine learning, differentiate between machine and deep learning, the building blocks of neural networks, descriptions of tensor and tensor operations, categories of machine learning and advanced concepts such as over- and underfitting, regularization, dropout, validation and testing and much more.</p></li><li><p><strong>Computer Vision</strong> in the form of Convolutional Neural Networks covering building the layers, understanding filters / kernels, to advanced topics such as transfer learning, and feature extractions.</p></li></ul><p><strong>And the following sections have all been improved and added to</strong>:</p><ul><li><p>All the codes have been updated to work with Python 3.6 and 3.7</p></li><li><p>The codes have been refactored to work with Google Colab</p></li><li><p>Deep Learning and NLP</p></li><li><p>Binary and multi-class classifications with deep learning</p></li></ul><p>Get the most up to date machine learning information possible, and get it in a single course!&nbsp;</p><p><br></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*</p><p><br></p><p><strong>The average salary of a Machine Learning Engineer in the US is $166,000!</strong> By the end of this course, you will have a<strong> Portfolio of 12 Machine Learning projects</strong> that will help you land your dream job or enable you to solve real life problems in your business, job or personal life with Machine Learning algorithms.</p><p><strong>Come learn Machine Learning with Python</strong>&nbsp;this exciting course with Anthony NG, a <strong>Senior Lecturer in&nbsp;Singapore </strong>who has followed Rob Percival’s “project based\" teaching style to bring you this hands-on course.</p><p>With <strong>over 18&nbsp;hours of content and more than fifty&nbsp;5 star&nbsp;ratings</strong>, it's already the longest and best rated Machine Learning course on Udemy!</p><p><strong>Build Powerful Machine Learning Models to Solve Any Problem</strong></p><p>You'll go from beginner to extremely high-level and your instructor will build each algorithm with you step by step on screen.</p><p>By the end of the course, you will have trained machine learning algorithms to classify flowers, predict house price, identify handwritings or digits, identify staff that is most likely to leave prematurely, detect cancer cells and much more! </p><p><strong>Inside the course, you'll learn how to:</strong></p><ul><li><p>Gain <strong>complete machine learning tool sets</strong> to tackle most real world problems</p></li><li><p>Understand the various <strong>regression, classification and other ml algorithms</strong> performance metrics such as R-squared, MSE, accuracy, confusion matrix, prevision, recall, etc. and when to use them.</p></li><li><p>Combine multiple models with by <strong>bagging, boosting or stacking</strong></p></li><li><p>Make use to <strong>unsupervised Machine Learning</strong> (ML) algorithms such as Hierarchical clustering, k-means clustering etc. to understand your data</p></li><li><p>Develop in <strong>Jupyter (IPython) notebook, Spyder and various IDE</strong></p></li><li><p>Communicate visually and effectively with <strong>Matplotlib</strong> and <strong>Seaborn</strong></p></li><li><p>Engineer new features to<strong> improve algorithm predictions</strong></p></li><li><p>Make use of t<strong>rain/test, K-fold and Stratified K-fold cross validation</strong> to select correct model and predict model perform with unseen data</p></li><li><p>Use <strong>SVM</strong> for handwriting recognition, and classification problems in general</p></li><li><p>Use <strong>decision trees</strong> to predict staff attrition</p></li><li><p>Apply the <strong>association rule</strong> to retail shopping datasets</p></li><li><p>And much much more!</p></li></ul><p><strong>No Machine Learning required.</strong> Although having some basic Python experience would be helpful, no prior Python knowledge is necessary as all the codes will be provided and the instructor will be going through them line-by-line&nbsp;and you get friendly support in the Q&amp;A area.&nbsp;</p><p><strong>Make This Investment in Yourself</strong><br></p><p>If you&nbsp;want to ride the machine learning wave and enjoy the salaries that data scientists make, then this is the course for you!</p><p>Take this course and become a machine learning engineer!</p>",
+            "suitableLearners": [
+                "Anyone willing and interested to learn machine learning algorithm with Python",
+                "Any one who has a deep interest in the practical application of machine learning to real world problems",
+                "Anyone wishes to move beyond the basics and develop an understanding of the whole range of machine learning algorithms",
+                "Any intermediate to advanced EXCEL users who is unable to work with large datasets",
+                "Anyone interested to present their findings in a professional and convincing manner",
+                "Anyone who wishes to start or transit into a career as a data scientist",
+                "Anyone who wants to apply machine learning to their domain"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2020-01-20T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2020-01-23T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "6255171e87671dccf53fbc3d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4636,
+            "studentCount": 346281,
+            "avgRatingScore": 4.5060062,
+            "contentVideoLength": 125997
+        },
+        "basicInfo": {
+            "udemyCourseId": 3288036,
+            "slug": "machine-learning-deep-learning-in-python-r",
+            "title": "Machine Learning & Deep Learning in Python & R",
+            "subtitle": "Covers Regression, Decision Trees, SVM, Neural Networks, CNN, Time Series Forecasting and more using both Python & R",
+            "image": "https://img-c.udemycdn.com/course/240x135/3288036_2b5c_4.jpg",
+            "price": 687970,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Learn how to solve real life problem using the Machine learning techniques",
+                "Machine Learning models such as Linear Regression, Logistic Regression, KNN etc.",
+                "Advanced Machine Learning models such as Decision trees, XGBoost, Random Forest, SVM etc.",
+                "Understanding of basics of statistics and concepts of Machine Learning",
+                "How to do basic statistical operations and run ML models in Python",
+                "Indepth knowledge of data collection and data preprocessing for Machine Learning problem",
+                "How to convert business problem into a Machine learning problem"
+            ],
+            "requirements": [
+                "Students will need to install Anaconda software but we have a separate lecture to guide you install the same"
+            ],
+            "description": "<p>You're looking for a complete <strong>Machine Learning and Deep Learning course</strong> that can help you launch a flourishing career in the field of Data Science, Machine Learning, Python, R or Deep Learning, right?</p><p><strong>You've found the right Machine Learning course!</strong></p><p>After completing this course <strong>you will be able to</strong>:</p><p>· Confidently build predictive Machine Learning and Deep Learning models using R, Python to solve business problems and create business strategy</p><p>· Answer Machine Learning, Deep Learning, R, Python related interview questions</p><p>· Participate and perform in online Data Analytics and Data Science competitions such as Kaggle competitions</p><p>Check out the table of contents below to see what all Machine Learning and Deep Learning models you are going to learn.</p><p><strong>How this course will help you?</strong></p><p>A <strong>Verifiable Certificate of Completion</strong> is presented to all students who undertake this Machine learning basics course.</p><p>If you are a business manager or an executive, or a student who wants to learn and apply machine learning and deep learning concepts in Real world problems of business, this course will give you a solid base for that by teaching you the most popular techniques of machine learning and deep learning. You will also get exposure to data science and data analysis tools like R and Python.</p><p><strong>Why should you choose this course?</strong></p><p>This course covers all the steps that one should take while solving a business problem through linear regression. It also focuses Machine Learning and Deep Learning techniques in R and Python.</p><p>Most courses only focus on teaching how to run the data analysis but we believe that what happens before and after running data analysis is even more important i.e. before running data analysis it is very important that you have the right data and do some pre-processing on it. And after running data analysis, you should be able to judge how good your model is and interpret the results to actually be able to help your business. Here comes the importance of machine learning and deep learning. Knowledge on data analysis tools like R, Python play an important role in these fields of Machine Learning and Deep Learning.</p><p><strong>What makes us qualified to teach you?</strong></p><p>The course is taught by Abhishek and Pukhraj. As managers in Global Analytics Consulting firm, we have helped businesses solve their business problem using machine learning techniques and we have used our experience to include the practical aspects of data analysis in this course. We have an in-depth knowledge on Machine Learning and Deep Learning techniques using data science and data analysis tools R, Python.</p><p>We are also the creators of some of the most popular online courses - with over 600,000 enrollments and thousands of 5-star reviews like these ones:</p><p><em>This is very good, i love the fact the all explanation given can be understood by a layman - Joshua</em></p><p><em>Thank you Author for this wonderful course. You are the best and this course is worth any price. - Daisy</em></p><p><strong>Our Promise</strong></p><p>Teaching our students is our job and we are committed to it. If you have any questions about the course content, practice sheet or anything related to any topic, you can always post a question in the course or send us a direct message. We aim at providing best quality training on data science, machine learning, deep learning using R and Python through this machine learning course.</p><p><strong>Download Practice files, take Quizzes, and complete Assignments</strong></p><p>With each lecture, there are class notes attached for you to follow along. You can also take quizzes to check your understanding of concepts on data science, machine learning, deep learning using R and Python. Each section contains a practice assignment for you to practically implement your learning on data science, machine learning, deep learning using R and Python.</p><p><strong>Table of Contents</strong></p><ul><li><p><strong>Section 1 - Python basic</strong></p></li></ul><p>This section gets you started with Python.</p><p>This section will help you set up the python and Jupyter environment on your system and it'll teach you how to perform some basic operations in Python. We will understand the importance of different libraries such as Numpy, Pandas &amp; Seaborn. Python basics will lay foundation for gaining further knowledge on data science, machine learning and deep learning.</p><ul><li><p><strong>Section 2 - R basic</strong></p></li></ul><p>This section will help you set up the R and R studio on your system and it'll teach you how to perform some basic operations in R. Similar to Python basics, R basics will lay foundation for gaining further knowledge on data science, machine learning and deep learning.</p><ul><li><p><strong>Section 3 - Basics of Statistics</strong></p></li></ul><p>This section is divided into five different lectures starting from types of data then types of statistics then graphical representations to describe the data and then a lecture on measures of center like mean median and mode and lastly measures of dispersion like range and standard deviation. This part of the course is instrumental in gaining knowledge data science, machine learning and deep learning in the later part of the course.</p><ul><li><p><strong>Section 4 - Introduction to Machine Learning</strong></p></li></ul><p>In this section we will learn - What does Machine Learning mean. What are the meanings or different terms associated with machine learning? You will see some examples so that you understand what machine learning actually is. It also contains steps involved in building a machine learning model, not just linear models, any machine learning model.</p><ul><li><p><strong>Section 5 - Data Preprocessing</strong></p></li></ul><p>In this section you will learn what actions you need to take step by step to get the data and then prepare it for the analysis these steps are very important. We start with understanding the importance of business knowledge then we will see how to do data exploration. We learn how to do uni-variate analysis and bivariate analysis then we cover topics like<strong> outlier treatment, missing value imputation, variable transformation and correlation.</strong></p><ul><li><p><strong>Section 6 - Regression Model</strong></p></li></ul><p>This section starts with simple linear regression and then covers multiple linear regression.</p><p>We have covered the basic theory behind each concept without getting too mathematical about it so that you understand where the concept is coming from and how it is important. But even if you don't understand it, it will be okay as long as you learn how to run and interpret the result as taught in the practical lectures.</p><p>We also look at how to quantify models accuracy, what is the meaning of F statistic, how categorical variables in the independent variables dataset are interpreted in the results, what are other variations to the ordinary least squared method and how do we finally interpret the result to find out the answer to a business problem.</p><ul><li><p><strong>Section 7 - Classification Models</strong></p></li></ul><p>This section starts with Logistic regression and then covers Linear Discriminant Analysis and K-Nearest Neighbors.</p><p>We have covered the basic theory behind each concept without getting too mathematical about it so that you</p><p>understand where the concept is coming from and how it is important. But even if you don't understand</p><p>it, it will be okay as long as you learn how to run and interpret the result as taught in the practical lectures.</p><p>We also look at how to quantify models performance using confusion matrix, how categorical variables in the independent variables dataset are interpreted in the results, test-train split and how do we finally interpret the result to find out the answer to a business problem.</p><ul><li><p><strong>Section 8 - Decision trees</strong></p></li></ul><p>In this section, we will start with the basic theory of decision tree then we will create and plot a simple Regression decision tree<strong>.</strong> Then we will expand our knowledge of regression Decision tree to classification trees, we will also learn how to create a classification tree in Python and R</p><ul><li><p><strong>Section 9 - Ensemble technique</strong></p></li></ul><p>In this section, we will start our discussion about advanced ensemble techniques for Decision trees. Ensembles techniques are used to improve the stability and accuracy of machine learning algorithms. We will discuss Random Forest, Bagging, Gradient Boosting, AdaBoost and XGBoost.</p><ul><li><p><strong>Section 10 - Support Vector Machines</strong></p></li></ul><p>SVM's are unique models and stand out in terms of their concept<strong>. </strong>In this section, we will discussion about support vector classifiers and support vector machines.</p><ul><li><p><strong>Section 11 - ANN Theoretical Concepts</strong></p></li></ul><p>This part will give you a solid understanding of concepts involved in Neural Networks.</p><p>In this section you will learn about the single cells or Perceptrons and how Perceptrons are stacked to create a network architecture. Once architecture is set, we understand the Gradient descent algorithm to find the minima of a function and learn how this is used to optimize our network model.</p><ul><li><p><strong>Section 12 - Creating ANN model in Python and R</strong></p></li></ul><p>In this part you will learn how to create ANN models in Python and R.</p><p>We will start this section by creating an ANN model using Sequential API to solve a classification problem. We learn how to define network architecture, configure the model and train the model. Then we evaluate the performance of our trained model and use it to predict on new data. Lastly we learn how to save and restore models.</p><p>We also understand the importance of libraries such as Keras and TensorFlow in this part.</p><ul><li><p><strong>Section 13 - CNN Theoretical Concepts</strong></p></li></ul><p>In this part you will learn about convolutional and pooling layers which are the building blocks of CNN models.</p><p>In this section, we will start with the basic theory of convolutional layer, stride, filters and feature maps. We also explain how gray-scale images are different from colored images. Lastly we discuss pooling layer which bring computational efficiency in our model.</p><ul><li><p><strong>Section 14 - Creating CNN model in Python and R</strong></p></li></ul><p>In this part you will learn how to create CNN models in Python and R.</p><p>We will take the same problem of recognizing fashion objects and apply CNN model to it. We will compare the performance of our CNN model with our ANN model and notice that the accuracy increases by 9-10% when we use CNN. However, this is not the end of it. We can further improve accuracy by using certain techniques which we explore in the next part.</p><ul><li><p><strong>Section 15 - End-to-End Image Recognition project in Python and R</strong></p></li></ul><p>In this section we build a complete image recognition project on colored images.</p><p>We take a Kaggle image recognition competition and build CNN model to solve it. With a simple model we achieve nearly 70% accuracy on test set. Then we learn concepts like Data Augmentation and Transfer Learning which help us improve accuracy level from 70% to nearly 97% (as good as the winners of that competition).</p><ul><li><p><strong>Section 16 - Pre-processing Time Series Data</strong></p></li></ul><p>In this section, you will learn how to visualize time series, perform feature engineering, do re-sampling of data, and various other tools to analyze and prepare the data for models</p><ul><li><p><strong>Section 17 - Time Series Forecasting</strong></p></li></ul><p>In this section, you will learn common time series models such as Auto-regression (AR), Moving Average (MA), ARMA, ARIMA, SARIMA and SARIMAX.</p><p>By the end of this course, your confidence in creating a Machine Learning or Deep Learning model in Python and R will soar. You'll have a thorough understanding of how to use ML/ DL models to create predictive models and solve real world business problems.</p><p>Below is a list of popular<strong> FAQs </strong>of students who want to start their Machine learning journey-</p><p><strong>What is Machine Learning?</strong></p><p>Machine Learning is a field of computer science which gives the computer the ability to learn without being explicitly programmed. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.</p><p><strong>Why use Python for Machine Learning?</strong></p><p>Understanding Python is one of the valuable skills needed for a career in Machine Learning.</p><p>Though it hasn’t always been, Python is the programming language of choice for data science. Here’s a brief history:</p><p>In 2016, it overtook R on Kaggle, the premier platform for data science competitions.</p><p>In 2017, it overtook R on KDNuggets’s annual poll of data scientists’ most used tools.</p><p>In 2018, 66% of data scientists reported using Python daily, making it the number one tool for analytics professionals.</p><p>Machine Learning experts expect this trend to continue with increasing development in the Python ecosystem. And while your journey to learn Python programming may be just beginning, it’s nice to know that employment opportunities are abundant (and growing) as well.</p><p><strong>Why use R for Machine Learning?</strong></p><p>Understanding R is one of the valuable skills needed for a career in Machine Learning. Below are some reasons why you should learn Machine learning in R</p><p>1. It’s a popular language for Machine Learning at top tech firms. Almost all of them hire data scientists who use R. Facebook, for example, uses R to do behavioral analysis with user post data. Google uses R to assess ad effectiveness and make economic forecasts. And by the way, it’s not just tech firms: R is in use at analysis and consulting firms, banks and other financial institutions, academic institutions and research labs, and pretty much everywhere else data needs analyzing and visualizing.</p><p>2. Learning the data science basics is arguably easier in R. R has a big advantage: it was designed specifically with data manipulation and analysis in mind.</p><p>3. Amazing packages that make your life easier. Because R was designed with statistical analysis in mind, it has a fantastic ecosystem of packages and other resources that are great for data science.</p><p>4. Robust, growing community of data scientists and statisticians. As the field of data science has exploded, R has exploded with it, becoming one of the fastest-growing languages in the world (as measured by StackOverflow). That means it’s easy to find answers to questions and community guidance as you work your way through projects in R.</p><p>5. Put another tool in your toolkit. No one language is going to be the right tool for every job. Adding R to your repertoire will make some projects easier – and of course, it’ll also make you a more flexible and marketable employee when you’re looking for jobs in data science.</p><p><strong>What is the difference between Data Mining, Machine Learning, and Deep Learning?</strong></p><p>Put simply, machine learning and data mining use the same algorithms and techniques as data mining, except the kinds of predictions vary. While data mining discovers previously unknown patterns and knowledge, machine learning reproduces known patterns and knowledge—and further automatically applies that information to data, decision-making, and actions.</p><p>Deep learning, on the other hand, uses advanced computing power and special types of neural networks and applies them to large amounts of data to learn, understand, and identify complicated patterns. Automatic language translation and medical diagnoses are examples of deep learning.</p>",
+            "suitableLearners": [
+                "People pursuing a career in data science",
+                "Working Professionals beginning their Data journey",
+                "Statisticians needing more practical experience"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-01-15T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-01-18T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "6255171e87671dccf53fbc3d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4605,
+            "studentCount": 26477,
+            "avgRatingScore": 4.6055536,
+            "contentVideoLength": 45086
+        },
+        "basicInfo": {
+            "udemyCourseId": 1036342,
+            "slug": "sql-database-design-a-z-learn-ms-sql-server-postgresql",
+            "title": "SQL & Database Design A-Z™: Learn MS SQL Server + PostgreSQL",
+            "subtitle": "Learn Both SQL Server & PostgreSQL By Doing. Enhance Your Data Analytics Career With Real World Data Science Exercises",
+            "image": "https://img-c.udemycdn.com/course/240x135/1036342_024e.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Create basic SQL Queries",
+                "Create advanced SQL Queries",
+                "Create Left, Right, Inner and Full Outer joins",
+                "Create new tables, alter existing tables in Databases",
+                "Normalize Databases",
+                "Understand database design",
+                "Understand first, second and third normal form schemas"
+            ],
+            "requirements": [
+                "A basic knowledge of computers"
+            ],
+            "description": "<p>Are you interested in a career in Data Science or Data Analytics?</p>\n\n<p>In that case, inevitably you are going to encounter databases in your work.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>But how do you interact with databases?</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>The answer is simple: SQL </p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>SQL stands for Structured Query Language and this is one of the main tools used to organize databases, input data into them and extract it on request.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>In this course you will learn how to create queries in a popular variation of SQL called PostgreSQL. </p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>And even if at your workplace you are using a different variation (e.g. Oracle, SQL Server or MySQL), you will find that the skills you learn in this course are easily transferable.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>But there are many SQL courses out there, so the question is:</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>What makes this course stand out?</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>The unique advantage of this course is that in addition to learning SQL you will also master the concepts of <u>Database Design</u>.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>We will cover off topics such as:<br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>- OLAP vs OLTP databases (Online Analytics Processing &amp; Online Transaction Processing): you will understand exactly how and why the designs of these two types of Databases differ<br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>- Normalization of Databases: we will show you the theory behind normalization AND together we will practice how to normalize a Database step-by-step</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Why is that important?</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Knowing how databases are designed is not a compulsory skill to have for a Data Scientist / Analyst. However, it's a HUGE added benefit.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>These skills will allow you to better interact with databases and derive results and extract insights from your data faster.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>This course is designed with the Data Scientists and Analysts in mind, so if you want to propel your Data Science career, then this course is for you!</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>We look forward to seeing you inside,</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Kirill &amp; Ilya</p>",
+            "suitableLearners": [
+                "Anybody who wants to learn PostgreSQL",
+                "Anybody who wants to better understand how databases work",
+                "Anybody who wants to enhance their Data Science career"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-04-11T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-04-14T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "6255171e87671dccf53fbc3d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4454,
+            "studentCount": 34504,
+            "avgRatingScore": 4.6103206,
+            "contentVideoLength": 38020
+        },
+        "basicInfo": {
+            "udemyCourseId": 1153742,
+            "slug": "advanced-ai-deep-reinforcement-learning-in-python",
+            "title": "Advanced AI: Deep Reinforcement Learning in Python",
+            "subtitle": "The Complete Guide to Mastering Artificial Intelligence using Deep Learning and Neural Networks",
+            "image": "https://img-c.udemycdn.com/course/240x135/1153742_e649.jpg",
+            "price": 687970,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Build various deep learning agents (including DQN and A3C)",
+                "Apply a variety of advanced reinforcement learning algorithms to any problem",
+                "Q-Learning with Deep Neural Networks",
+                "Policy Gradient Methods with Neural Networks",
+                "Reinforcement Learning with RBF Networks",
+                "Use Convolutional Neural Networks with Deep Q-Learning"
+            ],
+            "requirements": [
+                "Know reinforcement learning basics, MDPs, Dynamic Programming, Monte Carlo, TD Learning",
+                "College-level math is helpful",
+                "Experience building machine learning models in Python and Numpy",
+                "Know how to build ANNs and CNNs using Theano or Tensorflow"
+            ],
+            "description": "<p>This course is all about the application of <strong>deep learning</strong> and&nbsp;<strong>neural networks</strong> to <strong>reinforcement learning</strong>.</p><p>If you’ve taken my first reinforcement learning class, then you know that reinforcement learning is on the bleeding edge of what we can do with AI.</p><p>Specifically, the combination of deep learning with reinforcement learning has led to AlphaGo beating a world champion in the strategy game Go, it has led to self-driving cars, and it has led to machines that can play video games at a superhuman level.</p><p>Reinforcement learning has been around since the 70s but none of this has been possible until now.</p><p>The world is changing at a very fast pace. The state of California is changing their regulations so that self-driving car companies can test their cars without a human in the car to supervise.</p><p>We’ve seen that reinforcement learning is an entirely different kind of machine learning than supervised and unsupervised learning.</p><p>Supervised and unsupervised <strong>machine learning</strong> algorithms are for analyzing and making predictions about data, whereas reinforcement learning is about training an agent to interact with an environment and maximize its reward.</p><p>Unlike supervised and unsupervised learning algorithms, reinforcement learning agents have an impetus - they want to reach a goal.</p><p>This is such a fascinating perspective, it can even make supervised /&nbsp;unsupervised machine&nbsp;learning and \"<strong>data science</strong>\"&nbsp;seem boring in hindsight. Why train a neural network to learn about the data in a database, when you can train a neural network to interact with the real-world?</p><p>While deep reinforcement learning and AI has a lot of potential, it also carries with it huge risk.</p><p><strong>Bill Gates</strong> and <strong>Elon Musk</strong> have made public statements about some of the risks that AI poses to economic stability and even our existence.</p><p>As we learned in my first reinforcement learning course, one of the main principles of training reinforcement learning agents is that there are unintended consequences when training an AI.</p><p>AIs don’t think like humans, and so they come up with novel and non-intuitive solutions to reach their goals, often in ways that surprise domain experts - humans who are the best at what they do.</p><p><strong>OpenAI</strong> is a non-profit founded by Elon Musk, Sam Altman (Y Combinator), and others, in order to ensure that AI progresses in a way that is beneficial, rather than harmful.</p><p>Part of the motivation behind OpenAI is the existential risk that AI poses to humans. They believe that open collaboration is one of the keys to mitigating that risk.</p><p>One of the great things about OpenAI is that they have a platform called the <strong>OpenAI Gym</strong>, which we’ll be making heavy use of in this course.</p><p>It allows anyone, anywhere in the world, to train their reinforcement learning agents in standard environments.</p><p>In this course, we’ll build upon what we did in the last course by working with more complex environments, specifically, those provided by the OpenAI Gym:</p><ul><li><p>CartPole</p></li><li><p>Mountain Car</p></li><li><p>Atari games</p></li></ul><p>To train effective learning agents, we’ll need new techniques.</p><p>We’ll extend our knowledge of temporal difference learning by looking at the TD Lambda&nbsp;algorithm, we’ll look at a special type of neural network called the RBF network, we’ll look at the policy gradient method, and we’ll end the course by looking at Deep Q-Learning (DQN) and A3C (Asynchronous Advantage Actor-Critic).</p><p>Thanks for reading, and I’ll see you in class!</p><p><br></p><p>\"If you can't implement it, you don't understand it\"</p><ul><li><p>Or as the great physicist Richard Feynman said: \"What I cannot create, I do not understand\".</p></li><li><p>My courses are the ONLY courses where you will learn how to implement machine learning algorithms from scratch</p></li><li><p>Other courses will teach you how to plug in your data into a library, but do you really need help with 3 lines of code?</p></li><li><p>After doing the same thing with 10 datasets, you realize you didn't learn 10 things. You learned 1 thing, and just repeated the same 3 lines of code 10 times...</p></li></ul><p><br></p><p>Suggested Prerequisites:</p><ul><li><p>College-level math is helpful (calculus, probability)</p></li><li><p>Object-oriented programming</p></li><li><p>Python coding: if/else, loops, lists, dicts, sets</p></li><li><p>Numpy coding: matrix and vector operations</p></li><li><p>Linear regression</p></li><li><p>Gradient descent</p></li><li><p>Know how to build ANNs and CNNs in Theano or TensorFlow</p></li><li><p>Markov Decision Proccesses (MDPs)</p></li><li><p>Know how to implement Dynamic Programming, Monte Carlo, and Temporal Difference Learning to solve MDPs</p></li></ul><p><br></p><p>WHAT&nbsp;ORDER&nbsp;SHOULD&nbsp;I&nbsp;TAKE&nbsp;YOUR&nbsp;COURSES&nbsp;IN?:</p><ul><li><p>Check out the lecture \"Machine Learning and AI&nbsp;Prerequisite Roadmap\" (available in the FAQ of any of my courses, including the free Numpy course)</p></li></ul>",
+            "suitableLearners": [
+                "Professionals and students with strong technical backgrounds who wish to learn state-of-the-art AI techniques"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-02-04T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-02-07T00:00:00.000Z"
+        },
+        "promotions": {
+            "enabled": false
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "6255171e87671dccf53fbc3d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4439,
+            "studentCount": 28119,
+            "avgRatingScore": 4.652212,
+            "contentVideoLength": 53592
+        },
+        "basicInfo": {
+            "udemyCourseId": 1533864,
+            "slug": "deep-learning-advanced-computer-vision-gans-ssd-more",
+            "title": "Deep Learning: Advanced Computer Vision (GANs, SSD, +More!)",
+            "subtitle": "VGG, ResNet, Inception, SSD, RetinaNet, Neural Style Transfer, GANs +More in Tensorflow, Keras, and Python",
+            "image": "https://img-c.udemycdn.com/course/240x135/1533864_a443.jpg",
+            "price": 2293770,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Understand and apply transfer learning",
+                "Understand and use state-of-the-art convolutional neural nets such as VGG, ResNet and Inception",
+                "Understand and use object detection algorithms like SSD",
+                "Understand and apply neural style transfer",
+                "Understand state-of-the-art computer vision topics",
+                "Class Activation Maps",
+                "GANs (Generative Adversarial Networks)",
+                "Object Localization Implementation Project"
+            ],
+            "requirements": [
+                "Know how to build, train, and use a CNN using some library (preferably in Python)",
+                "Understand basic theoretical concepts behind convolution and neural networks",
+                "Decent Python coding skills, preferably in data science and the Numpy Stack"
+            ],
+            "description": "<p><strong>Latest update</strong>: Instead of SSD, I show you how to use RetinaNet, which is better and more modern. I show you both how to use a pretrained model and how to train one yourself with a custom dataset on <strong>Google Colab</strong>.</p><p>This is one of the most exciting courses I’ve done and it really shows how fast and how far deep learning has come over the years.</p><p>When I first started my <strong>deep learning</strong> series, I didn’t ever consider that I’d make <strong>two</strong> courses on <strong>convolutional neural networks</strong>.</p><p>I think what you’ll find is that, this course is so entirely different from the previous one, you will be impressed at just how much material we have to cover.</p><p>Let me give you a quick rundown of what this course is all about:</p><p>We’re going to bridge the gap between the basic CNN architecture you already know and love, to modern, novel architectures such as <strong>VGG</strong>, <strong>ResNet</strong>, and <strong>Inception</strong> (named after the movie which by the way, is also great!)</p><p>We’re going to apply these to images of blood cells, and create a system that is a better medical expert than either you or I. This brings up a fascinating idea: that the doctors of the future are not humans, but robots.</p><p>In this course, you’ll see how we can turn a CNN into an <strong>object detection</strong> system, that not only classifies images but can locate each object in an image and predict its label.</p><p>You can imagine that such a task is a basic prerequisite for <strong>self-driving vehicles</strong>. (It must be able to detect cars, pedestrians, bicycles, traffic lights, etc. in real-time)</p><p>We’ll be looking at a state-of-the-art algorithm called <strong>SSD </strong>which is both faster and more accurate than its predecessors.</p><p>Another very popular computer vision task that makes use of CNNs is called&nbsp;<strong>neural style transfer</strong>.</p><p>This is where you take one image called the content image, and another image called the style image, and you combine these to make an entirely new image, that is as if you hired a painter to paint the content of the first image with the style of the other. Unlike a human painter, this can be done in a matter of seconds.</p><p>I will also introduce you to the now-famous <strong>GAN</strong> architecture (<strong>Generative Adversarial Networks</strong>), where you will learn some of the technology behind how neural networks are used to generate state-of-the-art, photo-realistic images.</p><p>Currently, we also implement <strong>object localization</strong>, which is an essential first step toward implementing a full object detection system.</p><p>I hope you’re excited to learn about these advanced applications of CNNs, I’ll see you in class!<br></p><p><br></p><p>AWESOME&nbsp;FACTS:</p><ul><li><p>One of the major themes of this course is that we’re moving away from the CNN itself, to systems involving CNNs.</p></li><li><p>Instead of focusing on the detailed inner workings of CNNs (which we've already done), we'll focus on high-level building blocks. The result? <strong>Almost zero math</strong>.</p></li><li><p>Another result? No complicated low-level code such as that written in <strong>Tensorflow</strong>,&nbsp;<strong>Theano</strong>, or<strong> PyTorch</strong> (although some optional exercises may contain them for the very advanced students). Most of the course will be in <strong>Keras</strong> which means a lot of the tedious, repetitive stuff is written for you.</p></li></ul><p><br></p><p>\"If you can't implement it, you don't understand it\"</p><ul><li><p>Or as the great physicist Richard Feynman said: \"What I cannot create, I do not understand\".</p></li><li><p>My courses are the ONLY courses where you will learn how to implement machine learning algorithms from scratch</p></li><li><p>Other courses will teach you how to plug in your data into a library, but do you really need help with 3 lines of code?</p></li><li><p>After doing the same thing with 10 datasets, you realize you didn't learn 10 things. You learned 1 thing, and just repeated the same 3 lines of code 10 times...</p></li></ul><p><br></p><p>Suggested Prerequisites:</p><ul><li><p>Know how to build, train, and use a CNN using some library (preferably in Python)</p></li><li><p>Understand basic theoretical concepts behind convolution and neural networks</p></li><li><p>Decent Python coding skills, preferably in data science and the Numpy Stack</p></li></ul><p><br></p><p>WHAT&nbsp;ORDER&nbsp;SHOULD&nbsp;I&nbsp;TAKE&nbsp;YOUR&nbsp;COURSES&nbsp;IN?:</p><ul><li><p>Check out the lecture \"Machine Learning and AI&nbsp;Prerequisite Roadmap\" (available in the FAQ of any of my courses, including the free Numpy course)</p></li></ul>",
+            "suitableLearners": [
+                "Students and professionals who want to take their knowledge of computer vision and deep learning to the next level",
+                "Anyone who wants to learn about object detection algorithms like SSD and YOLO",
+                "Anyone who wants to learn how to write code for neural style transfer",
+                "Anyone who wants to use transfer learning",
+                "Anyone who wants to shorten training time and build state-of-the-art computer vision nets fast"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-02-04T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-02-07T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 321160,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "6255171e87671dccf53fbc3d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4364,
+            "studentCount": 29862,
+            "avgRatingScore": 4.532876,
+            "contentVideoLength": 43395
+        },
+        "basicInfo": {
+            "udemyCourseId": 807904,
+            "slug": "deep-learning-convolutional-neural-networks-in-python",
+            "title": "Deep Learning: Convolutional Neural Networks in Python",
+            "subtitle": "Use CNNs for Image Recognition, Natural Language Processing (NLP) +More! For Data Science, Machine Learning, and AI",
+            "image": "https://img-b.udemycdn.com/course/240x135/807904_7108.jpg",
+            "price": 2752570,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Understand convolution and why it's useful for Deep Learning",
+                "Understand and explain the architecture of a convolutional neural network (CNN)",
+                "Implement a CNN in TensorFlow 2",
+                "Apply CNNs to challenging Image Recognition tasks",
+                "Apply CNNs to Natural Language Processing (NLP) for Text Classification (e.g. Spam Detection, Sentiment Analysis)"
+            ],
+            "requirements": [
+                "Basic math (taking derivatives, matrix arithmetic, probability) is helpful",
+                "Python, Numpy, Matplotlib"
+            ],
+            "description": "<p>***&nbsp;NOW&nbsp;IN&nbsp;TENSORFLOW 2 and PYTHON&nbsp;3 ***</p><p>Learn about one of the most powerful <strong>Deep Learning</strong> architectures yet!</p><p>The <strong>Convolutional Neural Network (CNN)</strong> has been used to obtain state-of-the-art results in computer vision tasks such as object detection, image segmentation, and generating photo-realistic images of people and things that don't exist in the real world!</p><p>This course will teach you the fundamentals of <strong>convolution</strong> and why it's useful for deep learning and even <strong>NLP (natural language processing)</strong>.</p><p>You will learn about modern techniques such as data augmentation and batch normalization, and build modern architectures such as VGG yourself.</p><p>This course will teach you:</p><ul><li><p>The basics of machine learning and neurons (just a review to get you warmed up!)</p></li><li><p>Neural networks for classification and regression (just a review to get you warmed up!)</p></li><li><p>How to model image data in code</p></li><li><p>How to model text data for NLP (including preprocessing steps for text)</p></li><li><p>How to build an CNN&nbsp;using Tensorflow 2</p></li><li><p>How to use batch normalization and dropout regularization in Tensorflow 2</p></li><li><p>How to do image classification in Tensorflow 2</p></li><li><p>How to do data preprocessing for your own custom image dataset</p></li><li><p>How to use Embeddings in Tensorflow 2 for NLP</p></li><li><p>How to build a Text Classification CNN for NLP (examples: spam detection, sentiment analysis, parts-of-speech tagging, named entity recognition)</p></li></ul><p>All of the materials required for this course can be downloaded and installed for FREE. We will do most of our work in&nbsp;<strong>Numpy,</strong>&nbsp;<strong>Matplotlib</strong>,&nbsp;and&nbsp;<strong>Tensorflow</strong>. I am always available to answer your questions and help you along your data science journey.</p><p>This course focuses on \"<strong>how to build and understand</strong>\", not just \"how to use\". Anyone can learn to use an API in 15 minutes after reading some documentation. It's not about \"remembering facts\", it's about&nbsp;<strong>\"seeing for yourself\" via experimentation</strong>. It will teach you how to visualize what's happening in the model internally. If you want&nbsp;<strong>more</strong>&nbsp;than just a superficial look at machine learning models, this course is for you.</p><p><br></p><p>Suggested Prerequisites:</p><ul><li><p>matrix addition and multiplication</p></li><li><p>basic probability (conditional and joint distributions)</p></li><li><p>Python coding: if/else, loops, lists, dicts, sets</p></li><li><p>Numpy coding: matrix and vector operations, loading a CSV file</p></li></ul><p><br></p><p>WHAT&nbsp;ORDER&nbsp;SHOULD&nbsp;I&nbsp;TAKE&nbsp;YOUR&nbsp;COURSES&nbsp;IN?:</p><ul><li><p>Check out the lecture \"Machine Learning and AI&nbsp;Prerequisite Roadmap\" (available in the FAQ of any of my courses, including the free Numpy course)</p></li></ul>",
+            "suitableLearners": [
+                "Students, professionals, and anyone else interested in Deep Learning, Computer Vision, or NLP",
+                "Software Engineers and Data Scientists who want to level up their career"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-04-17T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-04-20T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 412920,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "6255171e87671dccf53fbc3d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4353,
+            "studentCount": 22783,
+            "avgRatingScore": 4.7154603,
+            "contentVideoLength": 28466
+        },
+        "basicInfo": {
+            "udemyCourseId": 825684,
+            "slug": "cluster-analysis-and-unsupervised-machine-learning-in-python",
+            "title": "Cluster Analysis and Unsupervised Machine Learning in Python",
+            "subtitle": "Data science techniques for pattern recognition, data mining, k-means clustering, and hierarchical clustering, and KDE.",
+            "image": "https://img-c.udemycdn.com/course/240x135/825684_ee00.jpg",
+            "price": 687970,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Understand the regular K-Means algorithm",
+                "Understand and enumerate the disadvantages of K-Means Clustering",
+                "Understand the soft or fuzzy K-Means Clustering algorithm",
+                "Implement Soft K-Means Clustering in Code",
+                "Understand Hierarchical Clustering",
+                "Explain algorithmically how Hierarchical Agglomerative Clustering works",
+                "Apply Scipy's Hierarchical Clustering library to data",
+                "Understand how to read a dendrogram",
+                "Understand the different distance metrics used in clustering",
+                "Understand the difference between single linkage, complete linkage, Ward linkage, and UPGMA",
+                "Understand the Gaussian mixture model and how to use it for density estimation",
+                "Write a GMM in Python code",
+                "Explain when GMM is equivalent to K-Means Clustering",
+                "Explain the expectation-maximization algorithm",
+                "Understand how GMM overcomes some disadvantages of K-Means",
+                "Understand the Singular Covariance problem and how to fix it"
+            ],
+            "requirements": [
+                "Know how to code in Python and Numpy",
+                "Install Numpy and Scipy",
+                "Matrix arithmetic, probability"
+            ],
+            "description": "<p><strong>Cluster analysis</strong> is a staple of <strong>unsupervised machine learning</strong> and <strong>data science</strong>.</p><p>It is very useful for <strong>data mining</strong> and <strong>big data</strong> because it <strong>automatically finds patterns</strong> in the data, without the need for labels, unlike supervised machine learning.</p><p>In a real-world environment, you can imagine that a robot or an <strong>artificial intelligence</strong> won’t always have access to the optimal answer, or maybe there isn’t an optimal correct answer. You’d want that robot to be able to explore the world on its own, and learn things just by looking for patterns.</p><p>Do you ever wonder how we get the data that we use in our supervised machine learning algorithms?</p><p>We always seem to have a nice CSV or a table, complete with Xs and corresponding Ys.</p><p>If you haven’t been involved in acquiring data yourself, you might not have thought about this, but someone&nbsp;has to make this data!</p><p>Those “Y”s have to come from somewhere, and a lot of the time that involves manual labor.</p><p>Sometimes, you don’t have access to this kind of information or it is infeasible or costly to acquire.</p><p>But you still want to have some idea of the structure of the data. If you're doing <strong>data&nbsp;analytics</strong> automating&nbsp;pattern recognition in your data would be invaluable.</p><p>This is where unsupervised machine learning comes into play.</p><p>In this course we are first going to talk about clustering. This is where instead of training on labels, we try to create our own labels! We’ll do this by grouping together data that looks alike.</p><p>There are 2 methods of clustering we’ll talk about: <strong>k-means clustering</strong> and <strong>hierarchical clustering</strong>.</p><p>Next, because in machine learning we like to talk about probability distributions, we’ll go into <strong>Gaussian mixture models</strong> and <strong>kernel density estimation</strong>, where we talk about how to \"learn\"&nbsp;the probability distribution of a set of data.</p><p>One interesting fact is that under certain conditions, Gaussian mixture models and k-means clustering are exactly the same! We’ll prove how this is the case.</p><p>All the algorithms we’ll talk about in this course are staples in machine learning and data science, so if you want to know how to automatically find patterns in your data with data mining and pattern extraction, without needing someone to put in manual work&nbsp;to label that data, then this course is for you.</p><p>All the materials for this course are FREE. You can download and install <strong>Python, Numpy, and&nbsp;Scipy</strong> with simple commands on <strong>Windows, Linux, or Mac</strong>.<br></p><p>This course focuses on \"<strong>how to build and understand</strong>\", not just \"how to use\". Anyone can learn to use an API in 15 minutes after reading some documentation. It's not about \"remembering facts\", it's about&nbsp;<strong>\"seeing for yourself\" via experimentation</strong>. It will teach you how to visualize what's happening in the model internally. If you want&nbsp;<strong>more</strong>&nbsp;than just a superficial look at machine learning models, this course is for you.<br></p><p>\"If you can't implement it, you don't understand it\"</p><ul><li><p>Or as the great physicist Richard Feynman said: \"What I cannot create, I do not understand\".</p></li><li><p>My courses are the ONLY courses where you will learn how to implement machine learning algorithms from scratch</p></li><li><p>Other courses will teach you how to plug in your data into a library, but do you really need help with 3 lines of code?</p></li><li><p>After doing the same thing with 10 datasets, you realize you didn't learn 10 things. You learned 1 thing, and just repeated the same 3 lines of code 10 times...</p></li></ul><p><br></p><p>Suggested Prerequisites:</p><ul><li><p>matrix addition, multiplication</p></li><li><p>probability</p></li><li><p>Python coding: if/else, loops, lists, dicts, sets</p></li><li><p>Numpy coding: matrix and vector operations, loading a CSV file</p></li></ul><p><br></p><p>WHAT&nbsp;ORDER&nbsp;SHOULD&nbsp;I&nbsp;TAKE&nbsp;YOUR&nbsp;COURSES&nbsp;IN?:</p><ul><li><p>Check out the lecture \"Machine Learning and AI&nbsp;Prerequisite Roadmap\" (available in the FAQ of any of my courses, including the free Numpy course)</p></li></ul>",
+            "suitableLearners": [
+                "Students and professionals interested in machine learning and data science",
+                "People who want an introduction to unsupervised machine learning and cluster analysis",
+                "People who want to know how to write their own clustering code",
+                "Professionals interested in data mining big data sets to look for patterns automatically"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-02-04T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-02-07T00:00:00.000Z"
+        },
+        "promotions": {
+            "enabled": false
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "6255171e87671dccf53fbc3d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4184,
+            "studentCount": 34385,
+            "avgRatingScore": 4.6506248,
+            "contentVideoLength": 148041
+        },
+        "basicInfo": {
+            "udemyCourseId": 1318112,
+            "slug": "complete-2022-data-science-machine-learning-bootcamp",
+            "title": "Complete 2022 Data Science & Machine Learning Bootcamp",
+            "subtitle": "Learn Python, Tensorflow, Deep Learning, Regression, Classification, Neural Networks, Artificial Intelligence & more!",
+            "image": "https://img-c.udemycdn.com/course/240x135/1318112_faa8_5.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "You will learn how to program using Python through practical projects",
+                "Use data science algorithms to analyse data in real life projects such as spam classification and image recognition",
+                "Build a portfolio of data science projects to apply for jobs in the industry",
+                "Understand how to use the latest tools in data science, including Tensorflow, Matplotlib, Numpy and many more",
+                "Create your own neural networks and understand how to use them to perform deep learning",
+                "Understand and apply data visualisation techniques to explore large datasets"
+            ],
+            "requirements": [
+                "No programming experience needed! I'll teach you everything you need to know.",
+                "No statistics knowledge required! I’ll teach you everything you need to know.",
+                "No calculus knowledge required! as long as you've done some high school maths, I'll take you step by step through the difficult parts.",
+                "Also, no paid software required - all projects use free and open source software",
+                "All you need is Mac or PC computer with access to the internet"
+            ],
+            "description": "<p>Welcome to the Complete Data Science and Machine Learning Bootcamp,<strong> the only course you need</strong> to learn Python and get into data science.</p><p><br></p><p>At over 40+ hours, this Python course is without a doubt the <strong>most comprehensive </strong>data science and machine learning course available online. Even if you have <strong>zero</strong> programming experience, this course will take you from <strong>beginner to mastery</strong>. Here's why:</p><ul><li><p>The course is taught by the <strong>lead instructor</strong> at the App Brewery, London's <strong>leading in-person programming bootcamp</strong>.</p></li><li><p>In the course, you'll be learning the latest tools and technologies that are used by data scientists at Google, Amazon, or Netflix.</p></li><li><p>This course doesn't cut any corners, there are beautiful <strong>animated explanation videos</strong> and <strong>real-world projects</strong> to build.</p></li><li><p>The curriculum was developed over a period of <strong>three years</strong> together with industry professionals, researchers and student testing and feedback.</p></li><li><p>To date, we’ve taught over 200,000 students how to code and many have gone on to <strong>change their lives </strong>by getting jobs in the industry or starting their own tech startup.</p></li><li><p>You'll save yourself <strong>over $12,000 </strong>by enrolling, but get access to the same teaching materials and learn from the same instructor and curriculum as our in-person programming bootcamp.</p></li></ul><p><br></p><p>We'll take you <strong>step-by-step</strong> through video tutorials and teach you everything you need to know to succeed as a data scientist and machine learning professional.</p><p><br></p><p>The course includes over <strong>40+ hours</strong> of HD video tutorials and builds your programming knowledge while solving real-world problems.</p><p><br></p><p>In the curriculum, we cover a large number of important data science and machine learning topics, such as:</p><ul><li><p>Data Cleaning and Pre-Processing</p></li><li><p>Data Exploration and Visualisation</p></li><li><p>Linear Regression</p></li><li><p>Multivariable Regression</p></li><li><p>Optimisation Algorithms and Gradient Descent</p></li><li><p>Naive Bayes Classification</p></li><li><p>Descriptive Statistics and Probability Theory</p></li><li><p>Neural Networks and Deep Learning</p></li><li><p>Model Evaluation and Analysis</p></li><li><p>Serving a Tensorflow Model</p></li></ul><p><br></p><p>Throughout the course, we cover all the tools used by data scientists and machine learning experts, including:</p><ul><li><p>Python 3</p></li><li><p>Tensorflow</p></li><li><p>Pandas</p></li><li><p>Numpy</p></li><li><p>Scikit Learn</p></li><li><p>Keras</p></li><li><p>Matplotlib</p></li><li><p>Seaborn</p></li><li><p>SciPy</p></li><li><p>SymPy</p></li></ul><p>By the end of this course, you will be <strong>fluently</strong> programming in Python and be ready to tackle any data science project<strong>. </strong>We’ll be covering all of these Python programming concepts:</p><p><br></p><ul><li><p><strong>Data Types and Variables</strong></p></li><li><p><strong>String Manipulation</strong></p></li><li><p>Functions</p></li><li><p>Objects</p></li><li><p>Lists, Tuples and Dictionaries</p></li><li><p>Loops and Iterators</p></li><li><p>Conditionals and Control Flow</p></li><li><p>Generator Functions</p></li><li><p>Context Managers and Name Scoping</p></li><li><p>Error Handling</p></li></ul><p><br></p><p>By working through real-world projects you get to understand the entire workflow of a data scientist which is incredibly valuable to a potential employer.</p><p><br></p><p><strong>Sign up today, and look forward to:</strong></p><ul><li><p>178+ HD Video Lectures</p></li><li><p>30+ Code Challenges and Exercises</p></li><li><p>Fully Fledged Data Science and Machine Learning Projects</p></li><li><p>Programming Resources and Cheatsheets</p></li><li><p>Our best selling 12 Rules to Learn to Code eBook</p></li><li><p>$12,000+ data science &amp; machine learning bootcamp course materials and curriculum</p></li></ul><p><br></p><p>Don't just take my word for it, check out what existing students have to say about my courses:</p><p><br></p><p><em>“One of the best courses I have taken. Everything is explained well, concepts are not glossed over. There is reinforcement in the challenges that helps solidify understanding. I'm only half way through but I feel like it is some of the best money I've ever spent.”</em> -Robert Vance</p><p><br></p><p><em>“I've spent £27,000 on University..... Save some money and buy any course available by Philipp! Great stuff guys.”</em> -Terry Woodward</p><p><br></p><p><em>\"This course is amazingly immersive and quite all-inclusive from end-to-end to develop an app! Also gives practicality to apply the lesson straight away and full of fun with bunch of sense of humor, so it's not boring to follow throughout the whole course. Keep up the good work guys!\"</em> - Marvin Septianus</p><p><br></p><p><em>“Great going so far. Like the idea of the quizzes to challenge us as we go along. Explanations are clear and easy to follow”</em> -Lenox James</p><p><br></p><p><em>“Very good explained course. The tasks and challenges are fun to do learn an do! Would recommend it a thousand times.”</em> -Andres Ariza</p><p><br></p><p><em>“I enjoy the step by step method they introduce the topics. Anyone with an interest in programming would be able to follow and program”</em> -Isaac Barnor</p><p><br></p><p><em>“I am learning so much with this course; certainly beats reading older Android Ebooks that are so far out of date; Phillippe is so easy any understandable to learn from. Great Course have recommended to a few people.”</em> -Dale Barnes</p><p><br></p><p><em>“This course has been amazing. Thanks for all the info. I'll definitely try to put this in use. :)” </em>-Devanshika Ghosh</p><p><br></p><p><em>“Great Narration and explanations. Very interactive lectures which make me keep looking forward to the next tutorial”</em> -Bimal Becks</p><p><br></p><p><em>“English is not my native language but in this video, Phillip has great pronunciation so I don't have problem even without subtitles :)”</em> -Dreamerx85</p><p><br></p><p><em>“Clear, precise and easy to follow instructions &amp; explanations!”</em> -Andreea Andrei</p><p><br></p><p><em>“An incredible course in a succinct, well-thought-out, easy to understand package. I wish I had purchased this course first.”</em> -Ian</p><p><br></p><p><br></p><p><strong>REMEMBER… I'm so confident that you'll love this course that we're offering a FULL money back guarantee for 30 days! So it's a complete no-brainer, sign up today with ZERO risks and EVERYTHING to gain.</strong></p><p><br></p><p>So what are you waiting for? Click the buy now button and join the world's best data science and machine learning course.</p><p><br></p>",
+            "suitableLearners": [
+                "If you want to learn to code through building fun and useful projects, then take this course.",
+                "If you want to solve real-life problems using data.",
+                "If you want to learn how to build machine learning algorithms such as deep learning and neural networks.",
+                "If you are a seasoned programmer, take this course to get up to speed quickly with the workflow of a data scientist.",
+                "If you want to take ONE COURSE and learn everything you need to know about data science and machine learning then take this course."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2020-08-28T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2020-08-31T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "6255171e87671dccf53fbc3d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4157,
+            "studentCount": 23489,
+            "avgRatingScore": 4.5782876,
+            "contentVideoLength": 29701
+        },
+        "basicInfo": {
+            "udemyCourseId": 1647976,
+            "slug": "deep-learning-advanced-natural-language-processing-and-rnns",
+            "title": "Deep Learning: Advanced Natural Language Processing and RNNs",
+            "subtitle": "Natural Language Processing (NLP) with Sequence-to-sequence (seq2seq), Attention, CNNs, RNNs, and Memory Networks!",
+            "image": "https://img-c.udemycdn.com/course/240x135/1647976_0fdf.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Build a text classification system (can be used for spam detection, sentiment analysis, and similar problems)",
+                "Build a neural machine translation system (can also be used for chatbots and question answering)",
+                "Build a sequence-to-sequence (seq2seq) model",
+                "Build an attention model",
+                "Build a memory network (for question answering based on stories)"
+            ],
+            "requirements": [
+                "Understand what deep learning is for and how it is used",
+                "Decent Python coding skills, especially tools for data science (Numpy, Matplotlib)",
+                "Preferable to have experience with RNNs, LSTMs, and GRUs",
+                "Preferable to have experience with Keras",
+                "Preferable to understand word embeddings"
+            ],
+            "description": "<p>It’s hard to believe it's been been over a year since I released my first course on <strong>Deep Learning</strong>&nbsp;with <strong>NLP</strong>&nbsp;(natural language processing).</p><p>A lot of cool stuff has happened since then, and I've been deep in the trenches learning, researching, and accumulating the best and most useful ideas to bring them back to you.</p><p>So what is this course all about, and how have things changed since then?</p><p>In previous courses, you learned about some of the fundamental building blocks of Deep NLP. We looked at RNNs (<strong>recurrent neural networks</strong>), CNNs (<strong>convolutional neural networks</strong>), and&nbsp;<strong>word embedding</strong>&nbsp;algorithms such as word2vec and GloVe.</p><p>This course takes you to a higher systems level of thinking.</p><p>Since you know how these things work, it’s time to build systems using these components.</p><p>At the end of this course, you'll be able to build applications for problems like:</p><ul><li><p><strong>text classification (examples are sentiment analysis and spam detection)<br></strong></p></li><li><p><strong>neural machine translation<br></strong></p></li><li><p><strong>question answering</strong></p></li></ul><p><br></p><p>We'll take a brief look <strong>chatbots</strong>&nbsp;and as you’ll learn in this course, this problem is actually no different from machine translation and question answering.</p><p>To solve these problems, we’re going to look at some advanced Deep NLP techniques, such as:</p><ul><li><p><strong>bidirectional RNNs<br></strong></p></li><li><p><strong>seq2seq (sequence-to-sequence)<br></strong></p></li><li><p><strong>attention<br></strong></p></li><li><p><strong>memory networks</strong></p></li></ul><p><br></p><p>All of the materials of this course can be downloaded and installed for FREE. We will do most of our work in Python libraries such as <strong>Keras</strong>, <strong>Numpy</strong>, <strong>Tensorflow</strong>, and <strong>Matpotlib</strong>&nbsp;to make things super easy and focus on the high-level concepts. I am always available to answer your questions and help you along your data science journey.</p><p>This course focuses on \"how to build and understand\", not just \"how to use\". Anyone can learn to use an API in 15 minutes after reading some documentation. It's not about \"remembering facts\", it's about \"seeing for yourself\" via experimentation. It will teach you how to visualize what's happening in the model internally. If you want more than just a superficial look at machine learning models, this course is for you.</p><p>See you in class!</p><p><br></p><p>\"If you can't implement it, you don't understand it\"</p><ul><li><p>Or as the great physicist Richard Feynman said: \"What I cannot create, I do not understand\".</p></li><li><p>My courses are the ONLY courses where you will learn how to implement machine learning algorithms from scratch</p></li><li><p>Other courses will teach you how to plug in your data into a library, but do you really need help with 3 lines of code?</p></li><li><p>After doing the same thing with 10 datasets, you realize you didn't learn 10 things. You learned 1 thing, and just repeated the same 3 lines of code 10 times...</p></li></ul><p><br></p><p>Suggested Prerequisites:</p><ul><li><p>Decent Python coding skills</p></li><li><p>Understand RNNs, CNNs, and word embeddings</p></li><li><p>Know how to build, train, and evaluate a neural network in Keras</p></li></ul><p><br></p><p>WHAT&nbsp;ORDER&nbsp;SHOULD&nbsp;I&nbsp;TAKE&nbsp;YOUR&nbsp;COURSES&nbsp;IN?:</p><ul><li><p>Check out the lecture \"Machine Learning and AI&nbsp;Prerequisite Roadmap\" (available in the FAQ of any of my courses, including the free Numpy course)</p></li></ul>",
+            "suitableLearners": [
+                "Students in machine learning, deep learning, artificial intelligence, and data science",
+                "Professionals in machine learning, deep learning, artificial intelligence, and data science",
+                "Anyone interested in state-of-the-art natural language processing"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-02-04T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-02-07T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "6255171e87671dccf53fbc3d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 3914,
+            "studentCount": 22428,
+            "avgRatingScore": 4.480777,
+            "contentVideoLength": 23062
+        },
+        "basicInfo": {
+            "udemyCourseId": 1562640,
+            "slug": "r-programming-for-statistics-and-data-science-2022",
+            "title": "R Programming for Statistics and Data Science 2022",
+            "subtitle": "R Programming for Data Science & Data Analysis. Applying R for Statistics and Data Visualization with GGplot2 in R",
+            "image": "https://img-c.udemycdn.com/course/240x135/1562640_6c9c_5.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Learn the fundamentals of programming in R",
+                "Work with R’s conditional statements, functions, and loops",
+                "Build your own functions in R",
+                "Get your data in and out of R",
+                "Learn the core tools for data science with R",
+                "Manipulate data with the Tidyverse ecosystem of packages",
+                "Systematically explore data in R",
+                "The grammar of graphics and the ggplot2 package",
+                "Visualise data: plot different types of data & draw insights",
+                "Transform data: best practices of when and how",
+                "Index, slice, and subset data",
+                "Learn the fundamentals of statistics and apply them in practice",
+                "Hypothesis testing in R",
+                "Understand and carry out regression analysis in R",
+                "Work with dummy variables",
+                "Learn to make decisions that are supported by the data!",
+                "Have fun by taking apart Star Wars and Pokemon data, as well some more serious data sets"
+            ],
+            "requirements": [
+                "You’ll need to install R Studio. We will show you how to do it in one of the first lectures of the course",
+                "All software and data used in the course are free."
+            ],
+            "description": "<p><strong><em>R Programming for Statistics and Data Science 2022</em></strong></p><p><strong>R Programming is a skill you need if you want to work as a data analyst or a data scientist in your industry of choice. And why wouldn't you?&nbsp; Data scientist is the hottest ranked profession in the US.<br></strong></p><p>But to do that, you need the tools and the skill set to handle data. <strong>R is one of the top languages</strong> to get you where you want to be. Combine that with <strong>statistical know-how</strong>, and you will be well on your way to your dream title. &nbsp; </p><p><em>This course is packing all of this, and more, in one easy-to-handle bundle, and it’s the perfect start to your journey.</em>&nbsp; &nbsp;</p><p><strong>So, welcome to R for Statistics and Data Science! </strong> &nbsp; </p><p>R for Statistics and Data Science is the course that will take you from a complete beginner in programming with R to a professional who can complete data manipulation on demand. It gives you the complete skill set to tackle a new data science project with confidence and be able to critically assess your work and others’.&nbsp; &nbsp; </p><p><strong>Laying strong foundations </strong>&nbsp; &nbsp;</p><p>This course wastes no time and jumps right into hands-on coding in R. But don’t worry if you have never coded before, we start off light and teach you all the basics as we go along! We wanted this to be an equally satisfying experience for both complete beginners and those of you who would just like a refresher on R.</p><p><strong>What makes this course different from other courses?</strong>&nbsp; &nbsp;</p><ul><li><p><strong>Well-paced learning.</strong></p></li></ul><p>Receive top class training with content which we’ve built - and rigorously edited - to deliver powerful and efficient results.&nbsp; &nbsp; </p><p>Even though preferred learning paces differ from student to student, we believe that being challenged just the right amount underpins the learning that <em>sticks</em>.&nbsp; &nbsp;&nbsp;</p><ul><li><p><strong>Introductory guide to statistics.</strong></p></li></ul><p>We will take you through descriptive statistics and the fundamentals of inferential statistics.&nbsp; &nbsp;</p><p>We will do it in a step-by-step manner, incrementally building up your theoretical knowledge and practical skills.&nbsp; &nbsp; &nbsp;</p><p>You’ll master confidence intervals and hypothesis testing, as well as regression and cluster analysis.&nbsp; &nbsp;</p><ul><li><p><strong>The essentials of programming – R-based.</strong></p></li></ul><p>Put yourself in the shoes of a programmer, rise above the average data scientist and boost the productivity of your operations. &nbsp; </p><ul><li><p><strong>Data manipulation and analysis techniques in detail.</strong></p></li></ul><p>Learn to work with vectors, matrices, data frames, and lists.&nbsp; &nbsp;&nbsp;</p><p>Become adept in ‘the Tidyverse package’ - R’s most comprehensive collection of tools for data manipulation – enabling you to index and subset data, as well as spread(), gather(), order(), subset(), filter(), arrange(), and mutate() it.&nbsp; &nbsp;</p><p>Create meaning-heavy data visualizations and plots.&nbsp; &nbsp;</p><ul><li><p><strong>Practice makes perfect.</strong></p></li></ul><p>Reinforce your learning through numerous practical exercises, made with love, for you, by us.</p><p><strong>What about homework, projects, &amp; exercises?</strong>&nbsp; &nbsp;</p><p>There is a ton of homework that will challenge you in all sorts of ways. You will have the chance to tackle the projects by yourself or reach out to a video tutorial if you get stuck.</p><p><strong><em>You</em></strong><em>: Is there something to show for the skills I will acquire?</em></p><p><strong><em>Us</em>: </strong><em>Indeed, there is – a verifiable certificate.</em>&nbsp; &nbsp;</p><p>You will receive a <em>verifiable</em> <em>certificate</em> of completion with your name on it. You can download the certificate and attach it to your CV and even post it on your LinkedIn profile to show potential employers you have experience in carrying out data manipulations &amp; analysis in R. &nbsp; </p><p>&nbsp;<strong>If that sounds good to you, then <em>welcome to the classroom :)</em></strong></p>",
+            "suitableLearners": [
+                "Aspiring data scientists",
+                "Beginners to programming",
+                "People interested in statistics and data analysis",
+                "Anyone who wants to learn how to code and apply their skills in practice"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-01-26T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-01-29T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "6255171e87671dccf53fbc3d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 3856,
+            "studentCount": 17649,
+            "avgRatingScore": 4.583656,
+            "contentVideoLength": 51855
+        },
+        "basicInfo": {
+            "udemyCourseId": 1238720,
+            "slug": "statistics-for-data-analysis-using-excel-2016",
+            "title": "Statistics for Data Analysis Using Excel 2016",
+            "subtitle": "Plain & Simple Lessons on Descriptive & Inferential Statistics Theory With Excel Examples for Business & Six Sigma",
+            "image": "https://img-c.udemycdn.com/course/240x135/1238720_255f_15.jpg",
+            "price": 2064370,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "You will learn Descriptive and Inferential Statistics with the help of simple but practical examples.",
+                "You will learn to use the power of Microsoft Excel to perform statistical calculations for you. No need to remember long formulas and equations.",
+                "You will understand statistics from basic to advance level to solve business problems using Microsoft Excel.",
+                "You will learn to make sense out of vast amount of data around you, to make fact based decisions."
+            ],
+            "requirements": [
+                "You should have some basic understanding of Microsoft Excel."
+            ],
+            "description": "<p><strong><em>Start loving data and making sense of it. Leverage the power of MS Excel to make it easy!</em></strong></p><p>Learn statistics, and apply these concepts in your workplace using Microsoft Excel.</p><p>This course is about&nbsp;Statistics and Data Analysis. The course will teach you the basic concepts related to Statistics and Data Analysis, and help you in applying these concepts. Various examples and data sets are used to explain the application.</p><p>I will explain the basic theory first, and then I will show you how to use Microsoft Excel to perform these calculations.<br>The following areas of statistics are covered:</p><p><strong>Descriptive Statistics </strong>- Mean, Mode, Median, Quartile, Range, Inter Quartile Range, Standard Deviation</p><p><strong>Data Visualization</strong> - 3 commonly used charts: Histogram, Box and Whisker Plot and Scatter Plot<br><strong>Probability</strong> - Basic Concepts, Permutations, Combinations<br><strong>Population and Sampling</strong></p><p><strong>Probability Distributions</strong> - Normal, Binomial and Poisson Distributions<br><strong>Hypothesis Testing </strong>- One Sample and Two Samples - z Test, t-Test, p Test, F Test, Chi-Square Test</p><p><strong>ANOVA -</strong> Perform Analysis of Variance (ANOVA) step by step doing manual calculation and by MS Excel.</p><p><br></p><p><strong>What are other students saying about this course?</strong></p><ul><li><p>Very structured and clear lessons on how each excel function can be used for different statistical analysis. I have benefitted tremendously from attending this course. <em>(5 stars by </em>Kang Han Qi<em>)</em></p></li><li><p>I have learned a lot already and it is still a long way to go! <em>(5 stars by </em>Dennis Dominic Mendoza<em>)</em></p></li><li><p>Great course, great synergy between theory and practical used. <em>(5 stars by </em>Patrick Silangit<em>)</em></p></li><li><p>.... this is awesome and really easy to understand the statistical concepts without any stress for a guy like me who used to fail in math classes. <em>(5 stars by </em>Lester Deepak Martis<em>)</em></p></li><li><p>He's better than all my university lecturers, very clear, concise and seamless progression of the evolution of concepts in a systematic way that makes it easy to understand...Bravo!!&nbsp; <em>(5 stars by </em>Ayanda Peter<em>)</em></p></li><li><p>A well-planned curriculum, fantastic resources for downloads, professionally presented slides, very easy to understand, truly the best course for every financial analyst.&nbsp; <em>(5 stars by </em>Arumugam K Chandrasekar<em>)</em></p></li><li><p>I am fan of his teachings. it is recommended to every other person who is not confident in Statistics and want to be a pro. <em>(5 stars by </em>Apnatav Bhatia<em>)</em></p></li><li><p>Its more than my expectations, absolutely wonderful since it start with basics.<em> (5 stars by </em>Boikaego Raditlatla<em>)</em></p></li><li><p>Great course for learning business statistics or statistics in general. <em>(5 stars by </em>Sudesh Pandey<em>)</em></p></li><li><p>Brilliant course. Takes the difficult, sometimes even boring Statistics model and breaks them into easy bite size portions. Explains the theory behind it and then the Excel way of doing it. <em>(5 stars by </em>Karthikeyan Stalin<em>)</em></p></li><li><p>The self study step by step and the excel examples are very great. I can follow the course and practice on my computer alongside. Thank you for putting this whole thing together. Not a very exciting subject to teach so I appreciate being able to put this long course together to make it easy for people like us to utilize and study. <em>(5 stars by </em>Dr Stanley Adjabeng<em>)</em></p></li></ul><p><br></p><p><strong>What are you waiting for?</strong></p><p>This course comes with Udemy's 30 days money-back guarantee. If you are not satisfied with the course, get your money back.</p><p>I hope to see you on the course.</p>",
+            "suitableLearners": [
+                "Business managers and data analysts who are trying make decision based on data and facts",
+                "Six Sigma Green and Black Belt professionals using MS Excel to conduct statistical analysis"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-01-30T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-02-02T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 298220,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "6255171e87671dccf53fbc3d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 3833,
+            "studentCount": 94965,
+            "avgRatingScore": 4.622236,
+            "contentVideoLength": 82797
+        },
+        "basicInfo": {
+            "udemyCourseId": 3428726,
+            "slug": "python-machine-learning-for-financial-analysis",
+            "title": "Python & Machine Learning for Financial Analysis",
+            "subtitle": "Master Python Programming Fundamentals and Harness the Power of ML to Solve Real-World Practical Applications in Finance",
+            "image": "https://img-b.udemycdn.com/course/240x135/3428726_19bc.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Master Python 3 programming fundamentals for Data Science and Machine Learning with focus on Finance.",
+                "Understand how to leverage the power of Python to apply key financial concepts such as calculating daily portfolio returns, risk and Sharpe ratio.",
+                "Understand the theory and intuition behind Capital Asset Pricing Model (CAPM)",
+                "Understand how to use Jupyter Notebooks for developing, presenting and sharing Data Science projects.",
+                "Learn how to use key Python Libraries such as NumPy for scientific computing, Pandas for Data Analysis, Matplotlib for data plotting/visualization, and Seaborn for statistical plots.",
+                "Master SciKit-Learn library to build, train and tune machine learning models using real-world datasets.",
+                "Apply machine and deep learning models to solve real-world problems in the banking and finance sectors such as stock prices prediction, security news sentiment analysis, credit card fraud detection, bank customer segmentation, and loan default prediction.",
+                "Understand the theory and intuition behind several machine learning algorithms for regression tasks (simple/multiple/polynomial), classification and clustering (K-Means).",
+                "Assess the performance of trained machine learning regression models using various KPI (Key Performance indicators) such as Mean Absolute Error, Mean Squared Error, and Root Mean Squared Error intuition, R-Squared intuition, and Adjusted R-Squared.",
+                "Assess the performance of trained machine learning classifiers using various KPIs such as accuracy, precision, recall, and F1-score.",
+                "Understand the underlying theory, intuition and mathematics behind Artificial Neural Networks (ANNs), Recurrent Neural Networks (RNNs) and Long Short Term Memory Networks (LSTM).",
+                "Train ANNs using back propagation and gradient descent algorithms.",
+                "Optimize ANNs hyper parameters such as number of hidden layers and neurons to enhance network performance.",
+                "Master feature engineering and data cleaning strategies for machine learning and data science applications."
+            ],
+            "requirements": [
+                "No prior experience required."
+            ],
+            "description": "<p>Are you ready to learn python programming fundamentals and directly apply them to solve real world applications in Finance and Banking?</p><p>If the answer is yes, then welcome to the “<strong>The Complete</strong> <strong>Python and Machine Learning for Financial Analysis</strong>” course in which you will learn everything you need to develop practical real-world finance/banking applications in Python!</p><p>So why Python?</p><p>Python is ranked as the number one programming language to learn in 2020, here are 6 reasons you need to learn Python right now!</p><p>1. <strong>#1 language for AI &amp; Machine Learning:</strong> Python is the #1 programming language for machine learning and artificial intelligence.</p><p>2. <strong>Easy to learn:</strong> Python is one of the easiest programming language to learn especially of you have not done any coding in the past.</p><p>3. <strong>Jobs: </strong>high demand and low supply of python developers make it the ideal programming language to learn now.</p><p>4. <strong>High salary:</strong> Average salary of Python programmers in the US is around $116 thousand dollars a year.</p><p>5. <strong>Scalability:</strong> Python is extremely powerful and scalable and therefore real-world apps such as Google, Instagram, YouTube, and Spotify are all built on Python.</p><p>6. <strong>Versatility:</strong> Python is the most versatile programming language in the world, you can use it for data science, financial analysis, machine learning, computer vision, data analysis and visualization, web development, gaming and robotics applications.</p><p><br></p><p>This course is unique in many ways:</p><p>1. The course is divided into 3 main parts covering python programming fundamentals, financial analysis in Python and AI/ML application in Finance/Banking Industry. A detailed overview is shown below:</p><p>a) <strong>Part #1 – Python Programming Fundamentals:</strong> Beginner’s Python programming fundamentals covering concepts such as: data types, variables assignments, loops, conditional statements, functions, and Files operations. In addition, this section will cover key Python libraries for data science such as Numpy and Pandas. Furthermore, this section covers data visualization tools such as Matplotlib, Seaborn, Plotly, and Bokeh.</p><p>b) <strong>Part #2 – Financial Analysis in Python:</strong> This part covers Python for financial analysis. We will cover key financial concepts such as calculating daily portfolio returns, risk and Sharpe ratio. In addition, we will cover Capital Asset Pricing Model (CAPM), Markowitz portfolio optimization, and efficient frontier. We will also cover trading strategies such as momentum-based and moving average trading.</p><p>c) <strong>Part #3 – AI/Ml in Finance/Banking:</strong> This section covers practical projects on AI/ML applications in Finance. We will cover application of Deep Neural Networks such as Long Short Term Memory (LSTM) networks to perform stock price predictions. In addition, we will cover unsupervised machine learning strategies such as K-Means Clustering and Principal Components Analysis to perform Baking Customer Segmentation or Clustering. Furthermore, we will cover the basics of Natural Language Processing (NLP) and apply it to perform stocks sentiment analysis.</p><p>2. There are several mini challenges and exercises throughout the course and you will learn by doing. The course contains mini challenges and coding exercises in almost every video so you will learn in a practical and easy way.</p><p>3. The Project-based learning approach: you will build more than 6 full practical projects that you can add to your portfolio of projects to showcase your future employer during job interviews.</p><p><br></p><p>So who is this course for?</p><p>This course is geared towards the following:</p><ul><li><p>Financial analysts who want to harness the power of Data science and AI to optimize business processes, maximize revenue, reduce costs.</p></li><li><p>Python programmer beginners and data scientists wanting to gain a fundamental understanding of Python and Data Science applications in Finance/Banking sectors.</p></li><li><p>Investment bankers and financial analysts wanting to advance their careers, build their data science portfolio, and gain real-world practical experience.</p></li></ul><p>There is no prior experience required, Even if you have never used python or any programming language before, don’t worry! You will have a clear video explanation for each of the topics we will be covering. We will start from the basics and gradually build up your knowledge.</p><p>In this course, (1) you will have a true practical project-based learning experience, we will build more than 6 projects together (2) You will have access to all the codes and slides, (3) You will get a certificate of completion that you can post on your LinkedIn profile to showcase your skills in python programming to employers. (4) All of this comes with a 30 day money back guarantee so you can give a course a try risk free! Check out the preview videos and the outline to get an idea of the projects we will be covering.</p><p><br></p><p>Enroll today and I look forward to seeing you inside!</p>",
+            "suitableLearners": [
+                "Financial analysts who want to harness the power of Data science and AI to optimize business processes, maximize revenue, reduce costs.",
+                "Python programmer beginners and data scientists wanting to gain a fundamental understanding of Python and Data Science applications in Finance/Banking sectors.",
+                "Investment bankers and financial analysts wanting to advance their careers, build their data science portfolio, and gain real-world practical experience.",
+                "There is no prior experience required, Even if you have never used python or any programming language before, don’t worry! You will have a clear video explanation for each of the topics we will be covering. We will start from the basics and gradually build up your knowledge."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2020-12-02T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2020-12-05T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "6255171e87671dccf53fbc3d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 3718,
+            "studentCount": 27797,
+            "avgRatingScore": 4.636929,
+            "contentVideoLength": 43246
+        },
+        "basicInfo": {
+            "udemyCourseId": 887814,
+            "slug": "deep-learning-recurrent-neural-networks-in-python",
+            "title": "Deep Learning: Recurrent Neural Networks in Python",
+            "subtitle": "GRU, LSTM, Time Series Forecasting, Stock Predictions, Natural Language Processing (NLP) using Artificial Intelligence",
+            "image": "https://img-c.udemycdn.com/course/240x135/887814_cf2e_2.jpg",
+            "price": 2752570,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Apply RNNs to Time Series Forecasting (tackle the ubiquitous \"Stock Prediction\" problem)",
+                "Apply RNNs to Natural Language Processing (NLP) and Text Classification (Spam Detection)",
+                "Apply RNNs to Image Classification",
+                "Understand the simple recurrent unit (Elman unit), GRU, and LSTM (long short-term memory unit)",
+                "Write various recurrent networks in Tensorflow 2",
+                "Understand how to mitigate the vanishing gradient problem"
+            ],
+            "requirements": [
+                "Basic math (taking derivatives, matrix arithmetic, probability) is helpful",
+                "Python, Numpy, Matplotlib"
+            ],
+            "description": "<p>***&nbsp;NOW&nbsp;IN&nbsp;TENSORFLOW 2 and PYTHON&nbsp;3 ***</p><p>Learn about one of the most powerful <strong>Deep Learning</strong> architectures yet!</p><p>The <strong>Recurrent Neural Network (RNN)</strong> has been used to obtain state-of-the-art results in sequence modeling.</p><p>This includes <strong>time series analysis</strong>, <strong>forecasting</strong> and <strong>natural language processing (NLP)</strong>.</p><p>Learn about why RNNs beat old-school <strong>machine learning</strong> algorithms like <strong>Hidden Markov Models</strong>.</p><p>This course will teach you:</p><ul><li><p>The basics of machine learning and neurons (just a review to get you warmed up!)</p></li><li><p>Neural networks for classification and regression (just a review to get you warmed up!)</p></li><li><p>How to model sequence data</p></li><li><p>How to model time series data</p></li><li><p>How to model text data for NLP (including preprocessing steps for text)</p></li><li><p>How to build an RNN&nbsp;using Tensorflow 2</p></li><li><p>How to use a GRU and LSTM in Tensorflow 2</p></li><li><p>How to do time series forecasting with Tensorflow 2</p></li><li><p>How to <strong>predict stock prices</strong> and stock returns with LSTMs in Tensorflow 2 (hint: it's not what you think!)</p></li><li><p>How to use Embeddings in Tensorflow 2 for NLP</p></li><li><p>How to build a Text Classification RNN for NLP (examples: spam detection, sentiment analysis, parts-of-speech tagging, named entity recognition)</p></li></ul><p>All of the materials required for this course can be downloaded and installed for FREE. We will do most of our work in&nbsp;<strong>Numpy,</strong>&nbsp;<strong>Matplotlib</strong>,&nbsp;and&nbsp;<strong>Tensorflow</strong>. I am always available to answer your questions and help you along your data science journey.</p><p>This course focuses on \"<strong>how to build and understand</strong>\", not just \"how to use\". Anyone can learn to use an API in 15 minutes after reading some documentation. It's not about \"remembering facts\", it's about&nbsp;<strong>\"seeing for yourself\" via experimentation</strong>. It will teach you how to visualize what's happening in the model internally. If you want&nbsp;<strong>more</strong>&nbsp;than just a superficial look at machine learning models, this course is for you.<br></p><p>See you in class!</p><p><br></p><p>\"If you can't implement it, you don't understand it\"</p><ul><li><p>Or as the great physicist Richard Feynman said: \"What I cannot create, I do not understand\".</p></li><li><p>My courses are the ONLY courses where you will learn how to implement machine learning algorithms from scratch</p></li><li><p>Other courses will teach you how to plug in your data into a library, but do you really need help with 3 lines of code?</p></li><li><p>After doing the same thing with 10 datasets, you realize you didn't learn 10 things. You learned 1 thing, and just repeated the same 3 lines of code 10 times...</p></li></ul><p><br></p><p>Suggested Prerequisites:</p><ul><li><p>matrix addition, multiplication</p></li><li><p>basic probability (conditional and joint distributions)</p></li><li><p>Python coding: if/else, loops, lists, dicts, sets</p></li><li><p>Numpy coding: matrix and vector operations, loading a CSV file</p></li></ul><p><br></p><p>WHAT&nbsp;ORDER&nbsp;SHOULD&nbsp;I&nbsp;TAKE&nbsp;YOUR&nbsp;COURSES&nbsp;IN?:</p><ul><li><p>Check out the lecture \"Machine Learning and AI&nbsp;Prerequisite Roadmap\" (available in the FAQ of any of my courses, including the free Numpy course)</p></li></ul>",
+            "suitableLearners": [
+                "Students, professionals, and anyone else interested in Deep Learning, Time Series Forecasting, Sequence Data, or NLP",
+                "Software Engineers and Data Scientists who want to level up their career"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-04-17T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-04-20T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 412920,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "6255171e87671dccf53fbc3d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 3668,
+            "studentCount": 22487,
+            "avgRatingScore": 4.5669336,
+            "contentVideoLength": 36700
+        },
+        "basicInfo": {
+            "udemyCourseId": 2158256,
+            "slug": "deployment-of-machine-learning-models",
+            "title": "Deployment of Machine Learning Models",
+            "subtitle": "Learn how to integrate robust and reliable Machine Learning Pipelines in Production",
+            "image": "https://img-c.udemycdn.com/course/240x135/2158256_031a_6.jpg",
+            "price": 1261470,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Build machine learning model APIs and deploy models into the cloud",
+                "Send and receive requests from deployed machine learning models",
+                "Design testable, version controlled and reproducible production code for model deployment",
+                "Create continuous and automated integrations to deploy your models",
+                "Understand the optimal machine learning architecture",
+                "Understand the different resources available to productionise your models",
+                "Identify and mitigate the challenges of putting models in production"
+            ],
+            "requirements": [
+                "A Python installation",
+                "A Git installation",
+                "Confidence in Python programming, including familiarity with Numpy, Pandas and Scikit-learn",
+                "Familiarity with the use of IDEs, like Pycharm, Sublime, Spyder or similar",
+                "Familiarity with writing Python scripts and running them from the command line interface",
+                "Knowledge of basic git commands, including clone, fork, branch creation and branch checkout",
+                "Knowledge of basic git commands, including git status, git add, git commit, git pull, git push",
+                "Knowledge of basic CLI commands, including navigating folders and using Git and Python from the CLI",
+                "Knowledge of Linear Regression and model evaluation metrics like the MSE and R2"
+            ],
+            "description": "<p>Welcome to Deployment of Machine Learning Models, the<strong> most comprehensive machine learning deployments online course available to date. </strong>This course will show you how to take your machine learning models from the research environment to a fully integrated production environment<strong>.</strong></p><p><br></p><p><strong>What is model deployment?</strong></p><p>Deployment of machine learning models, or simply, putting models into production, means making your models available to other systems within the organization or the web, so that they can receive data and return their predictions. Through the deployment of machine learning models, you can begin to take <strong>full advantage of the model</strong> you built.</p><p><br></p><p><strong>Who is this course for?</strong></p><ul><li><p>If you’ve just built your first machine learning models and would like to know how to take them to production or deploy them into an API,</p></li><li><p>If you deployed a few models within your organization and would like to learn more about best practices on model deployment,</p></li><li><p>If you are an avid software developer who would like to step into deployment of fully integrated machine learning pipelines,</p></li></ul><p>this course will show you how.</p><p><br></p><p><strong>What will you learn?</strong></p><p>We'll take you step-by-step through engaging video tutorials and teach you everything you need to know to start creating a model in the research environment, and then transform the Jupyter notebooks into production code, package the code and deploy to an API, and add continuous integration and continuous delivery. We will discuss the concept of reproducibility, why it matters, and how to maximize reproducibility during deployment, through versioning, code repositories and the use of docker. And we will also discuss the tools and platforms available to deploy machine learning models.</p><p>Specifically, you will learn:</p><ul><li><p>The steps involved in a typical machine learning pipeline</p></li><li><p>How a data scientist works in the research environment</p></li><li><p>How to transform the code in Jupyter notebooks into production code</p></li><li><p>How to write production code, including introduction to tests, logging and OOP</p></li><li><p>How to deploy the model and serve predictions from an API</p></li><li><p>How to create a Python Package</p></li><li><p>How to deploy into a realistic production environment</p></li><li><p>How to use docker to control software and model versions</p></li><li><p>How to add a CI/CD layer</p></li><li><p>How to determine that the deployed model reproduces the one created in the research environment</p></li></ul><p>By the end of the course you will have a comprehensive overview of the entire research, development and deployment lifecycle of a machine learning model, and understood the best coding practices, and things to consider to put a model in production. You will also have a better understanding of the tools available to you to deploy your models, and will be well placed to take the deployment of the models in any direction that serves the needs of your organization.</p><p><br></p><p><strong>What else should you know?</strong></p><p>This course will help you take the first steps towards putting your models in production. You will learn how to go from a Jupyter notebook to a fully deployed machine learning model, considering CI/CD, and deploying to cloud platforms and infrastructure.</p><p>But, there is a lot more to model deployment, like model monitoring, advanced deployment orchestration with Kubernetes, and scheduled workflows with Airflow, as well as various testing paradigms such as shadow deployments that <strong>are not covered in this course</strong>.</p><p><br></p><p><strong>Want to know more? Read on...</strong></p><p>This comprehensive course on deployment of machine learning models includes over 100 lectures spanning about 10 hours of video, and <strong>ALL topics include hands-on Python code examples which you can use for reference and re-use in your own projects</strong>.</p><p>In addition, we have now included in each section an assignment where you get to reproduce what you learnt to deploy a new model.</p><p><strong>So what are you waiting for? Enroll today, learn how to put your models in production and begin extracting their true value.</strong></p>",
+            "suitableLearners": [
+                "Data scientists who want to deploy their first machine learning model",
+                "Data scientists who want to learn best practices model deployment",
+                "Software developers who want to transition into machine learning"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-04-16T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-04-19T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "6255171e87671dccf53fbc3d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 3647,
+            "studentCount": 26133,
+            "avgRatingScore": 4.6719365,
+            "contentVideoLength": 22590
+        },
+        "basicInfo": {
+            "udemyCourseId": 659368,
+            "slug": "deep-learning-prerequisites-logistic-regression-in-python",
+            "title": "Deep Learning Prerequisites: Logistic Regression in Python",
+            "subtitle": "Data science, machine learning, and artificial intelligence in Python for students and professionals",
+            "image": "https://img-c.udemycdn.com/course/240x135/659368_e64f.jpg",
+            "price": 2064370,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "program logistic regression from scratch in Python",
+                "describe how logistic regression is useful in data science",
+                "derive the error and update rule for logistic regression",
+                "understand how logistic regression works as an analogy for the biological neuron",
+                "use logistic regression to solve real-world business problems like predicting user actions from e-commerce data and facial expression recognition",
+                "understand why regularization is used in machine learning"
+            ],
+            "requirements": [
+                "Derivatives, matrix arithmetic, probability",
+                "You should know some basic Python coding with the Numpy Stack"
+            ],
+            "description": "<p>This course is a lead-in to <strong>deep learning</strong> and <strong>neural networks</strong> - it covers a popular and fundamental technique used in machine learning, data science and statistics: logistic regression. We cover the theory from the ground up: derivation of the solution, and applications to real-world problems. We show you how one might code their own logistic regression module in Python.</p><p>This course does not require any external materials. Everything needed (Python, and some Python libraries) can be obtained for free.</p><p>This course provides you with many practical examples so that you can really see how deep learning can be used on anything. Throughout the course, we'll do a course project, which will show you how to predict user actions on a website given user data like whether or not that user is on a mobile device, the number of products they viewed, how long they stayed on your site, whether or not they are a returning visitor, and what time of day they visited.</p><p>Another project at the end of the course shows you how you can use deep learning for facial expression recognition. Imagine being able to predict someone's emotions just based on a picture!</p><p>If you are a programmer and you want to enhance your coding abilities by learning about <strong>data science</strong>, then this course is for you. If you have a technical or mathematical background, and you want use your skills to make&nbsp;<strong>data-driven decisions</strong> and optimize your business using scientific principles, then this course is for you.</p><p>This course focuses on \"<strong>how to build and understand</strong>\", not just \"how to use\". Anyone can learn to use an API in 15 minutes after reading some documentation. It's not about \"remembering facts\", it's about&nbsp;<strong>\"seeing for yourself\" via experimentation</strong>. It will teach you how to visualize what's happening in the model internally. If you want&nbsp;<strong>more</strong>&nbsp;than just a superficial look at machine learning models, this course is for you.<br></p><p>\"If you can't implement it, you don't understand it\"</p><ul><li><p>Or as the great physicist Richard Feynman said: \"What I cannot create, I do not understand\".</p></li><li><p>My courses are the ONLY courses where you will learn how to implement machine learning algorithms from scratch</p></li><li><p>Other courses will teach you how to plug in your data into a library, but do you really need help with 3 lines of code?</p></li><li><p>After doing the same thing with 10 datasets, you realize you didn't learn 10 things. You learned 1 thing, and just repeated the same 3 lines of code 10 times...</p></li></ul><p><br></p><p>Suggested Prerequisites:</p><ul><li><p>calculus (taking derivatives)</p></li><li><p>matrix arithmetic</p></li><li><p>probability</p></li><li><p>Python coding: if/else, loops, lists, dicts, sets</p></li><li><p>Numpy coding: matrix and vector operations, loading a CSV file</p></li></ul><p><br></p><p>WHAT&nbsp;ORDER&nbsp;SHOULD&nbsp;I&nbsp;TAKE&nbsp;YOUR&nbsp;COURSES&nbsp;IN?:</p><ul><li><p>Check out the lecture \"Machine Learning and AI&nbsp;Prerequisite Roadmap\" (available in the FAQ of any of my courses, including the free Numpy course)</p></li></ul>",
+            "suitableLearners": [
+                "Adult learners who want to get into the field of data science and big data",
+                "Students who are thinking of pursuing machine learning or data science",
+                "Students who are tired of boring traditional statistics and prewritten functions in R, and want to learn how things really work by implementing them in Python",
+                "People who know some machine learning but want to be able to relate it to artificial intelligence",
+                "People who are interested in bridging the gap between computational neuroscience and machine learning"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-02-04T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-02-07T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 298220,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "6255171e87671dccf53fbc3d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 3353,
+            "studentCount": 12450,
+            "avgRatingScore": 4.189573,
+            "contentVideoLength": 10787
+        },
+        "basicInfo": {
+            "udemyCourseId": 460604,
+            "slug": "introduction-to-natural-language-processing-nlp",
+            "title": "Introduction to Natural Language Processing (NLP)",
+            "subtitle": "Learn how to analyze text data.",
+            "image": "https://img-c.udemycdn.com/course/240x135/460604_8a2b_3.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Work with text data using the Natural Language Tool Kit.",
+                "Load and manipulate custom text data.",
+                "Analyze text to discover, sentiment, important key words, and statistics."
+            ],
+            "requirements": [
+                "A computer running Windows, OS X, or Linux.",
+                "Basic Python programming knowledge."
+            ],
+            "description": "<p>This course introduces Natural Language Processing through the use of python and the Natural Language Tool Kit.  Through a practical approach, you'll get hands on experience working with and analyzing text.</p><p>As a student of this course, you'll get updates for free, which include lecture revisions, new code examples, and new data projects.</p><p>By the end of this course you will:</p><ul><li>Have an understanding of how to use the Natural Language Tool Kit.</li><li>Be able to load and manipulate your own text data.</li><li>Know how to formulate solutions to text based problems.</li><li>Know when it is appropriate to apply solutions such as sentiment analysis and classification techniques.</li></ul><p><br></p>",
+            "suitableLearners": [
+                "This course is for anyone who is not familiar with Natural Language Processing and is looking for a way to start.",
+                "This course is probably not for you if you already have an understanding of Natural Language Processing and the Natural Language Tool Kit."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2018-03-05T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2018-03-08T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "6255171e87671dccf53fbc3d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 3125,
+            "studentCount": 20233,
+            "avgRatingScore": 4.588032,
+            "contentVideoLength": 61239
+        },
+        "basicInfo": {
+            "udemyCourseId": 2373814,
+            "slug": "pytorch-for-deep-learning-with-python-bootcamp",
+            "title": "PyTorch for Deep Learning with Python Bootcamp",
+            "subtitle": "Learn how to create state of the art neural networks for deep learning with Facebook's PyTorch Deep Learning library!",
+            "image": "https://img-c.udemycdn.com/course/240x135/2373814_6e99_2.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Learn how to use NumPy to format data into arrays",
+                "Use pandas for data manipulation and cleaning",
+                "Learn classic machine learning theory principals",
+                "Use PyTorch Deep Learning Library for image classification",
+                "Use PyTorch with Recurrent Neural Networks for Sequence Time Series Data",
+                "Create state of the art Deep Learning models to work with tabular data"
+            ],
+            "requirements": [
+                "Understanding of Python Basic Topics (data types,loops,functions) also Python OOP recommended",
+                "Be able to work through basic derivative calculations",
+                "Admin Permissions on your computer (ability to download our files)"
+            ],
+            "description": "<p>Welcome to the best online course for learning about Deep Learning with Python and PyTorch!</p><p>PyTorch is an open source deep learning platform that provides a seamless path from research prototyping to production deployment. It is rapidly becoming one of the most popular deep learning frameworks for Python. Deep integration into Python allows popular libraries and packages to be used for easily writing neural network layers in Python. A rich ecosystem of tools and libraries extends PyTorch and supports development in computer vision, NLP and more. </p><p>This course focuses on balancing important theory concepts with practical hands-on exercises and projects that let you learn how to apply the concepts in the course to your own data sets! When you enroll in this course you will get access to carefully laid out notebooks that explain concepts in an easy to understand manner, including both code and explanations side by side. You will also get access to our slides that explain theory through easy to understand visualizations.</p><p>In this course we will teach you everything you need to know to get started with Deep Learning with Pytorch, including:</p><ul><li><p>NumPy</p></li><li><p>Pandas</p></li><li><p>Machine Learning Theory</p></li><li><p>Test/Train/Validation Data Splits</p></li><li><p>Model Evaluation - Regression and Classification Tasks</p></li><li><p>Unsupervised Learning Tasks</p></li><li><p>Tensors with PyTorch</p></li><li><p>Neural Network Theory </p><ul><li><p>Perceptrons</p></li><li><p>Networks</p></li><li><p>Activation Functions</p></li><li><p>Cost/Loss Functions</p></li><li><p>Backpropagation</p></li><li><p>Gradients</p></li></ul></li><li><p>Artificial&nbsp;Neural Networks</p></li><li><p>Convolutional Neural Networks</p></li><li><p>Recurrent Neural Networks</p></li><li><p>and much more!</p></li></ul><p>By the end of this course you will be able to create a wide variety of deep learning models to solve your own problems with your own data sets. </p><p>So what are you waiting for? Enroll today and experience the true capabilities of Deep Learning with PyTorch! I'll see you inside the course! </p><p>-Jose</p>",
+            "suitableLearners": [
+                "Intermediate to Advanced Python Developers wanting to learn about Deep Learning with PyTorch"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2019-09-04T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2019-09-07T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "6255171e87671dccf53fbc3d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 2760,
+            "studentCount": 8685,
+            "avgRatingScore": 4.2327533,
+            "contentVideoLength": 3535
+        },
+        "basicInfo": {
+            "udemyCourseId": 1333372,
+            "slug": "an-introduction-to-machine-learning-for-data-engineers",
+            "title": "An Introduction to Machine Learning for Data Engineers",
+            "subtitle": "A Prerequisite for Tensorflow on Google's Cloud Platform for Data Engineers",
+            "image": "https://img-b.udemycdn.com/course/240x135/1333372_08d9_3.jpg",
+            "price": 458570,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "You'll be familiar with many of the basic algorithms used in machine learning.",
+                "You'll have solid understanding of how real world models are built using Python.",
+                "You'll know exactly what machine learning is and what it isn't.",
+                "You'll be prepared for the machine learning questions on the Google Certified Data Engineering Exam."
+            ],
+            "requirements": [
+                "You should be familiar with any programming language.",
+                "A basic understanding of the concepts of machine learning will be helpful but isn't required."
+            ],
+            "description": "<p><strong>THE&nbsp;REVIEWS&nbsp;ARE&nbsp;IN:&nbsp;</strong></p><p><strong>Another Excellent course</strong> from a&nbsp;brilliant Instructor. <strong>Really well explained, and precisely the right amount of information.</strong> Mike provides <strong>clear and concise explanations</strong> and has a&nbsp;deep subject knowledge of&nbsp;Google's Cloud.&nbsp; <strong>-- </strong>Julie Johnson<strong>&nbsp;</strong></p><p><strong>Awesome!</strong>&nbsp; -- Satendra</p><p><strong>Great learning experience!!</strong> -- Lakshminarayana</p><p><strong>Wonderful learning... </strong>-- Rajesh</p><p><strong>Excellent</strong> -- Dipthi</p><p><strong>Clear and to the point. Fit's a lot of knowledge into short, easy to understand concepts/thoughts/scenarios.</strong> -- Sam</p><p><strong>Course was fantastic</strong>. -- Narsh</p><p><strong>Great overview of ML</strong> -- Eli</p><p><strong>Very helpful for beginners, All concept explained well. Overall insightful training session. Thank you </strong>! --Vikas</p><p><strong>Very good training. Concepts were well explained</strong>. -- Jose</p><p><strong>I like the real world touch given to course material . This is extremely important.</strong> -- Soham</p><p><strong>Learned some new terms and stuffs in Machine Learning. Ideal for learners who needs to get some overview of ML.</strong> -- Akilan</p><p><strong>This session is very good and giving more knowledge about machine learning </strong>-- Neethu</p><p><strong>Got to know many things on machine learning with data as a beginner. Thanks Mike.</strong> --Velumani </p><p><strong>Really well explained and very informative.</strong> -- Vinoth</p><p><strong>COURSE&nbsp;INTRODUCTION:&nbsp;</strong></p><p>Welcome to&nbsp;<strong>An Introduction to Machine Learning for Data Engineers. </strong>This course is part of my series for data engineering. The course is a prerequisite for my course titled <strong>Tensorflow on the Google Cloud Platform for Data&nbsp;Engineers</strong>.</p><p>This course will show you the <strong>basics of machine learning for <em>data engineers</em></strong>. The course is geared towards <strong>answering questions </strong>for the Google Certified Data Engineering exam.&nbsp; &nbsp;&nbsp;</p><p>This is <strong>NOT </strong>a general course or introduction to machine learning. This is <strong>a very focused course</strong> for learning the concepts you'll need to know to pass the <strong>Google Certified Data Engineering Exam.&nbsp;</strong></p><p>At this juncture, the&nbsp;<strong>Google Certified Data Engineer</strong>&nbsp;is the only&nbsp;<strong>real world certification</strong>&nbsp;for data and machine learning engineers.&nbsp; &nbsp;</p><p><strong>Machine learning</strong>&nbsp;is a type of artificial intelligence (AI) that allows software applications to become more accurate in predicting outcomes <strong><em>without being explicitly programmed.</em></strong> The key part of that definition is “without being explicitly programmed.”&nbsp; &nbsp;&nbsp;</p><p>The vast majority of <strong>applied</strong> machine learning is <strong>supervised machine learning</strong>. The word <strong>applied</strong> means you build models in the real world. <strong>Supervised</strong> machine learning is a type of machine learning that involves building models <strong>from data that exists</strong>.&nbsp; &nbsp;&nbsp;</p><p>A good way to think about <strong>supervised machine learning</strong> is:&nbsp;&nbsp;If you can get your data into a <strong><em>tabular format</em></strong>, like that of an excel spreadsheet, then most machine learning models can model it.&nbsp; &nbsp;&nbsp;</p><p>In the <strong>course</strong>, we’ll learn the <strong>different types</strong> of <strong>algorithms </strong>used. We will also cover the <strong>nomenclature </strong>specific to machine learning. Every discipline has their own vernacular and data science is not different. &nbsp;&nbsp; &nbsp;</p><p>You’ll also learn why the <strong>Python programming language</strong> has emerged as the gold standard for building real world machine learning models.&nbsp; &nbsp;&nbsp;</p><p>Additionally, we will <strong>write a simple neural network</strong> and <em>walk through</em> the process and the <strong>code step by step</strong>. Understanding the code won't be as important as understanding the importance and effectiveness of one simple artificial neuron.&nbsp;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong>*Five Reasons to take this Course.*</strong>\n\n&nbsp; </p><p><strong>1) You Want to be a Data Engineer&nbsp;</strong>\n\n&nbsp; </p><p>It's the number one job in&nbsp;the world. (not just within the computer space)&nbsp;The growth potential career wise is second to none. You want the freedom to move anywhere you'd like. You want to be compensated for your efforts. You want to be able to work remotely. The list of benefits goes on.&nbsp;\n\n&nbsp; </p><p><strong>2) The Google Certified Data Engineer&nbsp;</strong>\n\n&nbsp; </p><p>Google is always ahead of the game. If you were to look back at a timeline of their accomplishments in the data space you might believe they have a crystal ball. They've been a decade ahead of everyone. &nbsp;Now, they are the first and the only cloud vendor to have a data engineering certification. With their track record I'll go with Google.&nbsp;\n\n&nbsp; </p><p><strong>3)&nbsp;The Growth of Data is Insane&nbsp;</strong>\n\n&nbsp; </p><p>Ninety percent of all the world's data has been created in the last two years. Business around the world generate approximately 450 billion transactions a day. The amount of data collected by all organizations is approximately 2.5 Exabytes a day. That number doubles every month.&nbsp;\n\n&nbsp; </p><p><strong>4) Machine Learning in Plain English</strong>\n\n&nbsp; </p><p>Machine learning is one of the hottest careers on the planet and understanding the basics is required to attaining a job as a data engineer. &nbsp;Google expects data engineers to be able to build machine learning models. In this course, we will cover all the basics of machine learning at a very high level. \n\n&nbsp; </p><p><strong>5) You want to be ahead of the Curve&nbsp;</strong>\n\n&nbsp; </p><p>The data engineer role is fairly new. &nbsp;While you’re learning, building your skills and&nbsp;becoming certified you are&nbsp;also the first to be part of this burgeoning field. &nbsp;You know that the first to be certified means&nbsp;the first to be hired and first to receive the top compensation package.&nbsp;\n\n</p><p>Thanks for your interest in&nbsp;&nbsp;<strong>An Introduction to Machine Learning for Data Engineers.</strong>&nbsp;</p>",
+            "suitableLearners": [
+                "Data engineering students that need to learn the basics of machine learning for the Google Certified Data Engineering exam.",
+                "Anyone interested in learning what machine learning is and why Python is the gold standard for building models."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-02-24T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-02-27T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    }
+]

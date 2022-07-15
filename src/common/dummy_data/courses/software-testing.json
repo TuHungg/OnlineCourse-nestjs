@@ -1,0 +1,1225 @@
+[{
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a601faf7ad1701fe814b6"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 6283,
+            "studentCount": 31788,
+            "avgRatingScore": 4.551401,
+            "contentVideoLength": 47924
+        },
+        "basicInfo": {
+            "udemyCourseId": 1560542,
+            "slug": "learn-cucumber-bdd-with-java-masterclass-selenium-framework",
+            "title": "Learn Cucumber BDD with Java -MasterClass Selenium Framework",
+            "subtitle": "Step by Step Cucumber BDD Framework Tutorial with Java and implement Robust Selenium WebDriver Framework from scratch",
+            "image": "https://img-c.udemycdn.com/course/240x135/1560542_53ed.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "By end of this course , You will be able to develop Top class Cucumber BDD Selenium Test Framework from Scratch",
+                "Understand how BDD(Behaviour driven development) approach works to write Scenarios for Test Automation",
+                "Indepth understanding of Core Cucumber framework concepts like Dependency Injection, Parallel execution, CI/CD Integration",
+                "Practical knowledge on Datadriven testing, Parameterizations, Resuable components, Cucumber hooks, tags & Attributes",
+                "Generate HTML, XML, PDF, Extent reports with Cucumber with Screenshots attached on failure Scenarios",
+                "Learn to develop Readable, Maintainable and Scalable framework using Cucumber and Selenium WebDriver by following Page Object Model design",
+                "Understand Selenium Cucumber Frameworks using both Junit & TestNG Runners",
+                "Learn Design Patterns & Best Practices to implement Loosely coupled tests in the Framework",
+                "Learn how to Schedule your Framework tests in Jenkins CI/Cd with auto trigger regExpressions",
+                "Learn supporting tools like Maven, Github and Jenkins",
+                "Understand running Cucumber Scenarios in Parallel Mode using TestNG & Maven Junit"
+            ],
+            "requirements": [
+                "No BDD & Cucumber knowledge is required. I have explained everything from Scratch",
+                "No Java knowledge is required. I have got you covered with dedicated section on Core java at the end of this course as optional learning",
+                "Basic Selenium knowledge is good to have",
+                "•Course includes real time projects with practical Solutions for the Robust Test Frameworks building"
+            ],
+            "description": "<p><strong>Course last Updated on Jan 27th with Latest Cucumber Version 7 Framework Videos.</strong><br>Say Good bye in writing &nbsp;hell lot&nbsp;of the code&nbsp;to&nbsp;develop&nbsp;&nbsp;Automation&nbsp;Frameworks and welcome Cucumber BDD!<br>\"<strong>Cucumber- A&nbsp;life saver tool for QA Industry in developing Test Frameworks with minimal programming&nbsp;knowledge..&nbsp; &nbsp;<br>&nbsp;This course helps you to&nbsp;build a top class BDD framework So that you can implement it for any Automation test cases developed in Selenium, Appium, Rest Assured API.</strong></p><p>On course completion You will be Mastered in Selenium Cucumber BDD framework and can implement Successfully it in your work place for any automation test cases you have</p><p><strong>This course is divided into 2 Parts.</strong></p><p><em>In part 1 , You will get complete understanding of all Cucumber features and its framework functionalities which does not require any prerequisite. Below are the topics discussed in part 1</em></p><p><strong>Understand Gherkin Syntax<br>Understand Cucumber Scenarios <br>Feature files &amp; Step Definition files<br>cucumber Test Runner (Junit &amp;&nbsp;TestNg)<br>Cucumber regular expressions<br>Cucumber tags &amp;&nbsp;Background keyword<br>Cucumber Scenario outline for parameterization<br>Cucumber Datatables<br>Cucumber hooks<br>Tagged Hooks mechanism<br>Cucumber plugins<br>cucumber reports<br>Cucumber attributes<br>Cucumber Parallel execution</strong></p><p><br></p><ul><li><p><em>In Part 2- We will inject Selenium code and develop end to end Cucumber Selenium&nbsp;Framework from Scratch. Below are the topics</em></p></li><li><p>&nbsp;<strong> &nbsp; Build Maven Project with all the framework dependencies </strong></p></li><li><p><strong>Develop End to end Selenium Web Scenarios in the feature file</strong></p></li></ul><ul><li><p><strong>Implement TestNG /Junit Runner to run the framework</strong></p></li><li><p><strong>Understand the Single responsibility principle to distribute the implementation into multiple Step definitions.</strong></p></li><li><p><strong>Importance of Dependency injection to share the data between the Steps file</strong></p></li><li><p><strong>Understand the Page object Pattern to drive the locators from page files</strong></p></li><li><p><strong>Implement Factory Design pattern by writing PageObjectManager class to create objects of all PO classes</strong></p></li><li><p><strong>How driver can be configured and distributed across the files in the framework</strong></p></li><li><p><strong>How to run Cucumber Scenarios in Parallel Mode using Cucumber TestNG Runner</strong></p></li><li><p><strong>Build Test utilities for reusable Selenium methods</strong></p></li><li><p><strong>Implement Cucumber Hooks to capture Screenshots on test failures</strong></p></li><li><p><strong>Implement Cucumber Tags to run selected tests in the framework</strong></p></li><li><p><strong>Parameterizing the test data to run the Scenarios with multiple data sets</strong></p></li><li><p><strong>Creating HTML &amp; Extent reports to run Cucumber Selenium tests</strong></p></li><li><p><strong>Running tests in parallel mode and generate Extent reports with screenshots attached for failed Scenarios</strong></p></li><li><p><strong>Run the cucumber tests using Maven &amp; Command line options</strong></p></li><li><p><strong>Integrate the Framework to CI/CD Jenkins and Schedule the Jobs on regular time Interval</strong></p></li><li><p><strong>Create Parameterized Jenkin job to dynamically send the global properties at run time of Job execution</strong></p></li></ul><p><br></p><p>All the above topics are discussed from scratch level with lots of Practical examples for better understanding..</p><p>Wish you good Luck!</p>",
+            "suitableLearners": [
+                "QA Aspirants, Automation testers, Beginners to IT , Freshers/Grauduates"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-01-30T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-02-02T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a601faf7ad1701fe814b6"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 6256,
+            "studentCount": 28333,
+            "avgRatingScore": 4.3348947,
+            "contentVideoLength": 22484
+        },
+        "basicInfo": {
+            "udemyCourseId": 1343662,
+            "slug": "selenium-webdriver-with-java-cucumber-bdd",
+            "title": "Selenium WebDriver with Java & Cucumber BDD",
+            "subtitle": "Build a start to finish web automation testing framework and simulate user behavior on a web application + LIVE TEST APP",
+            "image": "https://img-c.udemycdn.com/course/240x135/1343662_39c4_6.jpg",
+            "price": 687970,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Write realistic automated test scripts for web applications",
+                "Build robust test frameworks and custom libraries",
+                "Integrate Java with Selenium",
+                "Design a data-driven test framework",
+                "Find elements on a web page and simulate user behavior",
+                "Automate user actions across multiple browser platforms",
+                "Develop Cucumber / BDD test plans with feature files using Gherkin",
+                "Continuous integration and testing"
+            ],
+            "requirements": [
+                "Basic knowledge of Java",
+                "Basic understanding of programming is helpful",
+                "Understanding of web pages",
+                "Working computer with Firefox or Chrome browser",
+                "Familiar with software testing"
+            ],
+            "description": "<p>Become an <strong>experienced automation tester</strong> by building a <strong>test framework</strong> with Selenium WebDriver using Java language. This course will provide you an overview of automation and a practical guide to building a framework with Java. Then<strong> explore the power of Selenium WebDriver and Cucumber</strong><strong>!</strong></p><p><strong></strong>Today's software development uses <strong>TDD </strong>and <strong>BDD </strong>practices and requires <strong>continuous integration</strong> and<strong> continuous deployment.</strong> Automation testers are needed to develop robust, clean, and thorough frameworks for<strong> regression testing, functional testing, and acceptance testin</strong><strong>g.</strong> Selenium WebDriver is the industry-leading, open-source tool that allows scrum teams to deliver quality software fast!</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Learn how to apply BDD principals and develop feature files with <strong>Given-When-Then structure using Cucumber framework and Gherkin language.</strong> Apply Cucumber framework knowledge with Java step implementations to automate web actions with Selenium.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>Build a <strong>robust test framework</strong></li><li>Develop your own <strong>data-driven framework</strong></li><li><strong>Interact with elements</strong> on a web page</li><li>Use <strong>Java to automate web actions</strong></li><li>Construct <strong>BDD tests with Cucumber</strong></li><li>Implement the<strong> Page Object Model</strong></li><li>Utilize popular test frameworks like <strong>JUnit</strong> and <strong>TestNG</strong></li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>This course has been taken from <strong>years of experience in training consultants and new hire orientation corporate training</strong>. Enroll in this course to get a thorough overview of automation, frameworks, Selenium WebDriver, and BDD with Cucumber!<br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>I don't waste time on a lot of configuration</li><li>I don't waste time on unnecessary topics</li><li>I focus on making Selenium WebDriver automate user actions</li><li>I focus on building frameworks</li><li>I focus on conceptual and technical concepts</li><li>I focus on applying our knowledge to build complete, realistic tests</li></ul>",
+            "suitableLearners": [
+                "Anyone who wants to learn how to test web applications",
+                "Manual testers / QA",
+                "Anyone who wants to apply Java to real-world projects"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2017-11-23T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2017-11-26T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a601faf7ad1701fe814b6"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 5920,
+            "studentCount": 22909,
+            "avgRatingScore": 4.346201,
+            "contentVideoLength": 9713
+        },
+        "basicInfo": {
+            "udemyCourseId": 1645294,
+            "slug": "postman-api-testing-step-by-step-for-beginners",
+            "title": "POSTMAN API Testing - Step by Step for Beginners",
+            "subtitle": "learn POSTMAN Step by Step from scratch with real world examples",
+            "image": "https://img-c.udemycdn.com/course/240x135/1645294_4b84_5.jpg",
+            "price": 687970,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "By the end of this course you will have complete hands-on knowledge on working with POSTMAN",
+                "In-depth understanding of all features and settings of POSTMAN",
+                "You will be able to create end-to-end API Testing projects with POSTMAN",
+                "Complete hands-on knowledge on How to run your tests from command-line and Jenkins Continuous Integration",
+                "******* You will get complete support with all your doubts, questions and issues *******"
+            ],
+            "requirements": [
+                "***** No prior specialized knowledge is required *****",
+                "Every lecture will start from scratch and you do not need any prior knowledge on Postman or API testing",
+                "There will be real world examples and demo",
+                "Do not worry if you have never done programming, or api testing, I will start from scratch and go up step-by-step with hands-on"
+            ],
+            "description": "<p>This course is created for complete beginners.&nbsp;</p><p>Get started with POSTMAN step by step.</p><p>If you are a complete beginner on Postman, this course is for you.&nbsp;Very basic step by step videos to guide you from scratch.&nbsp;</p><p>In this session we will learn</p><ul><li><p>What is POSTMAN</p></li><li><p>How to download and install</p></li><li><p>Understand Postman GUI</p></li><li><p>Create Collections, Variables, Environments and Tests</p></li><li><p>Data Driven Testing</p></li><li><p>Run from command-line and Jenkins</p></li></ul><p>Let's Get Started...</p>",
+            "suitableLearners": [
+                "Anyone who wants to learn POSTMAN from scratch",
+                "If you want to create complete end-to-end API Testing projects with Postman",
+                "Anyone who wants to learn API execution & testing with POSTMAN",
+                "Beginners in POSTMAN API testing"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-01-10T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-01-13T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a601faf7ad1701fe814b6"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 5782,
+            "studentCount": 26351,
+            "avgRatingScore": 4.4919114,
+            "contentVideoLength": 112031
+        },
+        "basicInfo": {
+            "udemyCourseId": 696050,
+            "slug": "selenium-webdriver-with-python-3x-novice-to-ninja",
+            "title": "Selenium WebDriver With Python 3.x - Novice To Ninja",
+            "subtitle": "Join the best course to learn how to implement an automation framework from scratch using real web application",
+            "image": "https://img-c.udemycdn.com/course/240x135/696050_1742_4.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "***** At the end of this course, you will have detailed understanding of Web Automation Frameworks",
+                "You will be able to EXPLAIN, DESIGN and IMPLEMENT structured AUTOMATION FRAMEWORKS",
+                "***** You should be able to lead any Selenium Automation Project on your own",
+                "You will have required skills to automate any web application",
+                "You will be able to get hands on Python Programming Language",
+                "***** You will be able to understand and write efficient testing code",
+                "You will be able to perform CROSS-BROWSER testing",
+                "You will have good understanding of Unittest and Pytest Frameworks",
+                "If you are looking for a job, with all this great knowledge you should be easily able to clear Selenium Automation interviews"
+            ],
+            "requirements": [
+                "Windows/MAC computer",
+                "Browsers (Firefox or Chrome)",
+                "***** NO AUTOMATION / CODING EXPERIENCE NEEDED, beginners will be easily able to follow this course",
+                "Python Programming Language concepts are covered in the course, no experience needed",
+                "All the required installation are covered in the lectures and documentation has been uploaded to the course"
+            ],
+            "description": "<p><strong class=\"redactor-inline-converted\">*** Best Selenium WebDriver With Python Programming Language Course *** Complete Framework Implementation From Scratch ***</strong>\n</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>This course includes a wide range of topics from <strong class=\"redactor-inline-converted\"><em class=\"redactor-inline-converted\">Selenium WebDriver</em></strong> Basics and  Advanced, <strong class=\"redactor-inline-converted\"><em class=\"redactor-inline-converted\">Python Programming Concepts</em></strong>, <strong class=\"redactor-inline-converted\">Unittest And Pytest</strong> <strong class=\"redactor-inline-converted\"> Framework</strong>, <strong class=\"redactor-inline-converted\">Automation Framework Design</strong> (<em class=\"redactor-inline-converted\">Page Objects, Data Driven, Reading CSV Files</em>), <strong class=\"redactor-inline-converted\">Logging Infrastructure</strong>, <em class=\"redactor-inline-converted\">Cross-Browser Testing</em><strong class=\"redactor-inline-converted\">,</strong><strong class=\"redactor-inline-converted\"> Interview Preparation</strong>. All materials including <strong class=\"redactor-inline-converted\"><em class=\"redactor-inline-converted\">code files</em></strong>.<strong class=\"redactor-inline-converted\"><br>You achieve two targets with one single course</strong><br></p>\n\n\n\n<ol><li>Complete Python Programming Language</li><li>Selenium WebDriver Automation</li></ol>\n\n\n\n<p><strong>Why Python Programming Language?</strong></p>\n\n\n\n<p><em>Python Programming Language is the fastest growing programming language within both the fields, development and testing. QA industry is rapidly progressing to move on with Python Programming Language for all the automation needs because of the flexibility it offers.</em><br></p>\n\n\n\n<p><strong class=\"redactor-inline-converted\">***** One stop place to become an Expert in <em class=\"redactor-inline-converted\">Web Automation Framework</em> related technologies from scratch *****</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\"> We start from Beginners \nlevel and go through Advance level. This is a single course for \neverything you need to know related to Web UI Automation.</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">********************* <em class=\"redactor-inline-converted\">WHAT MAKES THIS COURSE BEST ON UDEMY?  </em><strong class=\"redactor-inline-converted\">*****************************</strong></strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\"><strong class=\"redactor-inline-converted\">We assume that students have no experience in automation/coding and start every topic from scratch and basics.</strong></strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Examples are taken from<strong class=\"redactor-inline-converted\"> TESTING REAL TIME HOSTED WEB APPLICATIONS </strong>to\n understand how different components can be automated, that will give \nyou idea of industry level framework and give you confidence.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">NO PRIOR CODING OR AUTOMATION EXPERIENCE NEEDED</strong><strong class=\"redactor-inline-converted\">, </strong>this course covers all the necessary topics.\n</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Get more than <em class=\"redactor-inline-converted\"><strong class=\"redactor-inline-converted\">20 hours of unique content with real example code files</strong></em> provided to refer and learn with examples.\n</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Get awesome Support, on demand desktop session on Team Viewer and Skype.</strong>\n</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">*******************************************************************************************************</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong class=\"redactor-inline-converted\">Join the group of more than 25000 students learning from us in different courses with positive feedback.</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li><strong class=\"redactor-inline-converted\">Are you looking to step into automation industry with the latest technologies in market?</strong></li><li><strong class=\"redactor-inline-converted\">Are you keen to learn GUI automation using Selenium WebDriver With Python Programming Language and other latest framework technologies?</strong></li><li><strong class=\"redactor-inline-converted\">Interested in learning how Selenium WebDriver is used in projects?</strong></li></ul>\n\n\n\n<p>Please take a look at the complete curriculum to get an idea of topics covered in this course.</p>",
+            "suitableLearners": [
+                "Quality Assurance professionals and Manual testers looking to start career on test automation",
+                "Quality Assurance Automation professionals to intensify their current test automation skill sets",
+                "Fresh Graduates who want to make a dream career in software engineering",
+                "Quality Assurance Team leads and Managers"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-07-14T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-07-17T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a601faf7ad1701fe814b6"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 5526,
+            "studentCount": 72403,
+            "avgRatingScore": 4.3814473,
+            "contentVideoLength": 23316
+        },
+        "basicInfo": {
+            "udemyCourseId": 1141808,
+            "slug": "builddeploytest-with-jenkins-20",
+            "title": "Build+Deploy+Test with Jenkins 2.0",
+            "subtitle": "Learn Jenkins 2.0 for end-to-end testing of applications",
+            "image": "https://img-c.udemycdn.com/course/240x135/1141808_f32f_5.jpg",
+            "price": 687970,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Understand what Jenkins 2.0 is",
+                "Understand Jenkins 2.0 freestyle project",
+                "Understand Jenkins 2.0 pipeline projects",
+                "Working with both Java and .Net project ",
+                "Working with Agents",
+                "Working with Docker cross browser testing"
+            ],
+            "requirements": [
+                "Good understanding on Continuous integration concepts",
+                "Basic understanding on Selenium",
+                "Basic understanding on Java/C#",
+                "Basic understanding on any scripting language"
+            ],
+            "description": "<p>Build + Deploy + Test with Jenkins 2.0 course is designed in such a way that anyone with a good understanding of basic software development and testing can start learning this course effortlessly.</p><p>This course is designed not just for developers or testers, it's also designed for DevOps and&nbsp;Business Analyst.</p><p><br></p><p>This course covers rich topics&nbsp;from complete&nbsp;ground-up like</p><p><strong>Basics topics</strong></p><ul><li><p><strong><em>Understanding and configuring&nbsp;Jenkins 2.0<br></em></strong></p></li><li><p><strong><em>Understand and work with&nbsp;Jenkins 2.0 freestyle project<br></em></strong></p></li><li><p><strong><em>Understand and work with&nbsp;Jenkins 2.0 pipeline projects<br></em></strong></p></li><li><p><strong><em>Working with both Java and .Net project&nbsp;<br></em></strong></p></li><li><p><strong><em>Configuring and working with multiple&nbsp;Agents<br></em></strong></p></li><li><p><strong><em>Working with Docker and&nbsp;cross-browser testing</em></strong></p><p><br></p></li><li><p><strong><em>Working with Jenkins Blue Ocean</em></strong></p></li></ul><p><strong>Advanced topics</strong></p><ul><li><p><strong>Pipeline as a code</strong></p><ul><li><p>Understanding Pipeline as Code</p></li><li><p>Creating Jenkinsfile from Jenkins Pipeline UI editor to check-in pipeline in Git</p></li><li><p>Understanding and working with Declarative pipeline Syntax for Jenkinsfile build</p></li><li><p>Jenkins Declarative Pipeline Syntax - Archive and Conditional steps</p></li><li><p>Jenkinsfile syntax validator with VS Code</p></li><li><p>Understanding and working with Multi-Branch Pipelines of Jenkins</p></li></ul></li><li><p><strong>Jenkins agents running as a docker container</strong></p><ul><li><p>Introduction and understanding build slaves /Agents for Jenkins</p></li><li><p>Configuring Jenkins Master with Local Docker daemon</p></li><li><p>Running Docker container as build agent via Jenkins file (Part A)</p></li><li><p>Running Docker container as build agent via Jenkins file (Part B)</p></li><li><p>Running Docker container as build agent from Jenkins file</p></li><li><p>Understanding Docker in Docker</p></li><li><p>Building Custom Docker in Docker image for Jenkins master</p></li><li><p>Building and running custom Docker in Docker image of Jenkins master</p></li></ul><p><br></p></li><li><p><strong>Building and deploying application with Jenkins agent within container</strong></p><p><br></p></li><li><p><strong>Building custom docker container with Jenkins master and automating it.</strong></p></li></ul><p><br></p><p>At the end of this course, one can have a clear understanding of what Jenkins is and its awesomeness with simplicity.</p><p><br></p><p><br></p>",
+            "suitableLearners": [
+                "QA",
+                "Dev",
+                "DevOps"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-09-24T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-09-27T00:00:00.000Z"
+        },
+        "promotions": {
+            "enabled": false
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a601faf7ad1701fe814b6"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4882,
+            "studentCount": 14265,
+            "avgRatingScore": 4.3282776,
+            "contentVideoLength": 23067
+        },
+        "basicInfo": {
+            "udemyCourseId": 1460588,
+            "slug": "selenium-webdriver-java-complete-step-by-step-course",
+            "title": "Selenium WebDriver + Java. Complete step by step course.",
+            "subtitle": "Complete course where you will learn automation testing using Selenium WebDriver + Java from scratch.",
+            "image": "https://img-c.udemycdn.com/course/240x135/1460588_0679_9.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Complete understanding of basic to expert Java concepts with practical implementation",
+                "Automate tests using Selenium WebDriver and Java",
+                "You will have required skills to automate any web application",
+                "With all this knowledge gained, you should be easily able to clear Selenium Automation interviews"
+            ],
+            "requirements": [
+                "**** NO AUTOMATION / CODING EXPERIENCE required as everything is taught from the scratch",
+                "Java concepts are covered in the course, no experience needed"
+            ],
+            "description": "<p>This course includes a wide range of topics from <strong><em>Selenium WebDriver</em></strong> Basics and Advanced, <strong><em>Java Concepts</em></strong>, <strong><em>TestNG</em> Framework</strong>, <strong>Automation Framework Design</strong>.</p><p>Enroll in this course to get a thorough overview of automation, frameworks, Selenium WebDriver!\n</p>\n\n<ul><li>I don't waste time on a lot of configuration</li><li>I don't waste time on unnecessary topics</li><li>I focus on making Selenium WebDriver automate user actions</li><li>I focus on conceptual and technical concepts</li><li>I focus on applying our knowledge to build complete, realistic tests</li></ul><p><br></p><ul></ul>",
+            "suitableLearners": [
+                "Manual Testers who wants to switch to Automation testing",
+                "Anyone who wants to learn how to test web applications",
+                "Test Managers",
+                "Fresh Graduates who want to make a dream career in software engineering"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2020-07-30T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2020-08-02T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a601faf7ad1701fe814b6"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4825,
+            "studentCount": 25379,
+            "avgRatingScore": 4.51185,
+            "contentVideoLength": 172323
+        },
+        "basicInfo": {
+            "udemyCourseId": 1428208,
+            "slug": "selenium-webdriver-masterclass-basic-advance-architect",
+            "title": "Selenium WebDriver MasterClass (Basic + Advance + Architect)",
+            "subtitle": "Selenium WebDriver Selenium Testing Framework from Scratch using TestNG POM Java Selenium DataDriven Framework Cucumber",
+            "image": "https://img-c.udemycdn.com/course/240x135/1428208_1e22_14.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Zero Prior Knowledge of WebDriver, Java  & Automation Testing required. We will start from very Basics",
+                "By the end of the course, You will be able to develop an awesome Test Automation framework",
+                "Expertise to become Lead SDET / Automation Architect",
+                "Automatic window/frame switching using Aspect oriented programming (AOP)",
+                "Parallel test execution in local / remote grid",
+                "\"Last but not least\" you can clear any Interview and can Lead Entire Selenium Automation Project from Design Stage.",
+                "You will improve your Selenium with Java coding skills in writing best optimized code for Automating test-cases."
+            ],
+            "requirements": [
+                "You Don't need to have Core Java basic coding experience & Selenium Knowledge to start this course. We will cover from scratch.",
+                "You will have instructor support to get solved all your queries.",
+                "Join in our Selenium Training community, Learning Together which you will not see in any other Selenium online course on Udemy.",
+                "Course includes real time projects with practical Solutions for the Robust Selenium Testing Framework building."
+            ],
+            "description": "<p><strong>Selenium Certification Training will help you in mastering the various concepts of Selenium from scratch. </strong></p><p><strong>Selenium Training will help you master important concepts such as TestNG, Selenium WebDriver with Java, Selenium Grid, XPath and Waits, IFrames and Alerts in Selenium WebDriver 3, Selenium POM Frameworks, Selenium Data Driven Framework,&nbsp; Selenium Hybrid Framework, and so on. </strong></p><p><strong>This Selenium Certification Training is also a gateway towards your Automation testing career.</strong></p><p><br></p><p><strong>Selenium WebDriver with Java Training - Expert Level</strong></p><p>One of the Biggest, Oldest, and Most Demanding Selenium courses on Udemy. Cover almost everything you need to Master in Selenium Webdriver &amp; Automation Testing Framework designing like Hybrid Framework, Data-Driven framework, Cucumber BDD Framework.</p><p><br></p><p><strong>YOU ARE ABOUT TO MASTER THE SELENIUM AUTOMATION.</strong></p><p><strong><em>Latest Addition: Complete Cucumber Framework from Scratch</em></strong></p><p><strong>Covers: TestNG, Selenium WebDriver, Selenium GRID, Selenium Framework Designing, All Major Selenium Automation Frameworks, Reporting, Live Projects, and Interview Preparation.</strong></p><p>********What makes this course unique from others**********************</p><p>200+ Lectures, Around 48+ hours of Latest and unique content which you will not find in any other Selenium courses on Udemy. This course covers Basics + Advance + Architect level topics on Selenium and Framework designing.</p><p>You will also get Live support in your queries and project via interactive webinar sessions and Team Viewers.</p><p>**************************************************************************************************</p><p>This course covers every concept in Selenium automation from ground to sky level, which needs the current automation industry.</p><p><br></p><p>**********COURSE HIGHLIGHTS**************************</p><p><strong>TestNG / Seleliun WebDriver with all Advance level concepts<br>Selenium GRID<br>JUnit / TestNG, ANT, Report generation, batch execution<br>SVN and MAVEN<br>Git, Github<br>Continuous Integration - Jenkins / Hudson<br>Data-Driven Framework<br>Hybrid (Keyword + DataDriven) Framework<br>Page Object Model with factories<br>Java Collection Framework</strong></p><p><strong>Cucumber Framework Designing</strong></p><p>Live Examples and Assignments<br>*******************************************************************************************************</p><p><br></p><p>Not just the video lectures you will see the entire coding part done step by step and the lectures are explained in a very detailed and practical approach is taken in every example by the trainer.</p>",
+            "suitableLearners": [
+                "Engineering Students, Manual QA Engineers, Industry QA Professionals, Automation Testing Professionals",
+                "Theoretical Material,Code dump and Interview Guide are available."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-11-26T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-11-29T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a601faf7ad1701fe814b6"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4737,
+            "studentCount": 22916,
+            "avgRatingScore": 4.653277,
+            "contentVideoLength": 76736
+        },
+        "basicInfo": {
+            "udemyCourseId": 1699476,
+            "slug": "learn-protractorangular-testing-from-scratch-framework",
+            "title": "Learn Protractor(Angular Testing) from scratch +Framework",
+            "subtitle": "Step by Step tutorial to understand Protractor using Javascript&Typescript +Framework development(Cucumber,Jasmine)",
+            "image": "https://img-c.udemycdn.com/course/240x135/1699476_fcc0.jpg",
+            "price": 458570,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "By end of this course, You will get complete knowledge on Protractor API to automate any Angular/NonAngular Apps",
+                "In-depth knowledge of JavaScript with Asynchronous Promise concepts",
+                "You will gain the ability to design Protractor framework from scratch using jasmine Unit testing techniques",
+                "Understand the Nodejs principles and package json in depth for CI integration",
+                "Includes a Practice Website to play around with all available Protractor functions to automate",
+                "Crack any Protractor Interview on Single shot!"
+            ],
+            "requirements": [
+                "No prior experience required on any language. Everything including Tool setup instructions are taken care in the course.",
+                "Theoretical Material,Code dump and Interview Guide are available for download",
+                "You will have Life Time instructor support to get solved all your queries and we will get back with solutions in less than 12 hours"
+            ],
+            "description": "<ul><li><p><strong>Course Last Updated- </strong>March 3rd- [<strong><em>Protractor Cucumber BDD Framework</em></strong>] </p></li><li><p><strong>\"Welcome to The only online course in the World which covers end to end Automation using Protractor API from Complete Scratch to Framework level using&nbsp; Javascript Jasmine &amp; Typescript Cucumber. \"<br><em>Why Protractor?</em></strong><br>&nbsp; Protractor turns out be the Hottest Automation testing tool in the market with sudden increase in demand of of Javascript Frameworks like Angular, React for Front End UI development.&nbsp;</p></li></ul><ul><li><p>Protractor is developed by Angular core team and takes clear edge over all other testing tools for Angular Apps automation in terms of stability, reliabity ,Performance and Code complexity.</p></li></ul><p>And I Bet! On course Completion You can clear any interview or develop Protractor framework on your own.</p><p>As a bonus apart from protractor, You will learn lots&nbsp; of new&nbsp; technologies in this course such as Javascript,Typescript, Node, jasmine,&nbsp; etc.</p><p><strong>Below is the course Content we Cover:</strong></p><p>Introduction to protractor<br>Node.js basics with setup instructions<br>Protractor Setup and installation<br>Javascript Basics<br>Protractor API Overeview<br>Different locator strategies available in Protractor<br>Understanding Javascript Asynchronous promises<br>Working with Angular UI Elements with Protractor<br>Understanding the configuration file<br>20+ Practise exercises on UI Automation using Protractor<br>Working with non Angular Apps using protractor<br>jasmine Unit testing framework basics<br>Optimizing protractor tests for Framework development<br>Page object mechanism in JS frameworks<br>Data driven and parameterzation using Jasmine Framework<br>Client reports generation and config methods for Robust framework<br>Indepth understanding of Pacakage.json file and npm commands<br>Integrating the Protractor framework with CI Jenkins tool<br>Introduction to Git Hub</p><p>Wish you all the Best! See you all in the course :)</p>",
+            "suitableLearners": [
+                "Any Software Proffesional"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-04-25T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-04-28T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a601faf7ad1701fe814b6"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4686,
+            "studentCount": 16912,
+            "avgRatingScore": 4.538563,
+            "contentVideoLength": 71707
+        },
+        "basicInfo": {
+            "udemyCourseId": 3292616,
+            "slug": "istqb-foundation-level-2022-complete-training",
+            "title": "ISTQB Foundation Level 2022 Complete Training",
+            "subtitle": "The best way to prepare for the ISTQB Foundation Level Exam",
+            "image": "https://img-c.udemycdn.com/course/240x135/3292616_0a27_2.jpg",
+            "price": 802670,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "ISTQB Foundation Level Syllabus Content",
+                "Black Box & White Box Techniques",
+                "Difference between Static Testing & Dynamic Testing"
+            ],
+            "requirements": [
+                "Good knowledge about English language",
+                "Good knowledge in dealing with computers"
+            ],
+            "description": "<p>This course is a complete explanation of the ISTQB&nbsp;Foundation Level Certified Tester Syllabus.</p><p>Once you study the whole course you will be ready to apply for the exam.</p><p>Each section in the syllabus is explained in a separate video which makes the learning process easier for the trainee.</p><p>All course content is updated to the latest version of the syllabus.</p><p>=======================================</p><p><strong>These are some of the reviews of the students who used this course as a source for preparing for the ISTQB&nbsp;Foundation Level Exam:</strong></p><p><strong><em>\"Took the exam last Saturday and passed. There are many concepts that were explained here which is not in the syllabus. The examples given helped me understand the concepts better.\"</em></strong></p><p>Joanne Rufino</p><p><br></p><p><strong>\"Thank you sir for providing this wonderful course your teaching techniques are good.i got cleared ISTQB exam\"</strong></p><p>surya walke</p><p><br>\"<strong><em>This my first time in a testing career and I came from a field is no longer relate to the software at all but really I am very interested in this course and knowing many pieces of information not only in an academic way but also in real professional life. The instructor is really amazing and the course is very organized\"</em></strong></p><p>Ahmed Abdel Aziz</p><p><br>\"<strong><em>This is not my first course of this instructor. I purchased this too, because he explains well, with examples and helps me to prepare for the ISTQB exam. Also, he has some ISTQB exams, very well made and very helpful. Thank you. Well...I attempted the ISTQB Foundation level, yesterday, on January 15. I PASSED!!! You explained very good the exercises and questions and I made all of them at the exam. Thank you very much. All the best and good luck.\"</em></strong></p><p>Elena Herghelegiu</p><p><br>\"<strong><em>Thank you very much Eng. Tarek for this course i planned to take the exam for ISTQB FL on 30th of September, 2020</em></strong></p><p><strong><em>update :-I got my Certification on 4th of October,2020\"</em></strong></p><p>Mohamed Seoudy</p><p><br></p><p><strong><em>\"As a Mexican (non native English speaker) I totally understood Tarek's accent. All the concepts were easily understandable with the help of his examples. I would totally take another course with him. Thanks, Tarek!\"</em></strong></p><p>Jessica Malfavon</p><p><br>\"<strong><em>Yes, being an interested fresher in this domain where certification is the key to unlock many doors, this detailed session[s] is helping me build a strong base.\"</em></strong><br>Yogesh Pai</p><p><br>\"<strong><em>Excellent Explanation and it is very detailed to deliver the information in a perfect way. Thanks alot Eng tarek roshdy\"</em></strong></p><p>Nour Eldeen Mohamed Moustafa</p><p><br>\"<strong><em>This course is so useful and important for any one want to begin in this field(software testing) and the instructor make effort to explain every information. I really recommended it for the beginners\"</em></strong></p><p>Asmaa abd El-naser Mostafa</p><p><br>\"<strong><em>The course is based on the Certified Tester Foundation Level Syllabus 2018. It follows exactly what's written in the Syllabus. Going through Tarek's videos instead of reading directly from the Syllabus makes it easier to learn. Everything is explained properly. Particularly for myself as I'm not from an English speaking background. There are also questions to check your understanding of the syllabus. Overall, this course is great.</em></strong></p><p><strong><em>Edit January 2021: I passed with success the ISTQB CTFL in December 2020. Thanks for the great work Tarek!\"</em></strong></p><p>Ronan Gueguen</p><p><strong>========================&nbsp; </strong><br></p><p><br></p>",
+            "suitableLearners": [
+                "QA Engineers",
+                "Software Testers",
+                "Software Engineers",
+                "Software Developers",
+                "Project Managers"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-03-07T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-03-10T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a601faf7ad1701fe814b6"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4376,
+            "studentCount": 24042,
+            "avgRatingScore": 4.492178,
+            "contentVideoLength": 27287
+        },
+        "basicInfo": {
+            "udemyCourseId": 2151486,
+            "slug": "software-testing-masterclass-2022-from-novice-to-expert",
+            "title": "Software Testing Masterclass (2022) - From Novice to Expert",
+            "subtitle": "Learn software testing and become QA Engineer/Agile Tester. Mobile/Backend/Web/QA testing. JIRA, TestRail & much more!",
+            "image": "https://img-c.udemycdn.com/course/240x135/2151486_095a_6.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Learn the core testing skills needed to apply for Software Testing positions in just 7 hours.",
+                "Be able to demonstrate your understanding of software testing to future employers.",
+                "Test tooling, JIRA, Confluence, TestRail, TestLodge, Charles Proxy, Postman, gitHub and Miro which will help you to be a great software tester.",
+                "Discover the freelancing opportunities and start earning money from testing!",
+                "Engage with the testing community and learn all the hot topics in the IT industry."
+            ],
+            "requirements": [
+                "A computer with either Windows, Mac or Linux to install all the free software and tools needed.",
+                "Mobile phone with either iOS or Android for the Mobile application testing section.",
+                "Nothing else! It’s just you, your computer and your dedication!"
+            ],
+            "description": "<p>Welcome to the <strong>Complete Software Testing Masterclass.</strong></p><p><br></p><p>Learn <strong>software testing</strong> with this course and become successful <strong>Software testers / Agile Tester.</strong> Obtain the core <strong>Mobile Testing, Backend testing, Web testing, Test Engineering skills</strong> and learn<strong> JIRA, SQL, TestRail, TestLodge, Confluence, Charles Proxy and gitHub.</strong> At the end of this course, you will have enough knowledge to <strong>get a job as a software tester</strong> or<strong> to start working as a freelancer!</strong> We will also explain many testing platforms, where you can start earning money as a BETA tester.</p><p><br></p><p>We'll take you <strong>step-by-step</strong> through engaging video tutorials and teach you everything you need to know to <strong>succeed as a Software Tester.</strong></p><p><br></p><p>The course includes over <strong>hours and hours</strong> of 1080P (HD) video tutorials with <strong>high-quality sound</strong>. All the videos are <strong>hand edited</strong> and unnecessary parts are removed. You will only learn <strong>\"what you need to learn\"</strong> to become successful!</p><p><br></p><p>All videos have <strong>hand edited subtitles.</strong> We spent many hours to correct all the subtitles to help you to have a smooth learning experience.</p><p><br></p><p><strong>Why should you take this course?</strong></p><p>This is the best and most up to date software testing course on Udemy. We explain all the important testing methodology in both Agile- and modern way, with supporting real life examples. Most of the other testing courses created by inexperience people or someone who has a very few understanding of testing. This course is created by a Senior QA Engineer, who has experience from 3 different countries and who is still actively working at one of the TOP company in the Netherlands.</p><p><br></p><p><strong>Sign up today, and look forward to:</strong></p><ul><li><p>Over 7 hours of HD video content</p></li><li><p>All the knowledge you need to start your software testing career.</p></li><li><p>Start practising online and earn money immediately.</p></li><li><p>Learn the latest IT industry topics and stay up to date.</p></li></ul><p><br></p><p><strong>Don't just take my word for it, see what my past students had to say about the course:</strong></p><p><em>\"I really enjoyed this course. I did some mobile testing in the past but learn some new concepts like postman, testrail, and testlodge. Ozan is a good teacher and this is a great course to take.\" - Merlin Hunter</em></p><p><em>\"I am so glad I took the course, I just ended it and I feel really excited. I found the videos engaging and interesting which kept my attention focused until the end. Lessons are very well organised around key concepts that are communicated in a clear and effective way.\" - Juan Jose Hernandez Garrido</em></p><p><em>\"Great course! It covers all the topics necessary for a good understanding of software testing with the perfect pace and in enough detail. And it is nice that the instructor is a very experienced person in this industry so he knows well what he is talking about. I think this course will be a good choice if you are considering to start a career in QA or want to increase your knowledge in software testing.\" - Ivan Koryshev</em></p><p>\"The most comprehensive and practice-value oriented software testing training I've ever seen.\" - Viktor Samusenko</p><p>\"It was a very good match for me, I enjoyed the techniques used in deploying the lecture. Good examples made it easier for me to understand. Thanks :) \" - Ayodele Lekan</p><p>\"Course was extremely informative and the examples given really helped tie everything together!\" - Selma Sharaf<br></p><p><strong>There’s no risk!</strong></p><p>This course comes with a <strong>full 30 day money-back guarantee</strong>. Meaning if you are not completely satisfied with the course or your progress, you will receive a 100% refund.</p><p><br></p><p><strong>Ready to get started ?</strong></p><p><strong>Enrol now </strong>by<strong> </strong>using the “Add to Cart” button on the right, and become a successful software tester! Or, start watching the preview feature, so you know you’re 100% certain this course is for you.</p><p><strong>See you at the course!</strong></p>",
+            "suitableLearners": [
+                "This course is perfect for absolute beginners with no previous testing experience.",
+                "For intermediates looking to sharpen their skills to the expert level.",
+                "Those looking to build software testing knowledge and get a job in the IT industry.",
+                "Basically to anyone who wants to learn more testing!"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-02-27T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-03-02T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a601faf7ad1701fe814b6"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4355,
+            "studentCount": 21965,
+            "avgRatingScore": 4.50199,
+            "contentVideoLength": 7800
+        },
+        "basicInfo": {
+            "udemyCourseId": 1211596,
+            "slug": "testing-angular-4-previously-angular-2-apps-with-jasmine",
+            "title": "Testing Angular 4 (previously Angular 2) Apps with Jasmine",
+            "subtitle": "Learn to write unit and integration tests for your Angular apps and deploy them with confidence",
+            "image": "https://img-c.udemycdn.com/course/240x135/1211596_127c_3.jpg",
+            "price": 2293770,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Write clean and maintainable tests for your Angular apps ",
+                "Examine how much of your code is covered by tests",
+                "Write tests for re-usable components ",
+                "Write tests for component templates",
+                "Write tests for forms ",
+                "Write tests for confirmation boxes",
+                "Write tests for the navigation",
+                "Write tests for attribute directives ",
+                "Work with asynchronous operations ",
+                "Provide fake dependencies to components under test",
+                "Use spies to track function calls or replace functions "
+            ],
+            "requirements": [
+                "Familiarity with the fundamentals of Angular (Angular 2+)"
+            ],
+            "description": "<p>As your application grows in complexity, the cost of manual testing increases exponentially. Adding a new feature or fixing a bug may break several other places in the application, and covering all those edge cases with <strong>manual testing</strong> ends up being <strong>extremely painful</strong> and <strong>nearly impossible</strong>. <br></p>\n\n<p><br></p>\n\n\n\n\n\n\n\n\n\n\n\n<p>Automated testing is a practice that has been adopted by a lot of <strong>successful software development teams</strong> over the past decade. You simply <strong>write code to test your application</strong>, and then run those tests in an automated fashion. </p>\n\n\n\n\n\n\n\n\n\n\n\n<p><br></p>\n\n\n\n\n\n\n\n\n\n\n\n<p>Initially, your development time increases a bit because you need to write extra code to test your production code. However, that is <strong>the cost that you pay only once</strong>. Once you have those tests in place, you can <strong>run several thousands of them in just a few seconds over and over</strong>. Compare that with the time required to manually test every bit of your application! </p>\n\n\n\n\n\n\n\n\n\n\n\n<p><br></p>\n\n\n\n\n\n\n\n\n\n\n\n<p>With automated testing, you <strong>spend less time fixing bugs</strong> and doing manual repetitive tests every time you add a new feature or fix a bug. Instead, you can spend your time doing more fun things. </p>\n\n\n\n\n\n\n\n\n\n\n\n<p><br></p>\n\n\n\n\n\n\n\n\n\n\n\n<p>In this course, Mosh, <strong>author of several best selling courses on Udemy</strong>, takes you from the ground and gives you <strong>a solid foundation</strong> to write automated tests for your Angular apps. Whether you're an absolute beginner or have some familiarity with automated testing, this course will give you all the necessary skills to write automated tests for your Angular apps. </p>\n\n\n\n\n\n\n\n\n\n\n\n<p><br></p>\n\n\n\n\n\n\n\n\n\n\n\n<p>You'll learn about: <br></p>\n\n\n\n\n\n\n\n\n\n\n\n<ul><li><strong>Automated testing concepts and tools</strong></li><li><strong>What to test and how </strong></li><li><strong>Writing clean, maintainable and trustworthy tests that don't lie  </strong></li><li><strong>Tracking how much of your code is covered by tests </strong></li><li><strong>Testing re-usable components</strong></li><li><strong>Testing templates</strong></li><li><strong>Testing forms</strong></li><li><strong>Testing confirmation boxes</strong></li><li><strong>Testing navigation </strong></li><li><strong>Testing attribute directives</strong></li><li><strong>Mocking dependencies </strong></li><li><strong>Working with asynchronous operations </strong></li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><br></p>\n\n\n\n\n\n\n\n\n\n\n\n<p>If you've taken any of Mosh's courses before, you know what you get. High quality video and audio, outstanding delivery with no mocking around. </p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><br></p>\n\n\n\n\n\n\n\n\n\n<p><br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>\n</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>30-DAY FULL MONEY-BACK GUARANTEE</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n<p>This course comes with a 30-day full money-back guarantee. Take the course, watch every lecture and if you feel like you haven't gained the confidence to write automated tests for your Angular apps, ask for a full refund within 30 days. <strong>All your money back, no questions asked</strong>.</p>\n\n\n\n\n\n\n\n\n\n<p><br></p>\n\n\n\n\n\n\n\n\n\n<p><br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>ABOUT YOUR INSTRUCTOR</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n<p>Mosh (Moshfegh) Hamedani is a software engineer with <strong>15 years of professional experience</strong>. He is the author of <strong>several best-selling courses on Udemy and Pluralsight</strong> with over <strong>74,000 students</strong> in <strong>172 countries</strong>. His students describe him as a passionate, pragmatic and motivational instructor.</p>\n\n\n\n\n\n\n\n\n\n<p><strong><br></strong></p>\n\n\n\n\n\n\n\n\n\n<p><strong>So, do you want to write automated tests for your Angular apps? </strong></p>\n\n\n\n\n\n\n\n\n\n\n\n<p>Enroll in the course now and you'll start writing your first test in 10 minutes!</p>\n\n\n\n\n\n\n\n\n\n<p><br></p>",
+            "suitableLearners": [
+                "Developers and QA engineers who want to write automated tests for their Angular apps"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2018-04-25T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2018-04-28T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 389980,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a601faf7ad1701fe814b6"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4027,
+            "studentCount": 23017,
+            "avgRatingScore": 3.7330453,
+            "contentVideoLength": 94378
+        },
+        "basicInfo": {
+            "udemyCourseId": 125958,
+            "slug": "in-depth-software-testing-training-course-from-scratch",
+            "title": "In-Depth Software Testing Training Course From Scratch",
+            "subtitle": "QA Software Testing Training Course for ALL + Live Project + JIRA + Bugzilla + Resume and Interview Guidance",
+            "image": "https://img-c.udemycdn.com/course/240x135/125958_7c05_5.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "LIVE PROJECT End to End Software Testing Training Included",
+                "Learn Software Testing and Automation basics from a professional trainer from your own desk",
+                "Information packed practical training starting from basics to advanced testing techniques",
+                "Best suitable for beginners to advanced level users and who learn faster when demonstrated",
+                "Course content designed by considering current software testing technology and the job market",
+                "Practical assignments at the end of every session",
+                "Practical learning experience with live project work and examples",
+                "Lifetime enrollment - Pay one time fee and access video training sessions as many times as you want.",
+                "Resume Preparation Guidance for Testers Included",
+                "Software Testing Interview Questions and Preparation Tips Included",
+                "Download Real Software Testing Templates like Test Plan, Test Cases and other important Templates",
+                "Software Testing Certification Guidance",
+                "Learn Test Management Tools like JIRA, and Bugzilla",
+                "Get all future course updates free!"
+            ],
+            "requirements": [
+                "Anyone with basic computer knowledge can take this course."
+            ],
+            "description": "<p><strong>Learn &amp; Master Software Testing Quickly from the experts - GUARANTEED!</strong>  </p><p><strong><em>THE IN-DEPTH SOFTWARE TESTING TRAINING  - By SoftwareTestingHelp Team</em></strong></p><p><strong><em>*** \"TOP STUDENT PICK\" on Udemy in the Software Testing category!</em></strong></p><p><strong><em>*** 26+ hours of HD content. Value for money! </em></strong></p><p><strong><em>*** DON'T settle for other basic courses of less than 5 hours! </em></strong></p><p><br></p><p><strong>*************************<br></strong></p><p><strong>***Few Student reviews from hundreds of 5 star reviews:***</strong></p><p><em>\"The course is an eye opener into the world of IT\" - </em><strong><em>Theophilus</em></strong></p><p><em>\"Money well spent, excellent delivery. Very informative and practical. Would highly recommend to anyone interested in pursuing software testing as a career\" - </em><strong><em>Olanrewaju</em></strong></p><p><em>\"Truly the best software testing training I have come across both in dept and in substance.\" - </em><strong><em>Kingsley</em></strong></p><p><em>\"This is really \"The Best Software Training Course\". I hardly know anything regarding testing, instructor had taken utmost care in providing the knowledge starting from basics, the terminology etc...I am very much satisfied with this course. I strongly recommend this course.\" - </em><strong><em>Vijaya</em></strong></p><p><em>\"Great tutorials ..in detail ...learned a lot ...must see tutorial for all testers .\" - </em><strong><em>Masud</em></strong></p><p><em>\"The instructor is just a perfect lecturer! Entire course is very informative and useful for software testers as beginners with a lot of practical examples. Who wants to understand principles of testing and main techniques of it - enroll in this course.\" - </em><strong><em>Oleksii</em></strong></p><p><em>\"The instructor according to me.....God has gifted her a real talent to be one of the best tutors in this world.\" - </em><strong><em>Biju</em></strong></p><p><br></p><p>*************************</p><p><strong><em>Introducing the Most Practical, Precise and Inexpensive Software Testing Course</em></strong><br></p><p>It is going to include everything there is to know for you to <strong>become a perfect Software Tester</strong>.</p><p>This software testing QA training course is designed by working  professionals in a way that, course it will progress from introducing  you to the basics of software testing to advanced topics like Software  configuration management, creating a test plan, test estimations etc.  along with introduction and familiarity with Automation testing and  test management tools like QTP (intro), QC, JIRA, and Bugzilla.  </p><p><strong>*************************<br></strong></p><p><strong>Course Benefits:</strong>  </p><ul><li><p><strong>Syllabus:</strong> We came up with a unique list of topics that will help you gradually work your way into the testing world. </p></li><li><p><strong>Practice sessions:</strong> Assignments in a way that you will get to apply the theory you learnt immediately. </p></li><li><p><strong>Video sessions </strong>of Instructor led live training sessions</p></li><li><p><strong>Practical learning experienc</strong>e with live project work and examples </p></li><li><p><strong>Support:</strong> Our Team is going to be available to you via email or the website for you to reach out to us.</p></li></ul><ul><li><p><strong>Over 15+ Lectures</strong> and more than 26+ hours of HD content!</p></li><li><p>Learn Software Testing and Automation basics from a <strong>professional trainer</strong> from your own desk.</p></li><li><p>Information packed <strong>practical training</strong> starting from basics to advanced testing techniques.</p></li><li><p>Best suitable for <strong>beginners to advanced level users</strong> and who learn faster when demonstrated.</p></li><li><p>Get <strong>“Certificate of completion”</strong>.</p></li></ul>",
+            "suitableLearners": [
+                "Software Testers, Developers, Designer, Test Consultants, Test Leads, Test Managers, QA Engineers, QA leads and Managers, Business Analysts, Fresh Graduates, Students",
+                "If you are a just college passout, this is EXACTLY what you are looking for to open the doors for your dream career",
+                "If you are an experienced professional from ANY other field but wanted to be in software testing, this course will help you make this switch smoothly",
+                "If you are an experienced testing professional, you will be amazed with the new things and advanced tactics you will learn to work efficiently and smartly in this field."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2018-10-12T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2018-10-15T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a601faf7ad1701fe814b6"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 3851,
+            "studentCount": 25960,
+            "avgRatingScore": 4.6272345,
+            "contentVideoLength": 48284
+        },
+        "basicInfo": {
+            "udemyCourseId": 1319746,
+            "slug": "automated-software-testing-with-python",
+            "title": "Automated Software Testing with Python",
+            "subtitle": "Learn about automated software testing with Python, BDD, Selenium WebDriver, and Postman, focusing on web applications",
+            "image": "https://img-b.udemycdn.com/course/240x135/1319746_e9b5_4.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Everything you need to know about automated software testing with Python (and how to enjoy testing, too!)",
+                "Common pitfalls and best practices when writing automated tests",
+                "How to write complete system tests using Python and tools like Postman",
+                "Automate your application testing by setting up a continuous integration pipeline using Travis CI",
+                "Browser-based acceptance testing using Behave and Selenium WebDriver"
+            ],
+            "requirements": [
+                "We'll give you a complete Python refresher, but some previous knowledge of programming will be helpful",
+                "Some knowledge of how web applications work",
+                "Understanding of REST APIs will be helpful, but not required"
+            ],
+            "description": "<p>Welcome to the most comprehensive course on Automated Software Testing with Python on Udemy.</p><p>Testing automation doesn't have to be painful. Software testing is an essential skill for any developer, and I'm here to help you truly understand all types of test automation with Python.</p><p>I'm Jose, a software engineer and founder of Teclado. The focus of this course is on testing for the web—we'll be working with REST APIs and web applications, and technologies such as unittest, Postman, and Selenium WebDriver.</p><p>Fear not though, after going through this course, you'll be able to take your new testing knowledge and apply it to any project, even non-web projects!</p><p><strong>What will you work with?</strong></p><p>This course is jam-packed with all the latest technologies for you to use professionally and in personal projects:</p><ul><li><p>The <strong>unittest</strong> library, Python's standard automated software&nbsp;testing library;</p></li><li><p><strong>Mocking and patching</strong>, two essential tools to reduce dependencies when testing;</p></li><li><p><strong>unit, integration, system, and acceptance testing</strong>—all types of testing to have you fully covered;</p></li><li><p><strong>Postman</strong> for easy collaboration and testing while developing;</p></li><li><p><strong>Selenium WebDriver</strong> for <strong>automated browser tests</strong>;</p></li><li><p><strong>Git</strong> and <strong>Travis</strong> for <strong>continuous integration</strong> of your project.</p></li></ul><p><strong>Fundamental Software&nbsp;Testing Skills</strong></p><p>We will cover every fundamental software testing skill that you need to know in order to get a job testing or to apply these skills in your existing projects.</p><p>From things like <strong>mocking and patching</strong> using the <strong>unittest</strong> library, which reduce dependencies and turn complex tests to simple ones; to looking at all types of testing: simple unit tests to large system tests and even customer acceptance tests.</p><p><strong>The Testing Pyramid</strong></p><p>The Testing Pyramid says you should have a lot of <strong>unit tests</strong>, slightly fewer <strong>integration tests</strong>, even fewer <strong>system tests</strong>, and as few <strong>acceptance tests</strong> as possible.</p><p>Throughout the course we work on this concept, making sure that we have <strong>full coverage</strong> of every component of our system with unit tests. Then we test the dependencies using integration tests. Finally, we cover the entire system and its assumptions using system tests. Of course, we'll also look at what acceptance testing is, how we come up with acceptance tests, and some of the best ways to write acceptance tests for a web application using <strong>Behavior-Driven Development</strong> and <strong>Selenium WebDriver</strong>.</p><p><strong>Automated Browser Testing with Selenium WebDriver</strong></p><p>Selenium WebDriver is extremely powerful, particularly when coupled with the efficient and tried-and-tested approach recommended in this course. We'll <strong>design our acceptance tests professionally</strong>—just the way you'd do at a software testing job. We'll use <strong>page models</strong>, <strong>locators</strong>, and <strong>step definitions</strong> to structure the automated tests in a reusable way. The customers will be able to come up with acceptance tests that you can easily translate to code.</p><p>We'll also learn about <strong>implicit and explicit waits</strong> with Selenium WebDriver and Python, a key concept to speed up the runtime of your acceptance tests.</p><p><strong>Continuous Integration</strong></p><p>We also cover how you can take automated testing much further in your projects.</p><p>By implementing a <strong>Continuous Integration pipeline</strong> that runs your tests whenever you make any changes, you'll have much higher quality in your projects and not let any pesky bugs pass you by. We'll look at putting our projects in GitHub and liking the CI pipeline with them.</p><p><strong>I'm really excited to guide you through this course!</strong></p><p>Join me in this automated testing journey. I<strong>'ll see you on the inside</strong>!</p>",
+            "suitableLearners": [
+                "Advanced students who want to learn about testing their Python applications to build more complete solutions",
+                "Professionals wanting to learn more about automated software testing in their workplace",
+                "Automated software testers and software developers"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-04-06T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-04-09T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a601faf7ad1701fe814b6"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 3344,
+            "studentCount": 58703,
+            "avgRatingScore": 4.3569455,
+            "contentVideoLength": 20852
+        },
+        "basicInfo": {
+            "udemyCourseId": 943296,
+            "slug": "understanding-docker-and-using-it-for-selenium-automation",
+            "title": "Understanding Docker and using it for Selenium automation",
+            "subtitle": "Learn docker and containers from complete ground up",
+            "image": "https://img-c.udemycdn.com/course/240x135/943296_79ae_6.jpg",
+            "price": 458570,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Understand the basics of Docker",
+                "Understand how Docker works and spawn running and image as an container",
+                "Working with multiple containers",
+                "Working with docker compose and Docker file",
+                "Running Selenium Tests in Parallel on Dynamic Selenium Docker Grid",
+                "Creating Tests which can spawn Ephemeral Selenium containers",
+                "Running Selenium tests within container along with Application containers"
+            ],
+            "requirements": [
+                "Basic understanding on Virtual machines and operating systems",
+                "Understanding of Selenium automation code",
+                "Basic understanding of C# is a plus"
+            ],
+            "description": "<p><strong><em>Understanding Docker and using it for the Selenium automation</em></strong> course is designed in such a way that anyone with zero knowledge of docker and its related concepts can get up to the speed easily without much effort.</p><p><br></p><p>This course is divided into the following sections, to make learning more streamlined and easier</p><p><strong><em>1. Understanding the ABC of Docker</em></strong></p><ul><li><p>· <strong><em>Basic commands</em></strong></p></li><li><p>· <strong><em>Working with Multiple Docker containers</em></strong></p></li><li><p>· <strong><em>Understanding simple examples with WordPress and MySQL</em></strong></p></li><li><p>· <strong><em>Understanding Docker file</em></strong></p></li><li><p><em>· </em><strong><em>Understanding Docker compose file</em></strong></p></li></ul><p><strong>2. Running Selenium Test with Containerized Selenium Grid and Application</strong></p><ul><li><p><strong>· <em>Writing Selenium C# test</em></strong></p></li><li><p><strong>· <em>Writing Selenium test with Dynamic Selenium grid</em></strong></p></li><li><p><strong>· <em>Writing Driver Fixture and how to handle problems accessing the application</em></strong></p></li><li><p><strong>· <em>Parallel Selenium test execution</em></strong></p></li><li><p><strong>· <em>Parallel Selenium test with Multiple browsers</em></strong></p></li></ul><p>3. <strong>Selenium Tests project to run as a Container</strong></p><p><br></p><p>All these three sections are intrinsic, meaning they are interdependent on each other and hence sometimes students may need to go back and forth to get into some related concepts.</p><p>The first section helps you understand the basics of Docker and get up to the speed of dealing with Docker and its related commands, whereas in the second and third sections we are going to automate a <strong>3-tier application </strong>with <strong>Selenium C#</strong>.</p><p>We will be using the industry-standard way to use automate an application with Selenium and run a dockerized Selenium docker container along with the Application using docker-compose</p><p><br></p>",
+            "suitableLearners": [
+                "This course is designed for Developers and Testers",
+                "Since this course talk about infrastructure, its also for Devops"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-01-28T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-01-31T00:00:00.000Z"
+        },
+        "promotions": {
+            "enabled": false
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a601faf7ad1701fe814b6"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 3261,
+            "studentCount": 21758,
+            "avgRatingScore": 4.4566813,
+            "contentVideoLength": 8702
+        },
+        "basicInfo": {
+            "udemyCourseId": 2450174,
+            "slug": "master-xpath-and-css-selectors-for-selenium-webdriver",
+            "title": "Master XPath and CSS Selectors for Selenium WebDriver",
+            "subtitle": "WebElement Locating Strategies For Selenium WebDriver Aspirants",
+            "image": "https://img-b.udemycdn.com/course/240x135/2450174_4cd4_8.jpg",
+            "price": 573270,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "HTML Basics",
+                "Locating Elements Using ID, Name, Class",
+                "Creating XPath",
+                "Creating CSS Selectors",
+                "Using Locaters in Selenium WebDriver Scripts",
+                "Using XPath and CSS in Selenium WebDriver Scripts"
+            ],
+            "requirements": [
+                "No prior coding experience required. Anyone willing to learn XPath and CSS Selectors can take this course."
+            ],
+            "description": "<p><strong>(Please Read)<em> </em></strong>Note:<em> </em><strong><em>ChroPath</em></strong><em> extension for Chrome, which is used in this course to inspect the elements, is no more available on Chrome. Please use </em><strong><em>SelectorsHub</em></strong><em> extension for the same purpose</em>. Installing and using <strong>SelectorsHub</strong> is very similar to as that of <strong>ChroPath</strong>. </p><p>For the best video streaming quality, please adjust the resolution from 'settings' at bottom right-hand corner of video player. Choose 1080p or 720p as per your network speed.</p><p>This course covers:</p><ul><li><p>WebPage HTML Structure Basics</p></li><li><p>Element Locating Strategies</p></li><li><p>Locating Elements By ID</p></li><li><p>Locating Elements By Name</p></li><li><p>Locating Elements By Link Text</p></li><li><p>Locating Elements By Partial Link Text</p></li><li><p>Locating Elements By Class</p></li><li><p>Hands on Exercises on Locaters</p></li><li><p>XPath - Basics</p></li><li><p>XPath - Axes</p></li><li><p>CSS Selectors - Basics</p></li><li><p>CSS Selectors - Advance</p></li></ul><p><strong>To get the maximum benefit from the course, please take a look at following steps explaining 'How to take this course?'</strong></p><p>Step 1:&nbsp; Schedule 30-45 minutes of your time daily for 5 days a week. 'Continuity' is the key. </p><p>Step 2:&nbsp; All sessions are divided in small videos of less than 20 minutes. Watch 2-3 videos daily.</p><p>Step 3:&nbsp; Hands-on exercise is very important. So, immediately try out the programs discussed in the session. Try them on your won. You can download these programs from lecture resources.</p><p>Step 4: Assignments with answer keys are provided where-ever necessary. Complete the assignments before jumping on to the next sessions.</p><p>Step 5:&nbsp; If you come across any questions or issues, please feel free to contact me and I will make sure that your queries are resolved.</p><p>Wish you all a very happy learning.</p><p><strong><em>Note: All the course videos are in Quad HD. For the best video streaming quality, please adjust the resolution from 'settings' at bottom right-hand corner of video player. Choose 1080p or 720p as per your network speed.</em></strong></p><p><br></p>",
+            "suitableLearners": [
+                "Anyone who wants to learn Element Locating Strategies in Selenium WebDriver",
+                "Manual Testing Professionals",
+                "Selenium Testers",
+                "Automation Aspirants",
+                "QE Testing Professionals",
+                "Automation Test Engineers",
+                "QE Automation Engineers",
+                "Software Testing Professionals"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-06-11T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-06-14T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a601faf7ad1701fe814b6"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 2834,
+            "studentCount": 10555,
+            "avgRatingScore": 4.6146774,
+            "contentVideoLength": 4126
+        },
+        "basicInfo": {
+            "udemyCourseId": 2007868,
+            "slug": "practical-java-unit-testing-with-junit-5",
+            "title": "Practical Java Unit Testing with JUnit 5",
+            "subtitle": "Learn practical Java Unit Testing with JUnit 5 in just 1 hour. Comes with a quiz, JUnit cheat sheet and extra exercises.",
+            "image": "https://img-c.udemycdn.com/course/240x135/2007868_a89d_4.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Write awesome unit tests in JUnit 5",
+                "Create practical, real-world test scenarios",
+                "Follow unit testing best practices",
+                "Run unit tests in Eclipse",
+                "Learn basic Test Driven Development (TDD)"
+            ],
+            "requirements": [
+                "You are eager to learn unit testing! :)",
+                "You have some experience with Java",
+                "You have Eclipse IDE – you can download the IDE for free"
+            ],
+            "description": "<p>Hello! My name's Adrian and I'm a professional Java Developer. You've just found <strong>the highest rated course about JUnit on Udemy</strong>! Here are some examples chosen from the hundreds of reviews :</p><p><em>• \"superb and very compact, the course got me started in just two hours\"<br>• \"excellent, well-explained, with real-word examples\"<br>• \"perfect for beginners! I feel like: oh, it's so easy!\"</em></p><p>According to statistics, nearly <strong>80% of all Java developers write unit tests with JUnit</strong>, and my developing practice proves it. Unit testing is so important because it <strong>increases the quality of your code</strong>. It is a basic skill required by most employees, so for any Java Developer professional career, you have to master JUnit. You'll only learn the <strong>practical aspects of unit testing with JUnit 5</strong> – the latest version of the most popular Java unit testing framework.</p><p>I’ll introduce only the essential theory behind unit testing, and then <strong>dive straight into the code </strong>to get you started as quickly as possible. I’ll use an example of a simple, yet practical Java project to show you a variety of unit test types. You'll also learn the best practices and coding standards for unit tests based on my developing experience. You can <strong>get started in just a few hours</strong>. This course also comes with <strong>additional</strong> <strong>exercises</strong> and a <strong>one-page cheat sheet</strong> for a quick JUnit 5 reference.</p><p><br></p><p><strong>COURSE ADVANTAGES</strong></p><p>✔ <strong>concise</strong> – my short video lectures focused on the most important info help you save time and learn maximally effectively</p><p>✔ <strong>based on practice</strong> – instead of useless academic theory, you learn the best developing practices drawn from my work experience</p><p>✔ <strong>reasonably priced</strong> – compared to stationary developer bootcamps, the course is much cheaper, so you save not only time but also money</p><p>✔ <strong>available anywhere, anytime</strong> – the online form lets you run the course in the most convenient place (at home, work or in a café) and time (while commuting by metro or relaxing at home after work), so you can adjust it to your agenda</p><p>✔ <strong>accessible on desktop, mobile and TV</strong> – you can display my lectures on the device of your choice, so you don’t have to stick to your PC</p><p>✔ <strong>certificate of completion</strong> – after completing the course, you will receive a printable certificate that will make your resume more attractive</p><p><br></p><p>Intro video music courtesy of Bensound</p>",
+            "suitableLearners": [
+                "You know basic Java and want to learn unit testing from zero",
+                "You want to prepare for your first Java job",
+                "You want to increase the quality of your code",
+                "You want to refresh your knowledge if you already know JUnit 4"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-01-03T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-01-06T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a601faf7ad1701fe814b6"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 2814,
+            "studentCount": 14728,
+            "avgRatingScore": 4.6562676,
+            "contentVideoLength": 146188
+        },
+        "basicInfo": {
+            "udemyCourseId": 802790,
+            "slug": "selenium-webdriver-with-java-project-implement-framework",
+            "title": "Selenium WebDriver with Java | Project Implement + Framework",
+            "subtitle": "Selenium Webdriver Automation Testing, BDD/ Cucumber framework, End to End integration with Jenkins, Katalon Studio",
+            "image": "https://img-c.udemycdn.com/course/240x135/802790_62aa_4.jpg",
+            "price": 2064370,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Expert Level knowledge of Java to implement with Selenium",
+                "Expertise on Selenium WebDriver basics + advance concepts",
+                "Automate tests using Selenium WebDriver and Java with Best Practices",
+                "Can automation any realtime application and also can design framework from scratch",
+                "Details understanding of advance concepts like OOPS, Excel Handling, DB Handling.",
+                "Detailed knowledge of  supporting Tools and Libraries like MAVEN, JUNIT, TestNG 81",
+                "Latest Interview Questions"
+            ],
+            "requirements": [
+                "No programming or coding experience required",
+                "No automation experience is required",
+                "Good to have understanding of Manual Testing, Processes, Functional & Regression Testing",
+                "Should be ready to invest at least 30mins a day for practice and concept implementation"
+            ],
+            "description": "<p><strong>Recent Updates</strong></p><p><strong>Sep 2021 :&nbsp;</strong>Added API&nbsp;Testing Videos using Java</p><p><strong>May 2021 : </strong>Added New Java Videos (Maven, Database Handling)</p><p><strong>Jan 2021 :&nbsp;</strong>Added and Updated videos of Junit and Test NG</p><p><br></p><p>This course includes <strong><em>Selenium WebDriver</em></strong>&nbsp;Basics and Advanced,&nbsp;<strong><em>Java Concepts</em></strong>,&nbsp;<strong><em>TestNG</em>&nbsp;Framework</strong>,&nbsp;<strong>Automation Framework Design</strong>&nbsp;(<em>Page Objects, Page Factory, Data Driven, Reading Excel Files</em>)</p><p>Best reporting tool -&nbsp;<strong><em>Advanced Reporting using ReportNG and XSLT</em></strong></p><p>Parallel execution with&nbsp;<strong>Selenium Grid |</strong>&nbsp;<strong><em>Maven</em></strong>&nbsp;Build Management, Continuous Integration with&nbsp;<strong><em>Jenkins</em></strong>, Code management with&nbsp;<strong><em>Git integration</em></strong>&nbsp;</p><p>This course will take you from basic to expert level step by step, we are covering all java concepts which are required for daily selenium activities and also for preparing selenium interview</p><p><strong>Java Basics:&nbsp;</strong>Variables, If-Then-Else, For loop, While loop, Arrays, Classes, Inheritance, Objects, Constructors, Methods, Working with Excel file and database</p><p>Collection API, OOPS, Properties file etc</p><p><br><strong>Selenium WebDriver Basics:&nbsp;</strong>Commonly used methods and locator types, Id, Name, Class Name, Link Text, Partial Link Text, Xpath, Css Selector</p><p>Ajax Handling, &nbsp;Multi window handling, Actions class,&nbsp;&nbsp;Implicit wait, Explicit wait.<br>After completing the the course you will be able to write automated tests using selenium and java</p><p><br></p><p><strong>Selenium Coverage</strong></p><p>➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖</p><p>1.&nbsp; &nbsp;Selenium Introduction &amp;&nbsp;Setup</p><p>2.&nbsp; &nbsp;Step by Step Environment Setup</p><p>3.&nbsp; &nbsp;Selenium Components</p><p>4.&nbsp; &nbsp;WebDriver Basics</p><p>5.&nbsp; &nbsp;WebDriver Implementation &amp;&nbsp;Best Practices</p><p>6.&nbsp; &nbsp;Page Object Model (PageFactory)</p><p>7.&nbsp; &nbsp;Data Driver Framework</p><p>8.&nbsp; &nbsp;End to End BDD&nbsp;Framework</p><p>9.&nbsp; &nbsp;Reporting Options</p><p>10.&nbsp; Code Management using GIT</p><p>11.&nbsp; CI/CD using Jenkins</p><p><br></p><p><br></p><p><strong>Java Coverage</strong></p><p>➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖</p><ul><li><p>In this course we prepare student for all automation challenges, it gives coverage of almost all basic and advance concepts of java which are required to work on different automation tool.</p></li><li><p>Here you will cover basic concepts like Class, Object, String, Loop and advance concepts like File Handling, working with Excel, Database connectivity, Collection API.</p></li><li><p>Here we cover OOPS in details which makes you working as well as interview ready.</p></li><li><p>Advance concepts like Exception Handling, Excel handling</p></li><li><p>File Handling &amp;&nbsp;Excel Handling</p></li><li><p>Working with JUnit &amp;&nbsp;TestNG</p></li><li><p>Working with Maven</p></li><li><p>Many Programming Exercise and Quiz</p></li><li><p>Access Modifiers, Keywords</p></li><li><p>Debugging</p></li><li><p>Interview Questions and Tips</p></li></ul><p>#Selenium&nbsp; #Selenium webdriver with Java #selenium webdriver #selenium java #selenium testing</p>",
+            "suitableLearners": [
+                "Software QA and Testers who want to start career in automation",
+                "Manual Testers Looking Opportunity in Selenium with Java",
+                "Any professional want to automation different types of application using Java Programming & Selenium",
+                "Freshers looking for opportunity in Software Testing/Automation Testing",
+                "Any professional who want to learn Selenium-Java from scratch to expert level"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-02-08T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-02-11T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 298220,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a601faf7ad1701fe814b6"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 2263,
+            "studentCount": 12177,
+            "avgRatingScore": 4.3956323,
+            "contentVideoLength": 28087
+        },
+        "basicInfo": {
+            "udemyCourseId": 1248784,
+            "slug": "rest-api-testing-automation-using-postman",
+            "title": "REST API Testing, Automation using POSTMAN",
+            "subtitle": "Learn many features of the POSTMAN REST client for testing Restful API's, file uploads, data driven testing & many more.",
+            "image": "https://img-c.udemycdn.com/course/240x135/1248784_6c24_5.jpg",
+            "price": 687970,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Capture Network Traffic by setting up Proxies",
+                "Learn how to do multi-part File Uploads",
+                "Perform data driven testing (create 1000 students with a click of a button)",
+                "Learn how to send SOAP Requests using POSTMAN",
+                "Integrate POSTMAN with NEWMAN  & JENKINS",
+                "Different types of Authentication (BASIC,OAUTH1.0,OAUTH2.0)",
+                "Scripting in POSTMAN"
+            ],
+            "requirements": [
+                "Basic understanding of RESTful services",
+                "Basic knowledge of javascript"
+            ],
+            "description": "<p><strong>POSTMAN </strong>is a very popular tool used by software development teams in many companies. It is a very handy tool used by <strong>Developers</strong> when building RESTful web services, It is also used by many <strong>QA Engineers </strong>for testing, automating RESTful services.</p>\n\n<p>It is the <strong>\"SWISS ARMY KNIFE</strong>\" of REST API Development, Testing. It provides many out of the box features for consuming Restful services.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>In this course, you will learn many functionalities of the POSTMAN tool with practical examples. Below are some of the highlights of this course.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>Capture <strong>Network Traffic </strong>by setting up Proxies</li><li>Organize requests using <strong>Collections</strong></li><li>Learn how to do multi-part <strong>F</strong><strong>ile Uploads</strong></li><li>Learn how to send <strong>SOAP Requests</strong> using POSTMAN</li><li>Perform <strong>data driven</strong> testing (create 1000 students with a click of a button)</li><li>Different types of Authentication (BASIC,OAUTH1.0,OAUTH2.0)</li><li><strong>Scripting</strong> in POSTMAN</li><li>Integrate POSTMAN with <strong>NEWMAN</strong> </li><li>Integrate POSTMAN with <strong>JENKINS</strong> to execute scheduled tests.</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Whether you are developing API's or testing them, this course will provide you with all the examples needed to understand the Rich features provided by <strong>POSTMAN</strong></p>",
+            "suitableLearners": [
+                "Developers, QA Engineers, SDET's, Devops, IT Professionals"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2020-05-04T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2020-05-07T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 298220,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a601faf7ad1701fe814b6"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 2085,
+            "studentCount": 9467,
+            "avgRatingScore": 4.4417634,
+            "contentVideoLength": 21046
+        },
+        "basicInfo": {
+            "udemyCourseId": 1562530,
+            "slug": "elegant-automation-frameworks-with-python-and-pytest",
+            "title": "Elegant Automation Frameworks with Python and Pytest",
+            "subtitle": "Fast, scalable, professional-grade framework design",
+            "image": "https://img-c.udemycdn.com/course/240x135/1562530_03af.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Build high-performing, reliable automated test suites with actionable reporting"
+            ],
+            "requirements": [
+                "You should have a basic understanding of the Python programming language"
+            ],
+            "description": "<p>Give your team on-demand, actionable insights into the status of your product with a fast, scalable test automation framework written in Python using the Pytest toolkit. Learn how to eliminate boilerplate setup and teardown code, run multiple tests at the same time, and track the history of your test runs to identify slow or problematic tests.</p>\n\n<p><strong>Learn lessons collected over years of professional automation in just a few hours.</strong></p>\n\n<ul><li>Never manage test suites again - let them manage themselves</li><li>Achieve blazing fast test runs with parallel execution</li><li>More coverage with less code</li><li>Industry-ready test structure</li></ul>\n\n<p><strong>A Bulletproof approach to automation fundamentals </strong> Python is one of the most popular languages in the world, and the demand for it is only increasing. Pytest is one of the most actively maintained testing frameworks in the industry, and provides an incredible set of tools for faster, less-stressful testing.</p>\n\n<p>Automated testing is one of the most in-demand fields in today's tech market, but there is very little guidance on how the engineer can move from writing tests to building a robust test architecture. Reliable test frameworks save compounding amounts of time and money, improve trust between testers and developers, and make for happier testers. Happy testers are more productive, more effective, and tend to grow within the organization. Everyone wins.</p>\n\n<p>The most widely circulated videos on these topics speak only to the technologies themselves, and do not offer viable implementation guidance or valuable industry practices. I have made these valuable practices the focus of this course.</p>\n\n<p><strong>Content and Overview </strong>Suitable for those comfortable with basic Python and Object-Oriented Programming concepts, these lectures build a rock-solid foundation of skills required to automate at a professional level.</p>\n\n<p>Beginning with a brief introduction and a step-by-step setup of Pytest, this course allows you to watch as I walk you through each action, explaining as we go.</p>\n\n<p>We will discuss what makes a good framework, and maybe more importantly, what makes a bad one. We will learn how to use test searching to avoid cumbersome test suites, and how fixtures can eliminate up to 80% of the code in a bloated codebase.</p>\n\n<p>Students completing the course will have the knowledge to build high-performance, well-organized, scalable test frameworks at the professional level.</p>\n\n<p>Equipped with code samples, short quizzes, and info-rich videos, you’ll have no trouble following along with the concepts, and I am always available for questions.</p>\n\n<p>Finally, automating is a blast, and I wish more people did it. Let me rephrase that - I wish more people did it, and did it well! We need more people like you executing effective, high-value automation solutions, so let's get started on this journey together!</p>",
+            "suitableLearners": [
+                "Anyone who wants to build or improve an automated testing framework"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2020-06-02T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2020-06-05T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    }
+]

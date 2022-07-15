@@ -1,0 +1,1269 @@
+[{
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a600eaf7ad1701fe8149d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 57359,
+            "studentCount": 296986,
+            "avgRatingScore": 4.610085,
+            "contentVideoLength": 150961
+        },
+        "basicInfo": {
+            "udemyCourseId": 657932,
+            "slug": "unreal-engine-5-c-developer-learn-c-make-video-games",
+            "title": "Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games",
+            "subtitle": "Created in collaboration with Epic Games. Learn C++ from basics while making your first 5 video games in Unreal",
+            "image": "https://img-c.udemycdn.com/course/240x135/657932_c7e0_5.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "How to make games in Unreal Engine 5.",
+                "C++, the games industry standard language.",
+                "Object Oriented Programming and how to put it into practice.",
+                "Game design principles.",
+                "Programming patterns and best practices.",
+                "Artificial Intelligence behaviour programming for enemies.",
+                "Write code that is clean and to understand.",
+                "When to use Blueprint or C++.",
+                "How to achieve anything you want in Unreal using C++.",
+                "Unreal Gameplay Framework to make games easily.",
+                "Strong and transferable problem solving skills.",
+                "Modern game development technologies and techniques."
+            ],
+            "requirements": [
+                "64-bit PC capable of running Unreal 5 (recommended).",
+                "Or a Mac running latest MacOS Big Sur.",
+                "+8GB of RAM.",
+                "Quad-core CPU, 2.5 GHz or faster.",
+                "DirectX 11, 12 or Metal 1.2 Compatible Graphics Card.",
+                "About 50GB of free disc space.",
+                "No previous Unreal or coding experience needed."
+            ],
+            "description": "<p><strong><em>Please note we are in the process of updating this course to Unreal Engine 5..</em></strong></p><p><strong><em>Currently the original content is included at the end of this course (after the new content). This will soon be moved to an archive course, which any enrolled students will also get access to. </em></strong></p><p><br></p><p>Ready to <strong>make games in the amazing world of Unreal Engine 5</strong>?</p><p>This<strong> </strong>\"<strong>critically-acclaimed</strong>\" and \"<strong>insanely successful</strong>\" Unreal Engine course<strong> </strong>was<strong> created in collaboration with Epic Games.</strong> </p><p><strong>The majority of the course has been fully updated and remastered to Unreal Engine 5. </strong>Existing students get all the new material for free.</p><p><strong>Learn how to create and mod video games using Unreal Engine 5</strong>, even if you're a complete beginner. Unreal is a free-to-use game development engine used by AAA studios and indie developers worldwide. It is a massive and powerful beast, but <strong>we break it down step-by-step</strong> so you can tame it.</p><p>We start super simple so <strong>no prior experience of Unreal or coding is needed</strong>! With our online tutorials, you'll be amazed at what you can achieve. We believe project-based learning is the best way to learn Unreal Engine, so you’ll create 5 Unreal games!</p><p>Already know Unreal and want to learn VR&nbsp;or Multiplayer? Check out our other Unreal courses, just <strong>look for the green leaf </strong>for our other world-class Unreal courses.</p><p><strong>Learn C++, the powerful industry-standard language from scratch</strong>. By the end of the course, you'll be very confident in the basics of coding and game development, and hungry to learn more.</p><p><em>\"</em><strong><em>Any serious game programmer needs to know C++</em></strong><em>\"</em><br>Jason Gregory, Lead Programmer at Naughty Dog (creators of Uncharted &amp; The Last of Us)</p><p>Anyone who wants to learn to create games: <strong>Unreal Engine is a fantastic platform which enables you to make AAA-quality games</strong>. Furthermore, these games can be created for Windows, consoles, macOS, iOS, Android and Web from a single source!</p><p><strong>Benefit from our world-class support</strong> from both other students, and the instructors who are on the forums regularly. Go on to build several games including a tank game, and a First Person Shooter.</p><p>You will have access to a course forum where you can discuss topics on a course-wide basis, or down to the individual video. Our <strong>thriving discussion forum</strong> will help you learn and share ideas with other students.</p><p>Get plugged into our communities of amazing developers on Facebook (nearly 20k), in our own TA-curated Community (17k views/day), and our student chat group (10k live at any one time).</p><p><strong>Start to learn Unreal C++ now, you won't be disappointed!</strong></p>",
+            "suitableLearners": [
+                "Competent and confident with using a computer.",
+                "Artists who want to bring their assets alive in a game engine.",
+                "Developers who want to re-skill across to coding.",
+                "Complete beginners who are willing to work hard.",
+                "Existing programmers who want to re-skill to game development.",
+                "Thos wanting to explore the exciting new world of UE5!"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-04-11T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-04-14T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a600eaf7ad1701fe8149d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 33342,
+            "studentCount": 175292,
+            "avgRatingScore": 4.72413,
+            "contentVideoLength": 109877
+        },
+        "basicInfo": {
+            "udemyCourseId": 1178124,
+            "slug": "complete-c-unity-game-developer-3d",
+            "title": "Complete C# Unity Game Developer 3D",
+            "subtitle": "Design & Develop Video Games. Learn C# in Unity Engine. Code Your first 3D Unity games for web, Mac & PC.",
+            "image": "https://img-b.udemycdn.com/course/240x135/1178124_76bb_10.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Learn C# from scratch. A powerful modern language.",
+                "Get experience using Unity 2017 - a very versatile 3D tool.",
+                "Gain an excellent general knowledge of video game design.",
+                "Make 2.5D and 3D games in Unity.",
+                "Transfer your knowledge to .NET, other languages, and more.",
+                "Learn how object oriented programming works in practice.",
+                "Develop a positive attitude to problem solving.",
+                "Practical exercises EVERY VIDEO to build actual skills.",
+                "Learn good coding and design patterns.",
+                "Learn to use source control, a valuable tool for working in small teams."
+            ],
+            "requirements": [
+                "PC or Mac capable of running Unity 2017 or later.",
+                "Regular internet access for Q&A and community."
+            ],
+            "description": "<p><strong>This is the long-awaited&nbsp;sequel to the Complete Unity Developer </strong>- one of the most popular e-learning courses on the internet!<strong>&nbsp;</strong>Completely re-worked from scratch with&nbsp;<strong>brand-new projects </strong>and&nbsp;our latest teaching techniques. You will&nbsp;benefit from the fact <strong>we have already taught over a million students</strong>&nbsp;programming and&nbsp;game development, many shipping commercial games as a result.</p><p>Unity is an incredible 3D&nbsp;package&nbsp;used for making video games,&nbsp;architectural and medical imaging and more. The challenge is that&nbsp;it's big and complicated to use, especially <strong>for complete beginners to coding and game development</strong>. We make <strong>learning to code easy and fun </strong>by leading you step-by-step through the process of&nbsp;<strong>creating exciting&nbsp;games.</strong></p><p>Get plugged into our communities of amazing developers on Facebook (nearly 20k), in our own Teaching Assistant-curated Community, and our student Discord chat channel.</p><p><strong>This course has full professional-produced&nbsp;English closed-captions.</strong></p><p>If you're reading this you probably already have everything you need to get started. Unity is a free download. With&nbsp;regular access to an internet connection you'll be able to&nbsp;engage in our thriving community.<strong>&nbsp;Even if you have no experience with coding, or with 3D packages</strong>, we will guide you through everything from first principles. Starting slow, then building on what you learn, you'll soon have a very solid working knowledge of Unity.</p><p>Don't take our word for it, please <strong>see the amazing&nbsp;reviews</strong> students have taken the time to write. We are proud to be transforming lives, and equipping 1000s of people with valuable new skills. We would love you to become one of them now.</p><p>The course is&nbsp;<strong>project-based</strong>, so you will not just be learning dry programming concepts, but applying them immediately to real indie games as you go. All the project files will be included, as well as additional references and resources - you'll never get stuck. There are \"talking heads\", powerful diagrams, quality screencasts and more.</p><p>For each demo game you build you will follow this process...</p><ul><li><p>Be challenged to build the entire game yourself.</p></li><li><p>Be shown step-by step how to build it.</p></li><li><p>Be challenged to apply, and re-apply your knowledge regularly.</p></li></ul><p>Prefer to focus on 2D? Check-out our <em>Complete Unity Developer 2D</em> course. Want something a little more advanced? Check-out our epic <em>Unity RPG</em>&nbsp;course. Want to get certified, get a job, or learn environment art - we've got you covered. <strong>The green leaf logo is your sign of quality.</strong></p><p>You will get full&nbsp;<strong>lifetime access</strong>&nbsp;for a single one-off fee. The creators are qualified and experienced coders and avid gamers, so are able to explain complex concepts clearly, as well as entertain along the way.</p><p><strong>What this course DOESN'T cover...</strong></p><p>Here are some things we will <strong>not</strong> be covering in detail...</p><ul><li><p>Art asset creation (assets provided but not made on-screen).</p></li><li><p>Advanced performance optimization.</p></li><li><p>Editor plugins or modifications.</p></li><li><p>Physics engine modification.</p></li></ul><p>Anyone who wants to learn to create games:&nbsp;<strong>Unity 3D is a fantastic platform which enables you to make production-quality games.</strong>&nbsp;Furthermore these games can be created for Windows, MacOS, iOS (even iOS 9), Android and Web from a single source!</p><p><strong>Dive in now, you won't be disappointed!</strong></p>",
+            "suitableLearners": [
+                "Anyone who wants to learn to code the fun way - by making games.",
+                "People who want to learn to make their video games, learning code as they go."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-03-18T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-03-21T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a600eaf7ad1701fe8149d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 16297,
+            "studentCount": 77181,
+            "avgRatingScore": 4.5160723,
+            "contentVideoLength": 76266
+        },
+        "basicInfo": {
+            "udemyCourseId": 1328572,
+            "slug": "the-ultimate-guide-to-game-development-with-unity-official",
+            "title": "The Ultimate Guide to Game Development with Unity (Official)",
+            "subtitle": "Created in partnership with Unity Technologies: learn C# by developing 2D & 3D games with this comprehensive guide",
+            "image": "https://img-c.udemycdn.com/course/240x135/1328572_b05d_5.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Master beginner C# concepts, like variables, \"if\" statements, and arrays",
+                "Detect collisions, receive user input, and create player movements",
+                "Create power-ups including triple shots, laser beams, speed boosts, and shields",
+                "Apply shaders that transform your game backgrounds",
+                "Create enemies with basic AI behavior",
+                "Collect and destroy game objects",
+                "Implement sound effects, background music, and particle effects",
+                "Activate and use Unity’s Team Collaboration service",
+                "Navigate the Unity Engine and discover unique features like the Asset Store",
+                "Deploy your game to over 20 web or mobile platforms"
+            ],
+            "requirements": [
+                "No prior programming or Unity experience is required. If you have worked in C# or Unity before, this course can help you fine-tune your game development skills.",
+                "In this course, I will walk you through installing Unity on your computer. It will be helpful if you are comfortable with installing your own software.",
+                "A basic understanding of mathematics (order of operations, addition, subtraction, multiplication) will facilitate comprehension of certain coding logic.",
+                "Before beginning this course, you should be comfortable browsing the Web."
+            ],
+            "description": "<p><br></p><p><strong>*NEW* Unity 2019/2020.x Compatible!! (Update support through 2021/2022!) 10/23/2021<br>*NEW* Post Processing Stack V2 Added&nbsp; </strong></p><p><strong>*NEW* Android Build Support Added -- Extended Content<br><br><br>This course is authorized by and made in partnership with Unity Technologies.</strong><br></p><p>If you are interested in developing amazing, commercial quality games that are playable on a variety of platforms, then you've come to the right place.<strong> This&nbsp;Unity&nbsp;course is the only one of its kind that is&nbsp;approved&nbsp;by Unity Technologies on Udemy</strong>. <strong>What better way to learn how to develop games in Unity than with their authorized&nbsp;course? </strong><em>The Ultimate Guide to Game Development with Unity</em>&nbsp;introduces you to the Unity Engine and to the fundamentals of C# programming. The course then&nbsp;dives into developing your first 2D and 3D games. You will discover how to set your games apart from the crowd by polishing them with Unity’s latest features, including post-processing effects and&nbsp;the animation system.</p><p><strong>In this Unity course, you will:</strong></p><ul><li><p>Master C# concepts such as variables and if statements</p></li><li><p>Detect collisions, receive user input, and create player movements</p></li><li><p>Create power ups including triple shots, laser beams, speed boosts, and shields</p></li><li><p>Apply shaders that transform your game backgrounds</p></li><li><p>Create enemies with basic AI behavior </p></li><li><p>Collect and destroy game objects </p></li><li><p>Implement sound effects, background music, and particle effects</p></li><li><p>Activate and use Unity’s Team Collaboration service</p></li><li><p>Navigate the Unity Engine and discover unique features such as the Asset Store</p></li><li><p>Deploy your game to over 20 web or mobile platforms using Unity</p></li><li><p>And more! </p></li></ul><p>This Unity course also includes&nbsp;<strong>over 50 interactive challenges (New Content Added Weekly!)</strong> where you can test your knowledge with concepts you've just learned. These challenges will help you&nbsp;build two commercial quality games: a <strong>2D Galaxy Shooter Game</strong> with polished sprites and cinematic effects, and a <strong>3D first person controller game</strong>. Get access to the unique artwork provided by&nbsp;this Unity course and add sophisticated features to your games that make you look like you’ve been programming for years.&nbsp;</p><p><strong>Why Learn Game Development with Unity? </strong></p><p>The gaming industry is a $100 billion&nbsp;industry worldwide. By 2020, that number is expected to near $120 billion. With <strong>Unity being the most widely used engine to develop games across multiple platforms</strong>, there has never been a better time to get into the field. As you will learn, the types of games you can create with Unity and C# are limitless. Game development makes a great hobby, allowing you to learn a new skill and play your game with family and friends. It is also an exciting and rewarding career, where&nbsp;plenty of successful&nbsp;developers, including myself, have learned the&nbsp;fundamentals of game development through courses like this, and not in the traditional classroom setting. <strong>Every great game starts somewhere, so why not make it yours? </strong>While people often find coding or making games intimidating, this Unity course utilizes a unique teaching method which will allow you to gain a thorough understanding of concepts while you develop your own games. Thanks to the Unity community, you’ll be able to connect with other developers, work together on new projects, and make some incredible games!<br><br></p><p><strong>Why Learn From Me</strong></p><p>This is the first and only Unity&nbsp;game development course that has been co-created with Unity Technologies on Udemy. &nbsp;Because learning to code can be daunting, Unity Technologies wanted to create a course that helps new developers feel comfortable exploring the engine and developing games. I believe that the best way to learn how to code is by doing. Therefore, <strong>this is a highly interactive series&nbsp;that does not spoon-feed you the answers. </strong>The unique challenges integrated throughout this Unity course will ensure&nbsp;you not only know how to code something, but&nbsp;you also understand the logic behind it. As a <strong>self-taught software engineer</strong>, I found that there simply weren’t any high-quality video tutorials&nbsp;that allowed beginners to truly grasp concepts essential to game development. To remedy this, I created my own YouTube video series focused on Unity game development, where I’ve had the privilege of helping thousands of other people grow their passion for game development. &nbsp;</p><p>I’ve been working in Unity since the initial public release of version 2.6, and I’ve authored a book on Unity 3.X. Since beginning my career in software development, I’ve been fortunate enough to develop games for Cartoon Network, Adult Swim, and several indie game companies. I’ve also developed enterprise augmented reality applications for Fortune 500 companies like Coca-Cola, GE, and Thyssenkrupp. Teaching has always been a passion of mine, and I hope you will see that throughout this course. &nbsp;</p><p>Upon completing this Unity course, you will understand the basic concepts of C# programming and be able to continue developing your own 2D and 3D games. You will also feel confident knowing that you have mastered the latest and greatest game development techniques that will propel you to success in your professional or personal aspirations.</p><p><strong>Join me on this adventure today! &nbsp;I’ll see you inside the course.</strong></p><p><strong><br></strong></p>",
+            "suitableLearners": [
+                "The ideal student for this course is someone who is interested in game development with Unity and C# and is looking for an interactive, project-based course.",
+                "People interested in developing commercial quality 2D and 3D games either professionally or as a hobby.",
+                "Anyone seeking an understanding of best coding practices such as organization with your project and optimal development workflow that are essential to game development.",
+                "This course is not for someone who is an advanced game developer. This course is also not for students who are not interested in learning to code as you will get an introduction to the fundamentals of C# programming."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2020-09-20T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2020-09-23T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a600eaf7ad1701fe8149d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 10806,
+            "studentCount": 61867,
+            "avgRatingScore": 4.4300084,
+            "contentVideoLength": 56404
+        },
+        "basicInfo": {
+            "udemyCourseId": 1035484,
+            "slug": "unreal-engine-4-how-to-develop-your-first-two-games",
+            "title": "Unreal Engine 4: How to Develop Your First Two Games",
+            "subtitle": "Epic Games-Approved: learn the Unreal Editor, master the gameplay framework, and use Blueprint to program without coding",
+            "image": "https://img-c.udemycdn.com/course/240x135/1035484_22c9.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "By the time you complete the course, you will have a holistic understanding of the utility of the engine. You will start your project with confidence and a strong awareness of how Unreal Engine 4 can work for you to build an interactive experience that meets your interests/needs. "
+            ],
+            "requirements": [
+                "A desire to build interactive experiences by leveraging Unreal Engine 4. ",
+                "Have some basic computer skills; know how to install software and explore a new application with curiosity."
+            ],
+            "description": "<p>Approved by Epic Games and taught by Unreal Engine Evangelist Chris Murphy, this course is for any developer wishing to work in Unreal Engine for creating interactive experiences and/or enterprise fields of real time training simulation, visualization, and media/entertainment. Create realistic games with the complete game development tool -  Unreal Engine 4. Start with the fundamentals so that you build a solid base understanding.</p>\n\n<p>Know the basics of how to operate a computer? Maybe a little bit of game design or coding experience? Visual arts designer? You are ready! <strong>Learn step by step by creating 3 unique projects.</strong> Chris teaches through demonstrations so you will be applying real skills in each lecture.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Get a complete introduction to core competency with the editor, learn how the engine works and how it works to help make your project run efficiently, how to use assets to customize your project, design and create interactivity, and have the tools and strategies to debug an error. </p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>By the end of this course you can design and create working projects that could include games, architectural visualization, training simulations, and media entertainment. Plus, you will be aware of the tools and techniques that you need to focus on your area of interest. </p>",
+            "suitableLearners": [
+                "You have an idea for an interactive experience - whether it is a game, a training simulation, a media/entertainment dream you want to bring to life, or art visualization. ",
+                "You are curious about what Unreal Engine offers and how it can serve your interests and needs. You might have tried learning by following online tutorials or reading the documentation but it just didn't work. You want to learn through a step by step project-based learning experience."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2017-06-07T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2017-06-10T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a600eaf7ad1701fe8149d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 9704,
+            "studentCount": 93482,
+            "avgRatingScore": 4.736886,
+            "contentVideoLength": 99743
+        },
+        "basicInfo": {
+            "udemyCourseId": 1110626,
+            "slug": "rpg-core-combat-creator-learn-intermediate-unity-c-coding",
+            "title": "RPG Core Combat Creator: Learn Intermediate Unity C# Coding",
+            "subtitle": "Build Combat for Role Playing Game (RPG) in Unity. Tutorials Cover Code Architecture & Video Game Design.",
+            "image": "https://img-c.udemycdn.com/course/240x135/1110626_255b_4.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Create core combat mechanics for melee, ranged and special attacks.",
+                "More advanced C# techniques such as interfaces, delegates, and co-routines.",
+                "Create pathfinding systems and patrol paths for enemies and NPCs.",
+                "Make a detailed level with terrain, enemies, triggers, lighting, particles and props.",
+                "Balance the player and enemy stats (eg. health, damage, movement, attack speed, and more).",
+                "Advanced game design, project management and code architecture strategies."
+            ],
+            "requirements": [
+                "You should be able to write basic C# (loops, conditionals, components, etc)",
+                "Some familiarity with Unity's APIs is helpful.",
+                "You should know your way round Unity 5's editor."
+            ],
+            "description": "<p><strong>Role Playing Games can be complex to create, with many interacting gameplay systems. We&nbsp;make it easy for you! </strong>Learn, step-by-step, how to make the foundations of any good&nbsp;RPG combat system -&nbsp;from scratch.</p><p>In this&nbsp;course we're focusing on the core of any great RPG, giving your players a fun <strong>combat moment </strong>in a well crafted level, based upon a solid game&nbsp;design, built using a robust code architecture<strong>. </strong>You will follow our project, but also make the game entirely your own.</p><p>This highly acclaimed course was over <strong>200%&nbsp;funded on Kickstarter</strong>, and is designed for intermediate users of Unity. We recommend you take at least the first half of our Complete Unity Developer 2D or 3D, or equivalent,&nbsp;as a pre-requisite.</p><p>The course can be a standalone course, or can be taken as the first part in our RPG series. The three other separate courses in this series teach the Inventory system, Shops and Abilities, and Dialogue and Quests.</p><p>This is a highly realistic and comprehensive introduction to <strong>real game development</strong>. We'll be taking you through our process step-by-step, with all decisions justified and all avenues explored.</p><p>Fancy something a little different to get started? Check out GameDev's other courses, just look for the green logo as your guide.</p><p>We will be dealing with player movement, NavMesh navigation, AI&nbsp;pathfinding, save and loading systems, basic pick ups, using asset packs, debug code, making particle effects and more. We'll also give you a robust code architecture for managing more complex projects by setting up namespaces. </p><p>You'll need a basic grasp of Unity and C# before you get start, from there we'll be teaching you more advanced programming techniques such as <strong>C# delegates, interfaces, co-routines&nbsp;and more.</strong></p><p>Building an RPG&nbsp;is an amazing way to level-up your game development skills, so why not join us and get started improving your game development right now?</p><p>Get plugged into our communities of amazing developers on Facebook (nearly 20k), in our own TA-curated Community (17k views/day), and our student chat group (10k live at any one time).</p>",
+            "suitableLearners": [
+                "This course is for intermediate Unity users who want to create their own RPG.",
+                "Our Complete Unity Developer course provides the perfect pre-requisite."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-03-14T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-03-17T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a600eaf7ad1701fe8149d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 7030,
+            "studentCount": 38880,
+            "avgRatingScore": 4.7497773,
+            "contentVideoLength": 36077
+        },
+        "basicInfo": {
+            "udemyCourseId": 660600,
+            "slug": "unreal-engine-5-the-complete-beginners-course",
+            "title": "Unreal Engine 5: The Complete Beginner's Course",
+            "subtitle": "Learn Video Game Development & How To Design a Game From Scratch Using UE5",
+            "image": "https://img-c.udemycdn.com/course/240x135/660600_39b2_4.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Learn game development using Unreal Engine 5",
+                "Build realistic looking environments for games to take place in",
+                "Define custom inputs and movements to control characters",
+                "Script logic to define gameplay without needing to know how to code"
+            ],
+            "requirements": [
+                "Recommended: Desktop PC with Windows 7 (or later) 64-bit or a Mac with Mac OS X 10.9.2 or later",
+                "Recommended: 8 GB RAM",
+                "Recommended: Quad-core Intel or AMD processor, 2.5 GHz or faster",
+                "Recommended: DirectX 11 compatible video card",
+                "Unreal Engine 5 will run on desktops and laptops with specifications under these, but performance may be affected"
+            ],
+            "description": "<p>Learn game development with Unreal Engine 5. UE5 is the <strong>industry-leading 3D game design software</strong> that the professionals use to create today’s top games. Start your journey towards getting paid to make video games today!<br></p><p><br></p><p><strong>Learn Video Game Development with this Unreal Engine 5 Course for Beginners</strong></p><p>Begin your game development career with possibly the most up-to-date game dev course on the internet - Unreal Engine 5: The Complete Beginner's Course. <strong>Every lecture in this course was filmed using version 5 of the Engine.</strong></p><p>When I began trying to learn Unreal Engine, I found a lot of information, but it was unstructured and lacked detail. So I created this course to provide what others lacked - structure and detail. The course is laid out very carefully so that you can go into it knowing absolutely nothing, and then, little by little, each lecture builds upon the previous lectures, so that every time you learn something new, you already have all the knowledge you need to learn that new thing without any confusion.</p><p>Unlike other courses, it <strong>covers the fundamentals in detail</strong>, so by the end you should have a thorough understanding of all the basics of Unreal Engine and be fully prepared to move on to more intermediate topics. Depending on your goals, this might not be for you. This course was designed for those who want to learn as much about Unreal Engine 5 as possible. If you’re just looking to have a bit of fun and to tinker around a little bit, then this might not be the right course for you. But, if you’re interested in getting really good, possibly becoming an indie developer or even working for a major studio, then I strongly believe that this is the best course for you to start with. This course will teach you the knowledge that normally falls through the cracks.</p><p>At the end of each section, there are a series of tutorial videos that provide an opportunity to apply the concepts learned in that section. These tutorials will <strong>walk you through the process of making a working game, from start-to-finish, step-by-step</strong>.</p><p>This course covers the fundamentals that other courses skip, causing you to get confused as you try to learn more advanced topics. The course will cover the following topics in thorough detail:</p><ul><li><p>Projects &amp; Levels</p></li><li><p>Actor Types</p></li><li><p>Meshes &amp; Brushes</p></li><li><p>Lighting</p></li><li><p>Materials</p></li><li><p>Characters &amp; Input</p></li><li><p>Collisions</p></li><li><p>Blueprint Logic &amp; Data</p></li><li><p>User Interfaces</p></li><li><p>Audio</p></li></ul><p><br></p><p><strong>Develop Games Using Cutting-Edge Game Design Software and Run Them on a State-of-the-Art 3D Game Engine</strong></p><p>The Unreal Engine has won the “Best Game Engine” award several times from various organizations, including the Develop Industry Excellence Awards and Game Developer Magazine.</p><p>The Unreal Engine has been used to develop many blockbuster games and game franchises including Fortnite, BioShock, Gears of Wars, Splinter Cell, Rainbow 6, Borderlands, Dishonored, Mass Effect, Batman: Arkham Asylum, and hundreds more.</p><p>For years, the Unreal Engine was only affordable for large companies, but now, Unreal Engine 5 is completely free to use, as long as you agree to pay Epic Games 5% of your game sales over $1 million.<br></p><p><br></p><p><strong>Learn Unreal Engine 5 in this Video Game Design Course</strong></p><p>In this course, you will learn the fundamentals of game development using the Unreal Engine 5 through a series of 62 lectures and 15 tutorials. By the end of the course, you will have built an entire demo game from scratch.</p><p>The course will start from scratch and programming knowledge is not required, so anyone with basic computer skills can jump in and begin their Unreal Engine 5 training! For those who learn better with closed captions, <strong>100% of the captions are human transcribed</strong>, not auto-generated.</p><p>The first part of the course will help you get the Unreal Engine 5 up and running and will introduce you to the basic concepts of game development using the Engine. Next, you will learn all the skills you need to craft beautiful environments to stage your games in. Then, you will learn how to script logic for your games so you can define game rules and behaviors, keep track of data such as health and inventory, and create playable characters. You will learn about collisions and damage, key concepts for any action game. You will learn how to create user interfaces using the UMG Editor, so you can add things like menus, load screens, and HUDs to your game.&nbsp;And finally, you will learn how audio works within the Engine so you can add music, dialogue, and sound effects to your game.</p><p>Upon completion of the course, you will have the skills necessary to translate <em>ideas </em>for games into playable games that use environments you sculpt and logic that you define, and you will understand how to make a game in Unreal Engine 5.</p>",
+            "suitableLearners": [
+                "This video game development course is for absolute beginners who are interested in making games & learning how to design a game from scratch using UE5",
+                "Designed for those who want to become professionals using Unreal Engine 5",
+                "No programming experience required"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-04-05T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-04-08T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a600eaf7ad1701fe8149d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 6486,
+            "studentCount": 27191,
+            "avgRatingScore": 4.687519,
+            "contentVideoLength": 37019
+        },
+        "basicInfo": {
+            "udemyCourseId": 1946104,
+            "slug": "unreal-engine-blueprint-game-developer",
+            "title": "Unreal Engine Blueprint Game Developer",
+            "subtitle": "Code Your First Video Game in 100 minutes with Visual Scripting. Created in collaboration with Epic Games.",
+            "image": "https://img-b.udemycdn.com/course/240x135/1946104_668a_2.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Create simple complete games to share with friends.",
+                "Develop using the Unreal Engine 4 editor.",
+                "Learn to program using Blueprints, without needing to write code.",
+                "Create and package playable game projects.",
+                "Model basic levels in BSP.",
+                "Understand how to use the Unreal Editor interface."
+            ],
+            "requirements": [
+                "64-bit PC capable of running Unreal 4",
+                "Or a Mac capable of running Unreal 4 (must support Metal)",
+                "About 15GB of free disc space",
+                "At least 8GB of RAM is recommended"
+            ],
+            "description": "<p><strong>This is the partner course to the Complete Unreal C++&nbsp;Developer, one of the most popular Unreal courses on the web.</strong></p><p>In this course we focus on how to <strong>make games without writing traditional code</strong> by using Unreal Engine 4 and it's powerful visual coding system known as Blueprints. We will be starting this course off at a <strong>beginners pace</strong> so you will need no prior experience or knowledge of Unreal Engine 4 or game development.</p><p>In the first section of this course you will have gone from not even having Unreal installed to making your first game: Marble Run! In fact, once you become more confident, you would be able to <strong>make Marble Run game in less that 15 minutes!</strong> That's how easy and powerful Unreal Blueprint can be.</p><p>In the second section of the course you will be building another game, Crystal Cavern. You will be developing your own levels by editing geometry and using Unreal's powerful lighting system. You will be populating your levels with <strong>actors that you have fully coded yourself</strong> through blueprints such as: pickups, cannons, projectiles &amp; more! </p><p>Furthermore we plan to add a third section covering characters, humanoid rigging, weapon pickups and more. This will start appearing in May 2019, and will arrive slowly at around a video a week until done.</p><p>By the end of this course you will have developed the fundamental skills to create your own games with Unreal Engine 4.</p><p>Get plugged into our communities of amazing developers on Facebook (nearly 20k), in our own TA-curated Community (17k views/day), and our student chat group (10k live at any one time).<br><br>For each game project in the course, you will be:</p><ul><li><p>Guided through to build the entire game yourself.</p></li><li><p>Shown all the Unreal and Blueprint features required.</p></li><li><p>Challenged to apply, and re-apply your knowledge regularly.</p></li></ul><p>Prefer to focus on C++? Check-out our <em>Unreal Engine C++ Developer </em>course. All our courses cover different projects, and work together perfectly.</p><p>You will get full&nbsp;<strong>lifetime access</strong>&nbsp;for a single one-off fee. Not only that, but you will also receive all the updates and patches we make to the videos.</p><p><strong>We constantly improve our courses in response to user feedback</strong>.</p>",
+            "suitableLearners": [
+                "Complete beginners with no prior experience.",
+                "Individuals who want to develop games but not write code.",
+                "Developers who want to learn how to use the Unreal Engine.",
+                "Students who have tried coding before but couldn't make progress."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-01-13T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-01-16T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a600eaf7ad1701fe8149d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 6372,
+            "studentCount": 38941,
+            "avgRatingScore": 4.4745584,
+            "contentVideoLength": 62141
+        },
+        "basicInfo": {
+            "udemyCourseId": 1334868,
+            "slug": "unreal-engine-4-mastery-create-multiplayer-games-with-c",
+            "title": "Unreal Engine 4 Mastery: Create Multiplayer Games with C++",
+            "subtitle": "Unleash the power of C++ and Blueprint to develop Multiplayer Games with AI in this Epic Games-approved course.",
+            "image": "https://img-c.udemycdn.com/course/240x135/1334868_f4f7_10.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Discover the power of C++ to build games in Unreal Engine.",
+                "Master the fundamentals of C++ programming.",
+                "Build multiplayer games you can play with friends.",
+                "Master Unreal's Gameplay Framework to create any genre of games.",
+                "Create multiple types of Artificial Intelligence within Unreal Engine.",
+                "Write clear code that can be exposed, extended and modified by Blueprint."
+            ],
+            "requirements": [
+                "You have a basic understanding of programming in any object-oriented programming language such as C#, Java, Python, or C++ or a decent understanding of scripting in Unreal’s Blueprints.",
+                "You have Unreal Engine installed (4.17 or newer) and understand the basics of the Editor."
+            ],
+            "description": "<p><strong>Approved by Epic Games</strong> and taught by former Epic Games engineer, Tom Looman, this course teaches you how to use C++ to build your own games including artificial intelligence in Unreal Engine 4.</p><p>If you have a bit of programming know-how from other coding languages but are new to C++ game development, then this course is for you! <strong>Unreal Engine 4 Mastery</strong> is also a great fit for current developers who have previous experience with Unity3D or other game engines. <strong>Unleash the full power of the Unreal Engine</strong> by taking this step-by-step guide. </p><p><strong>In this course, you will:</strong></p><ul><li><p>Create<strong> two multiplayer-ready games</strong> in C++</p></li><li><p>Create multiple types of <strong>AI enemies</strong></p></li><li><p>Expose C++ code to <strong>Blueprint </strong>to unlock the full power of the engine</p></li><li><p>Discover the <strong>fundamental classes</strong> required to build games</p></li><li><p>Code many common gameplay mechanics like <strong>weapons, power-ups, characters, guards, </strong>and more </p></li><li><p>Challenge yourself with <strong>fun activities </strong>that further test your programming knowledge</p></li><li><p>Discover many <strong>tricks and features in C++ </strong>to get the most out of Unreal Engine</p></li><li><p>Master the fundamentals to build <strong>your own dream game</strong></p></li></ul><p>You’ll go hands-on immediately and dive straight into completing over <strong>14 challenges</strong> and<strong> two game projects</strong>. You’ll start by creating a <strong>first-person stealth game</strong>, where you’ll learn the basics of C++, AI, and networking. Then you’ll build a <strong>third-person cooperative shooter game</strong>, in the likes of <strong>Gears of War</strong> or <strong>Fortnite</strong>. In this project, you’ll expand your learning of C++, make the game fully multiplayer-ready, and create fun artificial intelligence to play against with friends.</p><p>This course is also packed with challenges where you’ll build a <strong>grenade launcher</strong>, a <strong>black hole </strong>that sucks in the fabric of space, and a <strong>launchpad </strong>that bounces players and objects around–just to name a few! Through these activities, you’ll explore the engine’s code, improve your problem-solving capabilities, and take your games to the next level. </p><p>By the end of the course, you can use your knowledge of C++ and Blueprints to <strong>build your own dream games</strong>. You can use the games built during this course for your personal projects moving forward, as you add more advanced features. Even if you thought C++ was difficult or intimidating before taking this course, you will learn how easy it is to code C++ within Unreal Engine 4 once you go through these lectures. Even if you are only interested in single-player type games, this course will be a great fit as it teaches many other concepts besides programming for multiplayer games.</p><p><strong>Why Learn From Me</strong></p><p>In this course you will learn more than just programming in Unreal Engine 4. You will actually&nbsp;<strong>follow the ‘Unreal Way’ of making games in this Epic Games-approved course. </strong>Start off on the right foot and write effective C++ code using methods the engine creators have used themselves! I have been working with Unreal Engine 4 and creating game development tutorials since day one. Through this partnership with Epic Games, you will gain the skills to create stunning new projects and advance your professional aspirations in game development.</p><p><strong>Join me in this course and start building awesome games in C++ today!</strong></p><p><em>Note:&nbsp;Now includes hand-made&nbsp;Chinese subtitles for all&nbsp;lectures!</em><strong><em> </em>本课程的所有讲座都将包括中文字幕。</strong></p>",
+            "suitableLearners": [
+                "People who have tried C++ with Unreal before but could not find the right tutorial to support their hands-on learning style. This course offers step-by-step guidance and lots of activities so you can master making games with C++.",
+                "Developers from Unity3D and other engines looking to dive into Unreal Engine programming.",
+                "People with prior programming experience who want to make multiplayer games and create artificial intelligence in Unreal Engine 4.",
+                "If you have never touched a programming language before this course may not be for you. However, proficiency in Unreal’s Blueprint visual scripting also counts as a valid foundation for this course as it shares the same concepts as languages like C++.",
+                "If you are an artist who wants to bring your ideas to life in a game, a Blueprint-focused course might be a better fit for you. Skim the course curriculum to see if you’re interested in using the power of C++, networking, and AI programming to build out the technical structure of your game."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-05-17T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-05-20T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a600eaf7ad1701fe8149d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 5478,
+            "studentCount": 38206,
+            "avgRatingScore": 4.7419863,
+            "contentVideoLength": 60918
+        },
+        "basicInfo": {
+            "udemyCourseId": 1356020,
+            "slug": "blender-character-creator-v20-for-video-games-design",
+            "title": "Blender Character Creator v2.0 for Video Games Design",
+            "subtitle": "Model Video Game Characters. Use The Sculpt Tool To Shape, Add Texture, Rig & Animate Video Game Characters",
+            "image": "https://img-b.udemycdn.com/course/240x135/1356020_2c30_4.jpg",
+            "price": 3670170,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Create a character from start to finish using Blender.",
+                "Block out the basic shape of your character using a standard box modelling approach.",
+                "Use the sculpt tools to shape the broad level details of your character.",
+                "Use the sculpt tools to add fine details to your character.",
+                "Texture paint your character to give it colour and details.",
+                "Rig (add bones) to your character so that it can be animated.",
+                "Animate your character.",
+                "Add your character into the Unity game engine if you choose to do so."
+            ],
+            "requirements": [
+                "You should be able to use a PC at a beginner level.",
+                "A 3-button mouse with scroll wheel recommended."
+            ],
+            "description": "<p>Take your <strong>first steps to becoming a 3D character artist</strong> - learn everything from modelling to painting to animating the character. The course is the sequel to the highly popular Blender Character Creator course, enjoyed by 10s of thousands of students.</p><p>This course has been <strong>created using Blender 2.83 </strong>and is compatible with newer versions of Blender.</p><p>Whether you're a beginner or more advanced, the <strong>experienced instructors will take you through every step of the process</strong>, ensuring that you aren't just \"copy and pasting\" what you see, but learning the tools and developing your own creative process as you go. </p><p>For each concept taught this course includes a relevant challenge for you to implement yourself. You can follow along with the Ogre model used in the course, or <strong>create your own character</strong> using reference material or your own sketches.</p><p>The course will show you how to create a highly detailed, great looking character for your portfolio as well as turning that same character into an asset <strong>ready to be implemented into a video game engine</strong>.</p><p>The entire course is&nbsp;<strong>project-based</strong>, so you will apply&nbsp;your new skills immediately to real 3D models. All the project files will be included, as well as additional references and resources - you'll never get stuck. There are talking-head videos, powerful diagrams, quality screencasts and more.</p><p>For each model you build, you will follow this process...</p><ul><li><p><strong>Be challenged</strong>&nbsp;to build the entire model yourself.</p></li><li><p><strong>Be shown</strong>&nbsp;step-by-step how to build it.</p></li><li><p><strong>Apply your knowledge</strong>&nbsp;regularly.</p></li><li><p><strong>Encouraged and supported</strong> throughout your journey</p></li></ul><p>You will get full&nbsp;<strong>lifetime access</strong>&nbsp;for a single one-off fee. <strong>If you're a complete beginner, we'll teach you all the modelling fundamentals you'll need.</strong>&nbsp;If you're an artist, we'll teach you to truly bring your assets to life. If you're a coder, we'll teach you modelling and design principles.</p><p>All students have access to the Q&amp;A where our Instructors, Teaching Assistants and Community are ready to help answer your questions and cheer on your success.</p><p><strong>Note</strong>:&nbsp;access to this course comes with an optional, free&nbsp;community site where you can share games and 3D models, as well as connect with thousands of other students. </p><p><strong>Dive in now, you won't be disappointed!</strong></p>",
+            "suitableLearners": [
+                "You should want to learn Blender 2.8 - specifically for character creation.",
+                "You may want to learn to rig and animate a character you've already created.",
+                "You have a character that you want to transfer into a game engine."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-01-27T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-01-30T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 573500,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a600eaf7ad1701fe8149d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 5312,
+            "studentCount": 35743,
+            "avgRatingScore": 4.675829,
+            "contentVideoLength": 126847
+        },
+        "basicInfo": {
+            "udemyCourseId": 980770,
+            "slug": "unity-game-development-build-2d-3d-games",
+            "title": "Unity Game Development Build 2D & 3D Games",
+            "subtitle": "Learn Unity game design & 2D & 3D game development & make your own C# games in Unity 3D",
+            "image": "https://img-c.udemycdn.com/course/240x135/980770_b73d_7.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Build 2D Unity games & work with sprites",
+                "Build 3D Unity games",
+                "Write programs in C#",
+                "Apply for Jr. Game Developer jobs as a Unity 3D developer"
+            ],
+            "requirements": [
+                "Must have a Mac or PC for Unity game development",
+                "No prior coding experience required or experience in Unity 3D"
+            ],
+            "description": "<p><strong>Unity Game Development Academy by Devslopes</strong></p>\n\n<p>This is <em>the most</em> comprehensive course on Unity 3d on the Internet. We are avid game developers and were tired of all the junk out there - teaching students how to make 3D cubes without real world game development.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>This Unity course is for absolute beginners &amp; for seasoned programmers!</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>This course will take you down a guided learning path. You'll learn to code in C# and then go on to build 2D &amp; 3D games.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Not only will you build games, but you will learn how to do it the way the pros do. We'll even cover advanced topics like lighting, cinematics, and multiplayer.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Here are <em>some</em> of the things you will learn:</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ol><li>Installation &amp; setup</li><li>Physics</li><li>Pathfinding</li><li>Basic artificial intelligence</li><li>Lightning &amp; lightmapping</li><li>Camera animations &amp; cutscenes</li><li>Character animations</li><li>Scripting, scripting, scripting!</li><li>Materials &amp; skyboxes</li><li>Sound FX &amp; music</li><li>Multiplayer over LAN &amp; Internet</li><li>Particle FX</li><li>Melee &amp; ranged battle systems</li><li>Tower Defense Game</li><li>Adventure Game</li><li>Zombies!</li><li>And a ton more....</li></ol>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>And don't forget about our FREE chatroom where you can get live help, interact with the community, and find people to start your own game studio.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Now is the time to learn how to code and build Unity 3d games the Devslopes way!</strong></p>",
+            "suitableLearners": [
+                "Beginners with no coding experience or Unity 3D experience",
+                "Programmers with no C# development experience",
+                "Game developers who want to learn Unity",
+                "Anyone who wants to learn Unity game development but doesn't know where to start"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2018-09-03T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2018-09-06T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a600eaf7ad1701fe8149d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4303,
+            "studentCount": 38762,
+            "avgRatingScore": 4.2549644,
+            "contentVideoLength": 127205
+        },
+        "basicInfo": {
+            "udemyCourseId": 486628,
+            "slug": "master-unity-by-building-6-fully-featured-games-from-scratch",
+            "title": "Master Unity By Building 6 Fully Featured Games From Scratch",
+            "subtitle": "Learn How To Plan, Design, Create And Publish Your Games On Any Platform Using Unity Game Engine",
+            "image": "https://img-b.udemycdn.com/course/240x135/486628_2b8b_4.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Program And Solve Complicated Problems Using C#",
+                "Organize Project, Slice And Animate Sprites",
+                "Learn How To Use New Unity UI System",
+                "Create Menus, Levels And Loading Screens",
+                "Learn Unitys Physics System",
+                "Encript And Save Your Game Data Using Binary I/O",
+                "Create Level And Character Lock/Unlock System",
+                "Play Music In Your Game",
+                "Implement In-App Purchase And Sell Virtual Items",
+                "Implement Social Media In Your Game",
+                "Share On Facebook From Your Game",
+                "Implement Video And Interstitial Ads",
+                "Implement Watch Video Earn Virtual Item System",
+                "Publish Your Game On Google Play"
+            ],
+            "requirements": [
+                "Unity 5 Game Engine(Free Version)"
+            ],
+            "description": "<p><strong>*** The Course Is Updated With New Lectures Which Makes It Easier For Beginners To Understand Programming Concepts ***</strong><br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>***</strong> <strong>All Games Are Created In Unity Version 5+ ***</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>*** The code works on the newest Unity Version ***</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>*** The Course Is Updated With All New Unity Features ***</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Enroll Now And Become A Master 2D Game Developer</strong><br><strong></strong><strong></strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>With the release of Unity 5 building games was never easier!!!</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>This is a course I wish I had when I first started to learn game development.</strong><strong></strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>The course is completely project based, and we are going to create 6 fully featured games from scratch using Unity Game Engine.</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>We will start with simple things</strong> <strong>so you will be comfortable if you are using Unity for the first time.</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>You will also benefit from my super fast response if you have any issue that you are stuck with(I check Udemy forums every day if someone posts a question). Oh and all the students taking the course will also be there to help you!</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>All project files will be included and you are free to use them for anything that you like, personal or commercial use!</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Lets take a look at the games that we are going to create inside of this course:</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>We are going to start with a simple game that I call Jack The Giant. In this game we are going to help Jack climb down the beanstalk, along the way we can jump on white clouds but we need to avoid dark clouds. Besides of creating our gameplay we are going to create menus, implement background music, implement admob ads and much much more.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>The next game that we are going to create is Flappy Bird, and I know what you are thinking oh not another Flappy Bird clone, but this is not a regular Flappy Bird clone, oh no, I've added a lot of features that you can't find in any other flappy bird clone such as selecting a bird(choose between different flappy birds), implementing tweeter and many other features that you will see inside of the course.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>After Flappy Bird we are going to create one of the most popular games out there - Infinite Runner!! In this game we are going to see how can we implement features such as quads to represent our backgrounds, spawning obstacles and destroying them, recycling obstacles, implementing google play game services and much much more.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>Next game that we are going to create is going to be a 2D Plaformer game that I call Spider Cave. In this game our player is able to fly and he needs to collect diamonds in order to exit out of the level, what he needs to avoid though are the spiders that lure inside the cave. We are going to have a spider shooter who shoots our player, spider jumper who tries to eat our player when the player is above him and spider walker who simply walks left and right. For the first time we are going to implement simple AI(Artificial Intelligence) in our games, and you can use these techniques in your own games that you will create!</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>After our spider cave we are going to create a nice puzzle game, which a kids game. In this game we are going to implement a lot of features such as creating the whole game in one single scene!! We are going to see how can we compare images to each other in order to check if we have a correct guess, we are going to use the mechanim system a lot in this game in order to animate our menus, that and much more awaits you in this lecture.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>The final game that we are going to create is a game that is called Ball Panic. This is the largest game that we are going to create in this course and the game covers a lot of topics everybody is interested in, such as creating a level and character lock/unlock system, creating weapons menu in order to select a weapon for our player, creating level menu and unlocking those levels, implementing video and interstitial ads and in app purchase, that and much more awaits you in this lecture.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>What You will learn</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ol><li><strong>Unity Interface</strong></li><li><strong>Basic C# Programming</strong></li><li><strong>Intermediate C# Programming</strong></li><li><strong>Advanced C# Programming</strong></li><li><strong>Importing And Organizing Assets</strong></li><li><strong>Slicing Sprites</strong></li><li><strong>Animating Sprites</strong></li><li><strong>Learn How To Use Unitys New UI System</strong></li><li><strong>Creating Menus</strong></li><li><strong>Creating Loading Screen</strong></li><li><strong>Creating Cool Animations</strong></li><li><strong>Understand And Use Unitys Physics System</strong></li><li><strong>Saving Game Data Using Binary Input/Output</strong></li><li><strong>Creating Character And Level Select Menu</strong></li><li><strong>Creating Character And Level Lock Unlock System</strong></li><li><strong>Using Game Controllers To Control The Workflow Of Your Game</strong></li><li><strong>Play Music In Your Game</strong></li><li><strong>Create In-App Purchase To Sell Virtual Items To Your User</strong></li><li><strong>Implement Social Media In Your Game(Facebook and Tweeter)</strong></li><li><strong>Share On Facebook From Your Game</strong></li><li><strong>Create Share On Facebook Earn Virtual Item System In Your Game</strong></li><li><strong>Implement Interstitial Ads</strong></li><li><strong>Implement Video Ads</strong></li><li><strong>Create A Watch Video Earn Virtual Item System In Your Game</strong></li><li><strong>Implement Google Leaderboards And Achievements In Your Game</strong></li><li><strong>Learn How To Support Multiple Screen Resolutions</strong></li><li><strong>Learn How To Submit Your Game On Google Play Store</strong></li></ol>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>That And Much More Is Awaiting You In This Course</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>What this course DOES NOT cover :</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>The course teaches everything from basic to more advanced stuff on how to plan, design, develop and publish your game, however the course WILL NOT teach you every single aspect of Unity and how to use it because it's impossible to teach everything. </strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Using what you obtain in this course, you will be equipped with more than enough knowledge in order to continue improving yourself in the field of game development, using Unity or any other game engine.<br></strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>If You ever had an idea for an awesome game, then enroll in this course and learn the tools that you need to develop Your next hit game!!!</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>What Is Your Risk  By Taking This Course?</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Nothing!! If you are not satisfied with the course, I promise I will give you a full refund of your money NO questions asked!!</strong><br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Enroll Now!! You Will Not Be Disappointed!!</strong></p>",
+            "suitableLearners": [
+                "Unity Beginners",
+                "Game Development Beginners",
+                "Experienced Game Developers",
+                "Anyone Who Wants To Learn Game Development",
+                "Complete Beginners"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2018-11-29T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2018-12-02T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a600eaf7ad1701fe8149d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 3884,
+            "studentCount": 20481,
+            "avgRatingScore": 4.2637415,
+            "contentVideoLength": 65052
+        },
+        "basicInfo": {
+            "udemyCourseId": 1974404,
+            "slug": "learn-to-create-an-rpg-game-in-unity",
+            "title": "Learn To Create An RPG Game In Unity",
+            "subtitle": "Game development made easy. Learn C# using Unity and create your very own classic RPG!",
+            "image": "https://img-b.udemycdn.com/course/240x135/1974404_c458.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Learn C#, a modern versatile programming language.",
+                "Understand the capabilities of 2D development in Unity.",
+                "Develop strong and transferrable problem solving skills.",
+                "Gain an understanding of the game development process.",
+                "Learn how object oriented programming works in practice."
+            ],
+            "requirements": [
+                "Mac or PC capable of running Unity 3D",
+                "A copy of Unity 2018 or newer"
+            ],
+            "description": "<p><strong>Learn how to create and program your very own classic RPG game using Unity, an industry-standard game development program used by many large gaming studios and indie developers across the world.</strong> </p><p>In this course you won’t just be learning programming concepts, but <strong>tying these concepts to real game development uses</strong>. You will have access to a course forum where you can discuss the topics covered in the course as well as the next steps to take once the course is complete.</p><p>This course has been designed to be easily understandable to <strong>everyone</strong>, so whether you’re a <strong>complete beginner</strong>, an <strong>artist</strong> looking to expand their game development range or a <strong>programmer</strong> interested in understanding game design, this course will help you gain a greater understanding of development.<br></p><p>At the end of this course you will have developed the ability to create such game elements as:</p><ul><li><p>Full top-down character movement</p></li><li><p>Creating tile-based maps in Unity</p></li><li><p>A full dialog system</p></li><li><p>Inventory creation &amp; management</p></li><li><p>Stat-tracking &amp; leveling up</p></li><li><p>Shop system</p></li><li><p>Turn-based battles with enemies</p></li><li><p>Boss Battles</p></li><li><p>Quest Management</p></li></ul><p><strong>Start learning today and let me help you become a game developer!</strong><br></p>",
+            "suitableLearners": [
+                "Anyone who wants to make their own 2D games.",
+                "People who want to create and publish their own games.",
+                "Complete beginners with an interest in learning game development.",
+                "Developers who want to re-skill across to game development.",
+                "People interested in working in the game design industy.",
+                "Competent and confident with using a computer."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2020-09-09T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2020-09-12T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a600eaf7ad1701fe8149d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 3610,
+            "studentCount": 20107,
+            "avgRatingScore": 4.0567183,
+            "contentVideoLength": 46980
+        },
+        "basicInfo": {
+            "udemyCourseId": 1595156,
+            "slug": "the-ultimate-guide-to-2d-mobile-game-development-with-unity",
+            "title": "The Ultimate Guide to 2D Mobile Game Development with Unity",
+            "subtitle": "Created in partnership with Unity Technologies: Master C#, Unity Ads, 2D mobile game development, and publishing",
+            "image": "https://img-b.udemycdn.com/course/240x135/1595156_f4b8_3.jpg",
+            "price": 2064370,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Learn to paint your worlds with Unity TileMap",
+                "Master intermediate C# concepts, including the Singleton Design Pattern, Abstract Classes, and Interfaces",
+                "Develop a complete 2D game from scratch using C# and Unity",
+                "Discover 2D animation workflows",
+                "Create modular systems",
+                "How to monetize your mobile game with Unity Ads",
+                "How to publish your mobile game"
+            ],
+            "requirements": [
+                "Students should have an understanding of fundamental C# concepts, like variables, “if” statements, methods, and script communication.",
+                "Students should come ready to complete hands-on activities in this interactive, project-based course",
+                "Students should be comfortable with the Unity Environment",
+                "Fundamental C# videos are included with this course for those who need a refresher. Completion of The Ultimate Guide to Game Development with Unity is recommended, as this will give you familiarity with the Unity workflow."
+            ],
+            "description": "<p><strong>Search for Dungeon Escape on the Google Play Store or Apple App Store (Dungeon Escape DL) by Defiant Lobster Games to checkout what you can make!</strong><br><br>Do you want to create the next big Android mobile game, but aren’t sure where to start?  Are you curious about ad integration with mobile games? If so, look no further!  The Ultimate Guide to 2D Mobile Game Development with Unity teaches you how to create profitable and engaging mobile apps.  You’ll create a dungeon escape adventure game using 2D animations, while fine-tuning your C# programming skills with intermediate concepts like class inheritance, abstract classes, and interfaces!  You’ll utilize the Singleton design manager to create powerful manager classes that help delegate actions in your game.  You will learn how to monetize your game by integrating Unity Ads, and you’ll set up a system to reward the player for choosing to watch an ad! Finally, you will learn how to publish your app to the Google Play Store!  By the end of this course, you will have experience with the complete mobile and software development life cycle, from game development, to testing, and publishing!  You will have a fully finished, downloadable game to show off to your friends and family, or to add to your portfolio if you are pursuing mobile development professionally!</p><p>In this course, you will: </p><ul><li><p>Create a <strong>2D Dungeon Adventure Game</strong></p></li><li><p>Explore the new <strong>2D TileMap Features</strong></p></li><li><p>Implement <strong>Unity Ads </strong></p></li><li><p>Synthesize <strong>Animation State Behaviors</strong></p></li><li><p>Develop <strong>2D Animation Hitboxes</strong></p></li><li><p>Publish to the <strong>Google Play Store</strong></p></li><li><p>And more!</p></li></ul><p>This course explores the 2D features of Unity through creation of a dungeon escape game with Unity ad implementation to generate revenue, and by publishing the game to the Google Play Store.  The course begins with an introduction to TileMap, which gives developers the ability to paint different worlds! Students will then begin setting up the player for combat and developing attack systems found within popular hack &amp; slash type games. Students will also develop a shop system that grants players the ability to purchase items.  If the player can’t afford an item, they can choose to watch a Unity Ad in exchange for 100 gems!  This way, players are rewarded for watching ads, helping make the game profitable.  Throughout this course, students will explore intermediate to advanced topics in C#, including class inheritance, polymorphism, abstract classes, and interfaces, which help build modular systems within games and applications. This course has over <strong>50 challenge activities</strong>, where students will create their own unique code base and improve problem solving skills. </p><p><strong>Why Learn Mobile Game Development with Unity?</strong></p><p>The global gaming industry is experiencing unprecedented growth, with the mobile platform now taking the lead.  NewZoo estimates that mobile games will generate over $70 billion in revenue, accounting for 51% of gaming revenue across all platforms.  Mobile is the fastest growing platform, with over 10 years of double digit growth.  Unity Technologies is helping foster this growth, by providing a free and user friendly environment to create elegant games in.  According to Unity Technologies, in 2016, 34% of the top 1000 free mobile games were created in Unity - more than any other non-proprietary engine.  Compared to other engines, Unity provides easy portability to both iOS and Android, allowing for mass dissemination of a mobile game.</p><p><strong>Why Learn From Me</strong></p><p>This is the third game development course that has been co-created with Unity Technologies on Udemy.  The steps involved with integration of Unity Ads and publishing a game can be tricky. Unity Technologies wants to create a course that breaks down how to monetize mobile games and applications, provide an introduction to more intermediate and advanced C# topics, and use Unity’s new 2D feature, Tilemap. Just like in my previous courses, <strong>The Ultimate Guide to Game Development with Unity, and The Ultimate Guide to Cinematography with Unity</strong>, there will be interactive challenges throughout the course that test what you’ve learned, all while developing your 2D game! <br><br>I’ve been working in Unity since the initial public release of version 2.6, and I’ve authored a book on Unity 3.X. As a <strong>self-taught software engineer</strong>, I found there weren’t any interactive video tutorials that allow beginners to truly grasp concepts essential to game development.  To remedy this and to help others trying to learn, I created my own YouTube video series focused on Unity game development, where I’ve had the privilege of helping thousands of others grow their passion for game development.  As I’ve progressed in my career, I’ve had the opportunity to develop games for Cartoon Network, Adult Swim, and several indie game companies. I’ve also developed enterprise augmented reality applications for Fortune 500 companies like Coca-Cola, GE, and Thyssenkrupp. Teaching has always been a passion of mine, and I hope you will see that throughout this course.  <br><br>Upon completion of this Unity course, students will understand Unity ad implementation, Google Play store publishing, and more intermediate to advanced C# principles.   Students will leave this course with confidence in their ability to utilize the latest and greatest game development techniques and will be able to create, monetize, and publish their own unique Android mobile games!<br><br><strong>Join me on this adventure today!  I’ll see you inside the course.</strong><br></p>",
+            "suitableLearners": [
+                "The ideal student for this course is someone who is interested in creating mobile Android games in Unity that implement Unity Ads and who want to publish games to the Google Play Store",
+                "This course is designed for students who are interested in developing games professionally or as a hobby",
+                "Students interested in 2D mobile games",
+                "Students with a fundamental understanding of C# programming and the Unity environment, as this course will dive into more intermediate and advanced programming topics"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2020-09-20T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2020-09-23T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 298220,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a600eaf7ad1701fe8149d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 3267,
+            "studentCount": 18346,
+            "avgRatingScore": 4.314907,
+            "contentVideoLength": 65840
+        },
+        "basicInfo": {
+            "udemyCourseId": 1279620,
+            "slug": "build-15-augmented-reality-ar-apps-with-unity-vuforia",
+            "title": "Build 15 Augmented Reality (AR) apps with Unity & Vuforia",
+            "subtitle": "Augmented reality (AR) tutorials on Markerless tracking, Cloud AR, 3D Object detection, + more with Unity & Vuforia",
+            "image": "https://img-c.udemycdn.com/course/240x135/1279620_c418_4.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Understand different forms of Augmented Reality and their applications",
+                "Build 15 Augmented Reality Apps from scratch for Android & iOS",
+                "Developing and ARBook app which will detect multiple image targets.",
+                "Creating an interactive business card using AR Virtual buttons",
+                "An AR greeting card app, which plays sound, and animation once opened.",
+                "Detecting a real toy car using 3D Object tracking and superimposing a digital car on top of the real car.",
+                "Tracking of cylindrical objects and placing digital models surrounding the cylinder",
+                "Placing a life size Lamborghini car in real world using Markerless tracking",
+                "Placing a life size drone in air using Vuforia Mid Air feature.",
+                "Play / Pause video's in real world.",
+                "Cloud recognition and best practices.",
+                "Understand the basic difference between Virtual Reality & Augmented Reality",
+                "Students will create AR apps by writing codes in C# programming language"
+            ],
+            "requirements": [
+                "A Windows or Mac Computer system",
+                "Android SmartPhone or an iPhone",
+                "Basic programming knowledge will be of Great help"
+            ],
+            "description": "<p>Curious about Augmented Reality, You have come to the right place. Learn the basics fundamentals and programming techniques required for building fully functional Augmented Reality android and iOS apps. For this course you will need an Android Smartphone or iPhone.  </p><p><strong>So what is Augmented Reality?</strong>\n\n  </p><p>According to Wikipedia, <strong>Augmented reality</strong> (<strong>AR</strong>) is a live direct or indirect view of a physical, real-world environment whose elements are \"augmented\" by computer-generated or extracted real-world sensory input such as sound, video, graphics or GPS data.\n\n  </p><p>In Augmented Reality the real view is modified by a computer (Smartphone in this case). Augmented reality (AR) enhances one’s current perception of reality, whereas in contrast, virtual reality replaces the real world with a simulated one. Augmentation techniques are basically performed in real time,    </p><p>Eg : Displaying live scores and statistics inside a live video of a sporting event\n\n  </p><p>\n\n  </p><p><strong>Power of Augmented Reality</strong>\n\n  </p><p>I came across Augmented Reality in 2015 after watching a video of Augmented Reality Book. I was fascinated to know that such technology actually exists. So I started researching on different Augmented Reality platform. Vuforia platform seemed very promising as developers all over the World have used Vuforia for developing Augmented Reality apps.\n\n  </p><p>Pokemon Go game is the best example of Augmented Reality. Other than that Augmented Reality apps expand over a wide range of topics from Education, Business, Architecture, Health Industry, Home Decoration and obviously mobile gaming.\n\n  </p><p>\n\n  </p><p><strong>Course Content and Overview</strong>\n\n  </p><p>This course is designed for students interested in creating Augmented Reality apps. No coding experience is required; all you need is an Android or iOS device for testing your Augmented Reality apps. We will start from basics of Unity, C# platform and then move to higher topics\n\n  </p><p><strong>Intro &amp; Basics of Augmented Reality</strong>\n\n  </p><p>In the first section you will first understand as to what is Augmented Reality? Next we will look at the four different augmented reality techniques and its application. After this I will explain you what is Virtual Reality and the differences between Augmented Reality (AR) &amp; Virtual Reality (VR)\n\n  </p><p><strong>Basics of Unity </strong>\n\n  </p><p>After understanding Augmented Reality next we will look at the basics of Unity as Unity is the main software which we will use for building Augmented Reality apps. \n\n  </p><p><strong>Augmented Reality One (ARONE) application</strong>\n\n  </p><p>ARONE is the first Augmented Reality Application which you are going to create. In this app you will \n\n  </p><ul><li><p>Create Vuforia account\n\n  </p></li><li><p>Create License Key for the AR app\n\n  </p></li><li><p>Upload an Image as Image Target \n\n  </p></li><li><p>Understand Vuforia Image Recognition system \n\n  </p></li><li><p>Solution to White ImageTarget problem in Vuforia version 6.2.10\n\n  </p></li><li><p>Download 3D model from Unity Asset Store\n\n  </p></li><li><p>Place 3D Model on top of Image Target\n\n  </p></li><li><p>Download ARONE app database from Vuforia and activate it inside Unity \n\n  </p></li><li><p>Build this app for Android &amp; Ios\n\n  </p></li></ul><p><strong>Augmented Reality Book (ARBOOK) application</strong>\n\n  </p><p>In the ARBook application we will first create few sketches inches a drawing book. Next we will download some 3D Models from the asset store and project the 3D Model on top of each image target.\n\n  </p><p>Application like ARBOOK can be implemented in Schools &amp; Colleges for teaching complicated subjects in a fun and easier way.\n\n\n  </p><p><strong>Virtual Button &amp; Augmented Reality Business Card (ARBusinessCard) </strong></p><p>In this section I will explain first explain you the concept of Virtual Button in Vuforia and the six important factors that should be considered while working with Virtual Button. \n\n  </p><p>Next you will create a simple Virtual Button app called AugmentedRealityVirtualButton in which you will understand the important function &amp; interface that are required for working with Virtual Button.\n\n  </p><p>After the ARVirtualButton app we will then create and ARBusinessCard. In the ARBusinessCard app you will first place multiple virtual buttons on top of an Image Target. Next I will show you how to play video file inside Unity, After this we will write a C# script to play a particular video when the virtual button for a particular video is pressed\n\n  </p><p><strong>Augmented Reality Greeting Card</strong></p><p>In this section, you will learn the process of detecting multiple image targets simultaneously at the same time. You will also add an mp3 file in the app that will start playing only when the greeting card is opened.</p><p><br></p><p><strong>Superimposition based AR</strong> <strong>| Object tracking</strong> –</p><p>In this section you will first scan a 3D model using Vuforia’s 3D scanning android application. Next we will import this model inside Unity and on top of this model we will superimpose a digital car.</p><p><br></p><p><strong>Cylindrical Object tracking</strong></p><p>In this section you will learn the technique for detecting a cylindrical object. After detecting the cylindrical object you will create a beautiful 3D scenic view around the cylinder with the help of airplanes, low poly clouds and low poly terrains.</p><p><br></p><p><strong>Vuforia Cloud Recognition</strong></p><p>In this section you will understand the working of Vuforia cloud databases. You will create an application called BookInfoAR. This application will scan a book cover(marker) and display information panel beside the book cover. The information of the marker is stored in cloud database.</p><p><br></p><p><strong>Ground Planes and MidAir</strong></p><p>In this section you will create your first markerless augmented reality using Vuforia Ground Plane. With ground plane feature we will place a lifesize Lamborghini model in real world. Next using the MidAir feature we will place a drone in mid air.</p><p><br></p><p><strong>User Defined Target</strong></p><p>In this section you will understand a feature called User Defined Target feature from the Vuforia Core Sample. With the help of User Defined Target feature we can use any image as an marker.</p><p>So after explaining you the course content I hope to see you inside this Augmented Reality course</p><p>\n\n</p>",
+            "suitableLearners": [
+                "Computer programming students interested in C# programming for building Augmented Reality applications",
+                "Unity Developers interested in Augmented Reality platforms",
+                "Anyone who wants to develop their own AR Applications"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-11-17T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-11-20T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a600eaf7ad1701fe8149d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 3142,
+            "studentCount": 21257,
+            "avgRatingScore": 4.6168547,
+            "contentVideoLength": 124035
+        },
+        "basicInfo": {
+            "udemyCourseId": 2293851,
+            "slug": "unreal-engine-c-the-ultimate-game-developer-course",
+            "title": "Unreal Engine C++ The Ultimate Game Developer Course",
+            "subtitle": "Learn how to develop, code and package a complete video game in Unreal Engine",
+            "image": "https://img-b.udemycdn.com/course/240x135/2293851_8636.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "How to program in Unreal Engine with C++.",
+                "How to create a complete UE4 game from start to finish.",
+                "Those with no experience in Unreal Engine will master Unreal.",
+                "Combat, adventure game mechanics, platforms, game saving/loading and menu design.",
+                "Those already experienced in game development will further expand their skills.",
+                "Those who already develop in another engine such as Unity will master Unreal."
+            ],
+            "requirements": [
+                "Basic understanding of C++ or a similar language (C#, Python, Java, etc.)",
+                "No experience in Unreal Engine needed.",
+                "Memory space on computer for Unreal Engine, Visual Studio or XCode, and game assets (meshes, animations, etc.)"
+            ],
+            "description": "<p>In this series, you will learn Unreal Engine C++ programming from the basics all the way up to packaging a complete video game. You will learn all of the following and more:</p><ul><li><p>Object, Actor, Pawn and Character creation, and the differences between these classes</p></li><li><p>Coding a complete character class, complete with animations and user input</p></li><li><p>Finding a nearly endless selection of free assets and how to download and use them for your game</p></li><li><p>Enemy movement and behavior</p></li><li><p>Combat with melee weapons</p></li><li><p>Picking up and equipping items</p></li><li><p>Damage, Hit Points and Death</p></li><li><p>HUD elements including Health and Stamina Bars as well as Icons</p></li><li><p>How to create menus, including a Pause menu</p></li><li><p>Saving and Loading game data even after turning off the computer or exiting the game</p></li><li><p>Switching levels in game</p></li><li><p>Floating platforms using interpolation</p></li><li><p>Timers for delays in game logic</p></li><li><p>Trigger volumes, pressure switches, and doors</p></li><li><p>Bombs, explosives and hazards</p></li><li><p>Logging and drawing spheres for debug purposes</p></li><li><p>Using C++ concepts applied to game development</p></li><li><p>Much much more!</p></li></ul><p>This is a C++ course and some basic knowledge of the C++ (or a similar language) is needed. If you don't have the basics of C++ down, my first course teaches everything you need to know for this course.</p>",
+            "suitableLearners": [
+                "Aspiring game developers.",
+                "Those wanting to enter the games industry as a game programmer.",
+                "Indie game developers who want to create their own games.",
+                "Anyone who wants a COMPLETE game in their portfolio!"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-11-26T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-11-29T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a600eaf7ad1701fe8149d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 2253,
+            "studentCount": 10772,
+            "avgRatingScore": 4.4902606,
+            "contentVideoLength": 17496
+        },
+        "basicInfo": {
+            "udemyCourseId": 2010926,
+            "slug": "game-developmentart-create-a-2d-action-game-with-unityc",
+            "title": "Game Development/Art - Create a 2D Action Game with Unity/C#",
+            "subtitle": "Game development & Game art/animation. Create a 2D top down shooter using Unity 2018, C# and Ps/Gimp.",
+            "image": "https://img-c.udemycdn.com/course/240x135/2010926_faff_3.jpg",
+            "price": 1720270,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Learn how to sketch and paint 2D game characters.",
+                "Create awesome 2D game animations using Unity.",
+                "Make a player character that can move around an environment and shoot projectiles.",
+                "Program some cool AI behaviors for various enemy game characters using C#.",
+                "Code a customizable enemy wave spawner.",
+                "Make a multi staged boss fight using state machine behaviors.",
+                "Make multiple weapons and power ups.",
+                "Learn how to make great main menus and responsive UI.",
+                "Create epic particle systems and sound effects.",
+                "Be able to make an entire game from A to Z using Unity, C# and some 2D application like Ps or Gimp. And then publish that finished product on Itch io, Newgrounds or Gamejolt."
+            ],
+            "requirements": [
+                "Have Unity and some 2D application like Ps, Gimp, SketchPad or MS Paint installed on your computer.",
+                "Before starting this course you should understand the basics of Unity. Like saving scenes, navigating the interface, using the three basic manipulation tools (Translate, Rotate and Scale), create prefabs and add and modify components inside of the inspector.",
+                "You should have a strong understanding of the basics of C#, such as creating variables, modifying those and calling functions.",
+                "Have a strong desire to learn, have fun and create awesome games !"
+            ],
+            "description": "<p>In this game development course you'll learn how to create a commercial quality 2D action game using Unity, C# and a 2D application like Photoshop or Gimp (whatever 2D drawing tool you have installed on your computer).</p><p><br></p><p><strong>Here is a list of the key things you will learn by watching this course :</strong></p><p>First of all, you'll have a stronger understanding of what it takes to actually finish a game from A to Z in Unity! </p><p>You'll learn how to sketch and paint 2D game characters, then import those creations inside of Unity, rig them and finally make game animations such as run cycles, attack animations, idle animations, and more!</p><p>Learn how to make a player character who can move around an environment and shoot projectiles by programming in C#!</p><p>Create various enemy game characters: a melee monster that runs fast towards the player and leaps at him to attack | A spooky necromancer that summons small, vicious skeletons that chase after the player | a dangerous bat that shoots dark fireballs at the game's hero!</p><p>Understand how to use state machine behaviors to create a multi-stage boss fight in Unity!</p><p>Make multiple weapons the player can equip and use against the game's various foes. As well as a health pickup!</p><p>Create cool looking effects using Unity's particle system and 2D sprites!</p><p>Create fun sound effects using Audacity and then implement that inside of your game!</p><p>You'll learn how to make a nice main menu with responsive, animated UI! </p><p>Create smooth scene transitions using UI panels and animations!</p><p>Publish your finished game to Itch io, Newgrounds, or Gamejolt!</p><p><br></p><p><strong>Why learn from us?</strong></p><p>My brother and I created this course to share our passion for making games and help others bring their unique visions to life!<br>We've been teaching aspiring game developers how to use Unity, code with the C# programming language, and make game art and animations. Our tutorials have been viewed by thousands and are very popular, every day we get dozens of developers thanking us for helping them out on their own game dev journey! </p><p>We've not only made tons of tutorials but we've also created plenty of games using Unity, both 2D, and 3D!<br>So we know what it's like to create a complete, polished experience from A to Z, and really want to equip you with the right tools and knowledge so you can do the same!</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+            "suitableLearners": [
+                "A beginner/intermediate game developer interested in learning how to create a fun, commercial quality 2D action game from A to Z using Unity and C#.",
+                "This course is also for those curious about programming AI using C#.",
+                "Someone wanting to learn how to draw and animate 2D game characters using a 2D application like Ps or Gimp and Unity.",
+                "This course is NOT for complete beginners having never touched Unity or C#. You should have understood the basics of both Unity and C# if you wish to properly follow along and get the most out of this course."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-02-15T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-02-18T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a600eaf7ad1701fe8149d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 2230,
+            "studentCount": 6831,
+            "avgRatingScore": 4.593232,
+            "contentVideoLength": 15006
+        },
+        "basicInfo": {
+            "udemyCourseId": 2183500,
+            "slug": "make-your-first-2d-game-with-unity-c-beginner-course",
+            "title": "Make Your First 2D Game with Unity & C# - Beginner Course",
+            "subtitle": "Beginner Course to Game Development : Learn how to use Unity and Program in C# by Making a Small 2D Game from A to Z.",
+            "image": "https://img-b.udemycdn.com/course/240x135/2183500_b4aa.jpg",
+            "price": 1720270,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Learn the C# fundamentals.",
+                "Solve fun programming challenges.",
+                "Learn the core features of the Unity game engine.",
+                "Create a simple game in Unity from A to Z.",
+                "Make game art and animations.",
+                "Make simple UI and add sounds and music to your game."
+            ],
+            "requirements": [
+                "Have a PC or MAC",
+                "(Optional) Have a drawing tablet to make art for your game. If not you can make pixel art with your mouse, download the project files or use simple geometric shapes."
+            ],
+            "description": "<p>In this game development course, you'll learn how to make your first game using the Unity game engine and the C# programming language.</p><p><br></p><p><strong>Here is a list of the keys things that you will learn by watching this course : </strong></p><p>First of all, you'll have a very good understanding of the basics of Unity once you've finished this course: you'll know how to navigate its interface, create objects, manipulate those, use the prefab system, and lots more.<br></p><p>You'll learn all about the C# fundamentals, in other words, understand what are variables, functions, arrays, loops, conditionals, and a wealth of other key programming tools. You'll also be given challenges so that you don't only copy what we do but gain a much deeper understanding of this amazing programming language.<br></p><p><em>Once we've covered the basics of both Unity and C# we'll create an entire game: Raining Apocalypse! </em></p><p>There we will learn how to make simple game art using a 2D drawing application of your choice like Ps or Gimp, and how to rig and animate your 2D characters in Unity.</p><p>Create a simple player controller, falling hazards, and a spawning system in C#.</p><p>Learn how to use Unity's UI to make an awesome main menu, game over screen, and to display the player's health.</p><p>Learn how to add cool sounds and music to your game.</p><p>And of course, publish your game on Itch io for the world to play and enjoy :)!</p><p><br></p><p><strong>Why learn from us?</strong></p><p>My brother and I created this course to share our passion for making games and help others bring their unique visions to life!<br>We've been teaching aspiring game developers how to use Unity, code with the C# programming language, and make game art and animations. Our tutorials have been viewed by thousands and are very popular, every day we get dozens of developers thanking us for helping them out on their own game dev journey! </p><p>We've not only made tons of tutorials but we've also created plenty of games using Unity, both 2D, and 3D!<br>So we know what it's like to create a complete, polished experience from A to Z, and really want to equip you with the right tools and knowledge so you can do the same!</p><p><br></p><p><br></p><p><br></p><p><br></p>",
+            "suitableLearners": [
+                "Absolute beginner wanting to learn how to make games with Unity.",
+                "Or a beginner who already knows a little about game development, but who wants to acquire a stronger understanding of the C# fundamentals and what it takes to make a whole game from A to Z using Unity."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-02-15T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-02-18T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a600eaf7ad1701fe8149d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 1924,
+            "studentCount": 9525,
+            "avgRatingScore": 4.8227406,
+            "contentVideoLength": 17783
+        },
+        "basicInfo": {
+            "udemyCourseId": 535562,
+            "slug": "how-to-program-games-tile-classics-in-js-for-html5-canvas",
+            "title": "How to Program Games: Tile Classics in JS for HTML5 Canvas",
+            "subtitle": "Learn to code tile-based worlds and related core gameplay for genres like arcade, overhead racing, and puzzle adventure.",
+            "image": "https://img-c.udemycdn.com/course/240x135/535562_6390_3.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Create, display, and play with a 2D tile world that supports optimized collision (a central concept for generations of games in a variety of genres!)",
+                "Program games in JavaScript for HTML5 Canvas without using any external libraries or plug-ins",
+                "Create, load, display, and rotate image graphics in games",
+                "Break game code into multiple files to better manage large projects",
+                "Define a class and use it to create multiple instances of gameplay objects in unique positions (note: only using the very basic first concept of object-oriented programming, it doesn't dive deep into that rabbit hole)",
+                "Handle mouse input for a one-player game, or keyboard controls for both one and two-player games",
+                "Implement basic item pick-ups (keys) and trigger their usage upon collision (open doors)",
+                "Develop and adapt gameplay for basic platformer movement, digital board/strategy games, simple matrix formations for retro arcade-style enemies, and worlds larger than the screen viewed by scrolling camera",
+                "Apply simple trigonometry calls to move game objects at arbitrary angles",
+                "Implement basic loading screen functionality in HTML5"
+            ],
+            "requirements": [
+                "Any plain text editor like Notepad will do, however one which supports features for programmers such as multiple file tabs, code highlighting, line numbers, and smart/auto-indentation can be handy for later phases as the code grows in length (Notepad++ is free for Windows, TextWrangler for Mac, or Sublime Text 2 which I use has a fully functional free trial for either)",
+                "Any common web browser should work fine, although I use Google Chrome (free) so you may prefer that one just to see on your side exactly how it shows up in the videos",
+                "To follow along the few steps for drawing art you'll need a program that lets you draw and save images with transparency. I use a slightly older version of Photoshop, although free alternatives exist and the steps are similar. I also attach all art files that I create, so if you prefer to only focus on the coding steps you can download the images that I create in the videos."
+            ],
+            "description": "<p>By taking this new course you'll program several classic game types that all incorporate 2D tile-based worlds. You'll code in JavaScript for HTML5 Canvas, so a text editor and ordinary web browser are all you need (an art program can be handy for a few sections but is not required). I've attached my code for each step so you'll never be stuck. At the end you'll learn even more ways to apply what you've learned. Also by completing the course you'll get a PDF of my complete 500-page textbook on game development: Hands-On Intro to Game Programming. The book contains over 100 exercises, a couple of more game types, and additional material with more detail about the projects you created in this course.</p><p>(HTML5 Logo in the course image is by W3C, licensed under Creative Commons Attribution 3.0 Unported. Background pattern for transition cards CC BY-SA 3.0 Subtle Patterns © Atle Mo. drawn by Paul Phönixweiß.)<br></p>",
+            "suitableLearners": [
+                "Anyone who wants to learn practical skills to program their own games at home",
+                "People who may already be familiar with programming concepts but are new to applying that knowledge to making real-time computer games",
+                "Creators who have only ever tried drag-and-drop tools but are interested in learning more about how to make games by programming for an deeper level of control over the details",
+                "Developers interested in getting practice with a more traditional \"code only\" approach to core gameplay programming before moving on to major engines and tools (which are not covered in this course) like Unity or Unreal",
+                "People looking for a technical game design foundation based in indie-style games or classic gameplay as a starting point",
+                "New developers who completed the free course \"Code Your First Game: Arcade Classic in JavaScript on Canvas\" and are looking to further build upon their game development skills in JavaScript on HTML5 Canvas",
+                "Please note that advanced topics like object-oriented programming are only very briefly touched upon - software engineering patterns are generally outside the scope of this course"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2020-07-17T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2020-07-20T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625a600eaf7ad1701fe8149d"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 1881,
+            "studentCount": 6171,
+            "avgRatingScore": 4.5180054,
+            "contentVideoLength": 22325
+        },
+        "basicInfo": {
+            "udemyCourseId": 2183054,
+            "slug": "learn-how-to-code-games-in-roblox-studio",
+            "title": "Learn How To Code Games In Roblox Studio",
+            "subtitle": "Learn how to create Roblox games in an easy to understand step by step course",
+            "image": "https://img-c.udemycdn.com/course/240x135/2183054_3e43_5.jpg",
+            "price": 458570,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "An understanding of Lua the coding language used to create Roblox Games.",
+                "The basic concepts of computer programming",
+                "How to get set up to create your first Roblox game by creating an account and downloading and installing Roblox Studio.",
+                "How to move, scale and rotate your Roblox parts.",
+                "How to create a script, make objects spawn and how to program your Humanoid Roblox Player and much more.",
+                "How to Use Roblox Toolbox and create your own models, save them and import them into your projects",
+                "How to code the Leaderboard for multi-player games and save player data during the game.",
+                "Design, Test, and Play your own game from beginning to end.",
+                "You will be able to use all the concepts and coding you learnt in this course to create your own interactive games on Roblox."
+            ],
+            "requirements": [
+                "Have use of a PC or Mac with an internet connection",
+                "Able to download software from roblox.",
+                "Have WinZip or Archive to expand compressed files"
+            ],
+            "description": "<p>Roblox is one of the most popular entertainment platforms for players under the age of 18, with 1 Billion hours of Roblox being played each month by over 80 Million Roblox players.</p><p><br></p><p>Roblox's mission is to bring the world together through play.</p><p><br></p><p>\"We enable anyone to imagine, create, and have fun with friends as they explore millions of immersive 3D experiences, all built by a global community of developers.\"</p><p><br></p><p>There are currently over 4 million active developers and creators producing their own games using Roblox Studio. As of March 2019 98 million dollars has been paid to these community developers.</p><p><br>My course will teach you how to set up and create your first Roblox game.</p><p><br></p><p>The course is divided into 5 Sections. It is designed to be taken in the order it is presented. <br></p><ul><li><p>Section 1 - I show you how to create a Roblox account, and install and use Roblox Studio.</p></li><li><p>Section 2 - We then learn about coding concepts and how they work .</p></li><li><p>Section 3 - We begin to develop a \"Camping Game\" and discuss the rules and how to implement them using Lua code.</p></li><li><p>Section 4 - We continue to develop our game, adding more functionality and learn some more advanced coding techniques.</p></li><li><p>Section 5 - We polish our game and discuss how to take what you have learned and develop it further.</p><p><br></p></li></ul><p>Using the concepts you have learnt by creating this game you will be able to develop it further or use your own ideas to create your own game in Roblox Studio. </p>",
+            "suitableLearners": [
+                "Beginner Lua Programmers",
+                "Roblox players",
+                "Roblox coders",
+                "Beginner Coders",
+                "Gamers"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2020-11-21T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2020-11-24T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    }
+]

@@ -1,0 +1,1158 @@
+[{
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e833f9c9b04f3f624d7b9"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 161,
+            "studentCount": 578,
+            "avgRatingScore": 5,
+            "contentVideoLength": 16248
+        },
+        "basicInfo": {
+            "udemyCourseId": 3378842,
+            "slug": "how-to-make-sugar-craft-hair-styles-for-your-models",
+            "title": "How to make sugar craft hair styles for your models",
+            "subtitle": "A guide to creating hair styles for your sugar craft models",
+            "image": "https://img-b.udemycdn.com/course/240x135/3378842_c348_4.jpg",
+            "price": 917370,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "How to create sugar craft hair styles for models",
+                "develop your skills and confidence"
+            ],
+            "requirements": [
+                "You should already have some basic cake decorating and sugar craft experience.",
+                "It is advisable that you have completed our last course 'Sugar craft faces' if you want to create the full head"
+            ],
+            "description": "<p>In this course we will be learning how to make hair styles for our cake toppers and models using modelling paste / gum paste and other similar materials. This course is suitable for cake decorators / sugar craft artists and anyone else that has an interest in similar crafts, such as polymer clay sculptors. This course contains roughly 4 and a half hours footage, with a lot of information packed in.<br>Our learning will begin with an introduction which covers the materials and equipment you will need, then moves on to look at how to create different types of hair styles from start to finish. This course is perfect for all cake decorators; from those who want to learn a new skill or for those seeking to improve theirs. If you would like to learn how to make&nbsp;hair styles for your models,&nbsp;whilst improving your skills and confidence,&nbsp;then this course is the one for you.<br>Please check out my other course for how to create faces for your models.</p>",
+            "suitableLearners": [
+                "This course is appropriate for any one with an interest in cake decorating, sugar craft arts as well as polymer clay artists and sculptors."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2020-08-01T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2020-08-04T00:00:00.000Z"
+        },
+        "promotions": {
+            "enabled": false
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e833f9c9b04f3f624d7b9"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 157,
+            "studentCount": 1152,
+            "avgRatingScore": 3.8840625,
+            "contentVideoLength": 8352
+        },
+        "basicInfo": {
+            "udemyCourseId": 125878,
+            "slug": "enterprise-architecture",
+            "title": "Enterprise Architecture",
+            "subtitle": "An introductory course about understanding Enterprise Architecture (EA) and it's relevance in business organizations.",
+            "image": "https://img-b.udemycdn.com/course/240x135/125878_ccd9_9.jpg",
+            "price": 1146770,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Learn about the definitions, benefits and disadvantages of Enterprise Architecture.",
+                "Learn about the roles and responsibilities involved in Enterprise Architecture.",
+                "Study the different principles of Enterprise Architecture.",
+                "Be introduced to the Enterprise Architecture framework and explore its different components and domains.",
+                "Know how to develop, build and maintain an Enterprise Architecture.",
+                "Familiarize himself with managing an Enterprise Architecture.",
+                "Explore the possible future uses of Enterprise Architecture, including mobile Enterprise Architecture."
+            ],
+            "requirements": [
+                "Basic understanding of the IT industry",
+                "Knowledge of the English language"
+            ],
+            "description": "Enterprise Architecture (EA) has different meanings for different organizations. The Enterprise Architecture Research Forum defines EA as the continuous practice of describing the important elements of a socio-technical organization, how they are related to each other and the environment to understand complexity and manage change. The United States government classifies enterprise architecture as an Information Technology function, and defines the term as the documented outcomes from examining the enterprise.<br style=\"\">  <br style=\"\">  <p style=\"\">  \tIn general, Enterprise Architecture refers to the structural design of an enterprise including its people, technologies and the activities for designing and describing enterprises. This course will explain the different benefits, characters, principles and frameworks of EA. Developing, building, using and maintaining an EA will also be part of the discourse.  </p>",
+            "suitableLearners": [
+                "IT Graduates",
+                "People interested in Enterprise Architecture",
+                "IT Contractors and Consultants",
+                "IT Professionals who need to understand the basics of Enterprise Architecture"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-02-22T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-02-25T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e833f9c9b04f3f624d7b9"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 153,
+            "studentCount": 34014,
+            "avgRatingScore": 4.2162476,
+            "contentVideoLength": 3277
+        },
+        "basicInfo": {
+            "udemyCourseId": 3930744,
+            "slug": "lumion-landscape-design-photorealistic-rendering",
+            "title": "Lumion : Landscape Design & Photorealistic Rendering",
+            "subtitle": "Advance your knowledge of Landscape design and Rendering Photorealistic pictures & time-lapse videos.",
+            "image": "https://img-c.udemycdn.com/course/240x135/3930744_bb0b.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "This course highlights quick way to create Landscape model in SkectchUp.",
+                "This course demonstrates how to import models to Lumion and add textures and materials to them.",
+                "The course shows how to render realistic visuals from Lumion with Landscape design perspective.",
+                "Additionally, the course includes tutorial on how to render time-lapse video from Lumion."
+            ],
+            "requirements": [
+                "Basic knowledge of Modeling and Rendering can be very much helpful.",
+                "Computer or Laptop with system configuration enough to run Lumion software.",
+                "Anyone wishing to learn Lumion."
+            ],
+            "description": "<p>This class is designed to teach you concepts from creating to rendering of landscape scene in Lumion.</p><p>In this class we will be producing a aesthetic landscape model on SketchUp and render it into images and video clips. I will tech you how to design model and turn it into realistic visuals through images and videos from Lumion. Landscape architecture is about creating great cities, streets, parks and public spaces – ones that inspire healthy living and wellbeing while protecting natural environments and people. Landscape architecture is about creating safe, sustainable and resilient landscapes, landscapes that evolve but endure over time. Also, Landscape architecture is the design of outdoor areas, landmarks, and structures to achieve environmental, social-behavioural, or aesthetic outcomes.</p><p><br></p><p><strong>Learning Objectives :</strong></p><ul><li><p>Designing Landscape model.</p></li><li><p>Adding realistic materials in Lumion.</p></li><li><p>Adding objects and components in Lumion.</p></li><li><p>Concepts of Rendering.</p></li><li><p>Rendering Images and Videos.</p></li></ul><p><br></p><p><strong>Project/Practice Description </strong></p><p><br></p><ul><li><p>Design a Landscape model.</p></li><li><p>Export to Lumion.</p></li><li><p>Add materials and objects to your scene.</p></li><li><p>Add effects, and render images and videos.</p></li></ul><p>All files used in this class are attached in class description for reference. I recommend you design your own landscape scene but you can use uploaded files if you wish. Practice enough. Upload and share your work through messages or comment section.</p><p><br></p><p><em>Feel free to interreact with comments if you face any problems or you have any doubts!</em></p><p><strong>Thank you!</strong></p>",
+            "suitableLearners": [
+                "Beginners",
+                "Landscape Architects",
+                "Architects",
+                "3D modeler and Visual artsits",
+                "Civil Engineers"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-03-25T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-03-28T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e833f9c9b04f3f624d7b9"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 147,
+            "studentCount": 498,
+            "avgRatingScore": 4.0968566,
+            "contentVideoLength": 7066
+        },
+        "basicInfo": {
+            "udemyCourseId": 2559098,
+            "slug": "dynamo-for-beginners",
+            "title": "Dynamo for Beginners",
+            "subtitle": "visual programing for everyone",
+            "image": "https://img-b.udemycdn.com/course/240x135/2559098_6400_3.jpg",
+            "price": 458570,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Logic of Dynamo"
+            ],
+            "requirements": [
+                "You can start learn dynamo without any special skills"
+            ],
+            "description": "<p>This course it’s designed for teaching you how to&nbsp; Dynamo on Autodesk Revit 2020.</p><p>In this course, you will see all the fundamentals things in Dynamo. I will show you how you can manipulate with data, how you can place geometry and filter it! </p><p>Are you tired of taking courses that go to fast with a lot of content? Don’t worry go at your own pace, jump between sections for certain topics, the access is for a lifetime.</p><p>Also, we have a direct response to any topic listed, so we can improve the content.</p><p>Be the first to know of future courses regarding BIM, take advantage of all the opportunities that may appear and use it to improve your work performance and get better job positions.</p><p>join me, Niko G.</p>",
+            "suitableLearners": [
+                "Architects who want learn Dynamo and better understand it."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2019-09-15T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2019-09-18T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 298220,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e833f9c9b04f3f624d7b9"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 147,
+            "studentCount": 463,
+            "avgRatingScore": 4.6605473,
+            "contentVideoLength": 2313
+        },
+        "basicInfo": {
+            "udemyCourseId": 1081436,
+            "slug": "daylighting-102-all-about-glass",
+            "title": "Daylighting 102 : All About Glass",
+            "subtitle": "Primer on the fundamentals of glass which is key to designing good daylit spaces",
+            "image": "https://img-b.udemycdn.com/course/240x135/1081436_1811.jpg",
+            "price": 687970,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Clarity on glazing properties",
+                "Understand impact on daylighting",
+                "Select the right glazing for design",
+                "Apply guidelines in practice"
+            ],
+            "requirements": [
+                "Although not required, I recommend that you take the first course - Daylighting 101 before taking this course. It will enhance your understanding of this topic.",
+                "But if haven't done so, its okay. You can get started with course. You will need to be familiar with daylighting metrics such illuminance, flux, etc."
+            ],
+            "description": "<p>Glass is an important building element that brings daylight in a space. All-glass buildings are a common scenario in most parts of the world. Extensive use of glass results in excessive light and heat ingress which not desired for a well designed comfortable space. A balance between heat and light gain can be achieved by selecting the right kind of glass.</p>\n\n<p><br></p>\n\n\n\n<p>While all glass might look the same, its specifications have a significant impact on daylighting. When you learn about glass, you have to learn about heat ingress as well in addition to daylight. Awareness of the properties of glass and its technical specifications will help in selecting the right kind of glass for an application.</p>\n\n\n\n<p><br></p>\n\n\n\n\n\n<p>This course covers technical terms in the most simple, clear and interesting manner. Examples given in the course correlate with the real world. The next time you look at glass clad buildings, you will know what is going on in there.. </p>\n\n\n\n<p><br></p>\n\n\n\n\n\n<p>The course comprises of 6 lectures in video format and a quiz to be taken at the end of the course. There are simple and interesting exercises within the lectures that help you understand the concepts effectively and keep you engaged. At the end of this course, you will be able to select the right glass for a given building. You will be able to read the technical catalog comfortably and can have a scientific conversation about glass selection.</p>\n\n\n\n<p><br></p>\n\n\n\n\n\n<p>This is the second course in the Daylighting series. Although not required, I recommend that you take the the first course – Daylighting 101 : Technical Terms to gain a holistic understanding of 'Daylighting'.</p>",
+            "suitableLearners": [
+                "If you are associated with the building industry either on the design side or the construction side, this course is relevant for you."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2018-11-26T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2018-11-29T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e833f9c9b04f3f624d7b9"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 146,
+            "studentCount": 909,
+            "avgRatingScore": 4.273248,
+            "contentVideoLength": 73315
+        },
+        "basicInfo": {
+            "udemyCourseId": 3720552,
+            "slug": "etabs-learn-building-analysis-design-autocad-detailing",
+            "title": "ETABS- Learn Building Analysis Design & AutoCAD Detailing",
+            "subtitle": "Master on Etabs Structural Engineering & Designing of Building and Civil engineering Concepts with AutoCAD Detailing",
+            "image": "https://img-c.udemycdn.com/course/240x135/3720552_6e4e_3.jpg",
+            "price": 458570,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "ETABS - Manaual calculations",
+                "Basic of Civil Engineering",
+                "Basics Of Structural Engineering",
+                "Basics Of Reinforced Cement Concrete & Design",
+                "Basics of Structural design"
+            ],
+            "requirements": [
+                "Patience to Learn"
+            ],
+            "description": "<p><strong>ETABS- Extended Three Dimensional Analysis Of Building Systems </strong></p><p><strong>This Course helps in understanding the fundamentals of Reinforced Cement Concrete&nbsp; &amp; Structural Engineering.</strong></p><p><strong>The Course is designed with each Etabs Commands Explained in A practical Approach.</strong></p><p><strong>All the Calculations are Manually verified with the ETABS&nbsp;results.</strong></p><ol><li><p><strong>Manual calculations of beams, column , slabs &amp; Footings.</strong></p></li><li><p><strong>The model is prepared for Dead Load &amp; Live Load &amp; checked for all results</strong></p></li><li><p><strong>The Basic of Structural Engineering is covered in Great Detail.</strong></p></li><li><p><strong>Learn all Basic commands required to Model any Structure </strong></p></li><li><p><strong>All the Elements like Footing ,Column , Beam &amp; Slab Manual Detailing is Explained</strong></p></li><li><p><strong>The course is also designed so that learners will be able to prepare center Line layout, Column Layout &amp; Foundation Layout.</strong></p></li><li><p><strong>The concept of primary Beams &amp; Secondary Beams are also covered .</strong></p></li><li><p><strong>Importance of torsion, how to release Moments for Beams is covered in Details&nbsp; .</strong></p></li><li><p><strong>The code book of IS 875 -Part 1 &amp; Part 2 is covered for Applying Loads.</strong></p><p><br></p></li><li><p>ETABS-Extended 3D analysis of Building Systems”, is a product of Computers and Structures Inc. It is an engineering software that is used in construction. It has highly efficient structure analysis and design programs developed for catering to multi-story building systems. It is loaded with an integrated system consisting of modeling tools and templates, code-based load prescriptions, analysis methods, and solution techniques. It can handle the largest and most complex building models and associated configurations. ETABS software is embedded with CAD-like drawing tools with an object-based interface and grid representation.</p><p>ETABS software has the following implications in the construction, designing, and modeling industry:</p><ol><li><p>It is a software used in construction. It analyses and assesses seismic performance and checks the load-bearing capacity of building structures.</p></li><li><p>Using this software, you can view and manipulate the analytical model with great accuracy. Plans and elevation views are auto-generated at every grid line.</p></li><li><p>ETABS software is used for the analysis of concrete shear walls and concrete moment frames. It is highly acclaimed for static and dynamic analysis of multi-story frame and shear wall buildings.</p></li><li><p>It is the most popular civil designing tools used in the building industry and increases the productivity of structural engineers. It also prevents the investment of unnecessary time and money in general-purpose programs.</p></li><li><p>The input, output and numerical solution techniques of ETABS are particularly designed to take an upper hand of the unique physical and numerical characteristics associated with building type structures. As a result, this analysis and design tool accelerates data preparation, output interpretation, and overall execution.</p></li></ol></li></ol><p><br></p>",
+            "suitableLearners": [
+                "Structural Engineers",
+                "Civil Engineers",
+                "Design Engineers",
+                "Construction Managers"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-07-30T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-08-02T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e833f9c9b04f3f624d7b9"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 143,
+            "studentCount": 297,
+            "avgRatingScore": 4.2121377,
+            "contentVideoLength": 2434
+        },
+        "basicInfo": {
+            "udemyCourseId": 1524172,
+            "slug": "introduction-to-green-buildings",
+            "title": "Introduction to green buildings",
+            "subtitle": "A primer to green building design",
+            "image": "https://img-c.udemycdn.com/course/240x135/1524172_a6ba.jpg",
+            "price": 687970,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Understand environmental impacts of buildings",
+                "List design strategies for green buildings",
+                "Discuss sustainability in the context of green buildings",
+                "Enumerate green building standards and benchmarks"
+            ],
+            "requirements": [
+                "This is a beginner level course focused on green building design strategies. You do not need any prior experience or knowledge about green buildings. Being familiar with the building construction industry or studying architecture will be helpful"
+            ],
+            "description": "<p>This course is approved for 0.5 GBCI Continuation Education (CE) credits.</p><p>While the building sector is one of the biggest contributors to global warming and climate change, it also has the greatest potential for mitigation. Green Buildings are designed to have reduced environmental impacts in terms of energy, water, transportation, waste and the indoor environment. &nbsp;&nbsp; &nbsp;</p><p>This course enumerates the goals and strategies for designing a green building. You’ll also understand how different benchmarks and standards for green buildings have evolved over time and where they’re headed in the future.&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;</p><p>This course is organized in small modules. The first module elaborates on the environmental impacts of buildings. The second module will help you understand what green buildings are. Next, you will understand various strategies of green building design in the third module.&nbsp;Finally, the fourth module will provide you an insight to where green buildings are headed in the future.</p><p>The course content has high-quality visuals to provide you an engaging and insightful learning experience. At the end of the course, you’ll have complete clarity on what green buildings are all about.&nbsp;<br></p>",
+            "suitableLearners": [
+                "If you are associated with the building industry either on the design side or the construction side, this course is relevant for you.",
+                "If you have been intrigued about green buildings, but wanted to learn the fundamentals, you can consider this as a foundation course",
+                "If you are currently studying architecture, and interested in sustainability, this course is a primer for you.",
+                "If you are an architect and want to design green buildings, this course is just for you !"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2020-06-22T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2020-06-25T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e833f9c9b04f3f624d7b9"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 138,
+            "studentCount": 1407,
+            "avgRatingScore": 4.582376,
+            "contentVideoLength": 6964
+        },
+        "basicInfo": {
+            "udemyCourseId": 593644,
+            "slug": "tiny-house-design-part-3-utilities-and-systems",
+            "title": "Tiny House Design Part 3 - Utilities and Systems",
+            "subtitle": "A Comprehensive 101",
+            "image": "https://img-c.udemycdn.com/course/240x135/593644_9970_4.jpg",
+            "price": 917370,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Understand the options you have to hook up to power, water and sewer in your tiny house.",
+                "Understand the pros and cons to various fixtures in your tiny house.",
+                "Choose the right type of toilet for your tiny house based on the pros and cons of all the options.",
+                "Have a very basic understanding of the options you have electrically in your tiny home.",
+                "consider safety options and measures for your tiny house.",
+                "Have a good understanding of the methods you can use to heat and cool your tiny home.",
+                "Understand the methods of waste water management for your tiny house including both grey and black water management."
+            ],
+            "requirements": [
+                "Students should bring an open mind and their curiosity of tiny houses!"
+            ],
+            "description": "<p>This is going to be a conversation about the utilities and hookups available for tiny houses including pros and cons of each. I will talk about on-grid, off-grid and self contained options when it comes to water, sewer and electric as well as a basic intro to wiring and plumbing. </p><p>I will go through all the fixtures and options as far as plumbing, heating and cooling your tiny house.  This will be the one where we talk at length about toilets and all the options there ;-).</p><p>There are approximately 2 hours of information relating to  utilities, fixtures and systems as they apply to tiny homes. This course is formatted to provide the information relevant to you and enable you to make the best decision for yourself. If you are excited about tiny houses and how they may empower you this course is for you!<br></p>",
+            "suitableLearners": [
+                "This course is for all of those interested in learning the options and opportunities when it comes to transitioning to a tiny house",
+                "This course is for those in the beginning stages of understanding all of the decisions that go into your own tiny home.",
+                "This course is probably not for you if you are looking for in depth 'how-to' information on the steps to building your own tiny home.",
+                "This course if for those looking to learn more about the tiny house movement and if it is right for you!"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2018-10-11T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2018-10-14T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e833f9c9b04f3f624d7b9"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 135,
+            "studentCount": 348,
+            "avgRatingScore": 4.5551157,
+            "contentVideoLength": 0
+        },
+        "basicInfo": {
+            "udemyCourseId": 3363526,
+            "slug": "igbc-ap-practice-test",
+            "title": "IGBC AP Practice Test",
+            "subtitle": "150 sample questions & study materials included",
+            "image": "https://img-c.udemycdn.com/course/240x135/3363526_418c_2.jpg",
+            "price": 458570,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Students or professionals can validate their knowledge on sustainable principles.",
+                "Practice test will be useful for your preparation on IGBC AP exam."
+            ],
+            "requirements": [
+                "You require knowledge about IGBC rating system, IGBC process, Building Standards & Codes and Green Design Strategies & Impacts"
+            ],
+            "description": "<p>The practice test has the following four sections :</p><p>Section I : Green Building Design &amp; Construction<br>Section II : Building Standards &amp; Codes<br>Section III : IGBC Resources and Processes<br>Section IV : Green Design Strategies &amp; Impacts</p><p><br></p><p><strong>SECTION I: Green Building Design &amp; Construction</strong><br><br>The purpose of this section is to demonstrate the candidate's general understanding of the green building design and construction industry as they relate to green building practices.<br></p><p><strong>SECTION II: Building Standards &amp; Codes</strong><br><br>This section is to verify the candidate's understanding and knowledge on few of the local building standards and codes as they relate to environmental aspects.<br></p><p><strong>SECTION III: IGBC Processes</strong><br><br>This section would test the candidate's understanding of processes and resources related to IGBC programme.<br></p><p><strong>SECTION IV: Green Design Strategies &amp; Impacts</strong><br><br>This section is to evaluate understanding of green building strategies and the impact that they would result in. The candidate is required to match the impact to a strategy provided.</p><p>The sample test will be very useful for all the candidates who are planning to take IGBC AP exam. The course will be frequently updated with new questions. Please contact us if you have any query related to this course - support@designparameter.com</p>",
+            "suitableLearners": [
+                "Any students or professionals who want to take IGBC AP exam."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-01-04T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-01-07T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e833f9c9b04f3f624d7b9"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 134,
+            "studentCount": 404,
+            "avgRatingScore": 4.186506,
+            "contentVideoLength": 3668
+        },
+        "basicInfo": {
+            "udemyCourseId": 1080894,
+            "slug": "psychrometry-and-green-buildings",
+            "title": "Psychrometry and green buildings",
+            "subtitle": "Psychrometry as a green building design tool",
+            "image": "https://img-c.udemycdn.com/course/240x135/1080894_8d9e_2.jpg",
+            "price": 687970,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "have clarity of the fundamentals",
+                "correlate psychrometry with climate variables",
+                "use the psychrometric chart as a design tool",
+                "derive passive design strategies"
+            ],
+            "requirements": [
+                "Although not a requirement, familiarity with fundamentals of passive building design will be helpful in enhancing your understanding of what is covered in this course."
+            ],
+            "description": "<p>The fundamental of green building design is to respond to climate and sun. A good handle over the psychrometric chart and the sun path diagram is essential to design green buildings. Psychrometric charts are commonly used by mechanical engineers for designing air conditioning systems. But it has great potential to be used as a building design tool beyond the engineering concepts. Climate variables are better understood if there is clarity on the core concepts of psychrometry.</p>\n\n<p>This course will show how pyschrometric charts can be used by NON-engineering professionals as a tool to derive passive design strategies. This is a primer on understanding climate and its application in building design. </p>\n\n\n\n<p>The chart used in the course is in the metric system (SI units). Even if you are familiar only with the IP system of units, you will still be able to follow through all the concepts in the course. </p>\n\n\n\n\n\n\n\n<p>The course is organized in two section with a total of 7 lectures and 1 hour of video content. At the end of the first section, you will be confident is using the psychrometric chart. By the end of the second section, you will understand how to correlate its application to derive passive design strategies. </p>\n\n\n\n\n\n\n\n<p>This is very hands-on and interactive course. There are several examples and exercises scattered throughout the course that will ensure you understand the concepts. At the end of the course, you will be confident to use this simple chart as a powerful design tool during early design stage. This is a direct take-away from the course. </p>",
+            "suitableLearners": [
+                "This course is for NON-mechanical engineering building design professionals, particularly an architect.",
+                "If you are student studying architecture or building design, you will find this course relevant and of ready use in your projects"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2017-01-31T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2017-02-03T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e833f9c9b04f3f624d7b9"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 125,
+            "studentCount": 6805,
+            "avgRatingScore": 3.899154,
+            "contentVideoLength": 15084
+        },
+        "basicInfo": {
+            "udemyCourseId": 3141842,
+            "slug": "bridge-modelling-with-autodesk-revit-2020-bim-tool-course",
+            "title": "Bridge Modelling with Autodesk Revit 2020 - BIM Tool Course",
+            "subtitle": "Building Information Modelling (BIM) Tool",
+            "image": "https://img-c.udemycdn.com/course/240x135/3141842_58e8_2.jpg",
+            "price": 1146770,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Learn the necessary skills for bridge modelling in Autodesk Revit.",
+                "Apply the knowledge and skill acquired in modelling a suspension bridge.",
+                "Apply the knowledge and skill acquired in modelling a pedestrian bridge.",
+                "Model bridges using one of the most popular BIM tools in the indsutry."
+            ],
+            "requirements": [
+                "No prerequisites knowledge/skills required.",
+                "Only a functioning computer with Autodesk Revit installed (any version)."
+            ],
+            "description": "<p>This is an easy step by step training course that will provide you with all the necessary knowledge and skills to model bridges in Autodesk Revit 2020 which is one of the most popular Building Information Modelling (BIM)&nbsp;tools in the industry.</p><p>You will go through the basics of bridge modelling in Autodesk Revit and apply your knowledge and skills on two real life case studies featuring a suspension bridge and a pedestrian bridge. </p>",
+            "suitableLearners": [
+                "BIM Professionals",
+                "Revit Professionals",
+                "Engineering Professionals",
+                "Civil Engineering Students",
+                "Architectural Engineering Students"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2020-06-26T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2020-06-29T00:00:00.000Z"
+        },
+        "promotions": {
+            "enabled": false
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e833f9c9b04f3f624d7b9"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 115,
+            "studentCount": 1380,
+            "avgRatingScore": 4.2928495,
+            "contentVideoLength": 7386
+        },
+        "basicInfo": {
+            "udemyCourseId": 593646,
+            "slug": "tiny-house-design-part-4-custom-design",
+            "title": "Tiny House Design Part 4 - Custom Design",
+            "subtitle": "A Comprehensive 101",
+            "image": "https://img-c.udemycdn.com/course/240x135/593646_7ec0_4.jpg",
+            "price": 917370,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Start the design of their own custom tiny house.",
+                "Answer the big questions of how to design each space in their tiny house",
+                "Understand whether they should buy, hire or design their own tiny home.",
+                "Be able to design in plan and think in elevation of their own tiny home.",
+                "Know their options for selecting doors and windows in their home and how these can impact the feel of their space.",
+                "Have a good understanding of the pros and cons of various finish materials both inside and outside their tiny home."
+            ],
+            "requirements": [
+                "Students should bring an open mind and their curiosity of tiny houses!"
+            ],
+            "description": "<p style=\"\">This is going to be a conversation about how to design your own tiny house. Fact is tiny houses HAVE to be suited for their occupants, there is no &#039;one-size-fits-all&#039; but there are things to consider and think about in your daily life. I will share some of the important questions to ask yourself, some things to consider and give you some general rules and background of design to help make the appropriate decisions. Design is daunting but it&#039;s also systematic and with tiny houses, form really does follow function, there are reasons that one strategy makes sense over others.  In addition to talking about the design of the actual house I will touch on designing your lifestyle!</p><p style=\"\">There are approximately 2 hours of information relating to design, materials, and processes  - as it applies to tiny homes. This course is formatted to provide the information relevant to you and enable you to make the best decision for yourself. If you are excited about tiny houses and how they may empower you this course is for you!<br style=\"\"></p>",
+            "suitableLearners": [
+                "This course is for all of those interested in learning the options and opportunities when it comes to transitioning to a tiny house",
+                "This course is for those in the beginning stages of understanding all of the decisions that go into your own tiny home.",
+                "This course is probably not for you if you are looking for in depth 'how-to' information on the steps to building your own tiny home.",
+                "This course if for those looking to learn more about the tiny house movement and if it is right for you!"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2018-10-11T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2018-10-14T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e833f9c9b04f3f624d7b9"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 115,
+            "studentCount": 557,
+            "avgRatingScore": 4.5973353,
+            "contentVideoLength": 23068
+        },
+        "basicInfo": {
+            "udemyCourseId": 4134350,
+            "slug": "rhino-3d-for-architects-from-scratch",
+            "title": "Rhino 3D for Architects from Scratch",
+            "subtitle": "Rhino Full Course from Zero to Hero Aimed for Architecture Students",
+            "image": "https://img-b.udemycdn.com/course/240x135/4134350_27b2.jpg",
+            "price": 687970,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "3D Modeling for Architecture from Scratch",
+                "Organic and Geometrical Architectural Modeling",
+                "Efficient Modeling Workflow",
+                "Architectural Representation Strategies",
+                "Workflow between Rhino and other Architectural Softwares",
+                "Topography Creation of any Region",
+                "Simple to do Parametric Designs"
+            ],
+            "requirements": [
+                "Rhinoceros 6 or 7 Installed in your PC",
+                "No prior experience of the software required"
+            ],
+            "description": "<p>In this course aimed for architecture students you will not only learn the basics of Rhinoceros, but also acquire the necessary skills to be able to model complex forms efficiently. You will come by and gain an understanding of strategies that I have developed with more than 10 years of experience that will allow you to create high end architectural diagrams of your concept, site analysis and even it's structure. By the the end of the lectures you will be able to create any architectural design effortlessly and represent it in an appropriate manner.&nbsp; </p><p>The course is designed to start us off with the software of Rhinoceros from scratch, learning the most valuable and efficient ways for architects to start modeling geometrical forms. In a second stage the lectures will take you into the understanding on how to produce organic designs, this being a subject that not many know how to accomplish in the field of architecture.&nbsp; On a third stage we will look into complementing our designs with structure and window frames with efficient methods. Fourth stage consists on the architectural representation through diagrams that we can initialy produce in Rhino and then retouch them in a bonus lesson of Adobe Illustrator. </p>",
+            "suitableLearners": [
+                "Architecture Students",
+                "Architects",
+                "Designers",
+                "Engineers",
+                "Beginners who want to start or step up with 3d modeling for architecture and design"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-08-25T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-08-28T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e833f9c9b04f3f624d7b9"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 114,
+            "studentCount": 858,
+            "avgRatingScore": 4.3627024,
+            "contentVideoLength": 45727
+        },
+        "basicInfo": {
+            "udemyCourseId": 4080338,
+            "slug": "architectural-post-production-in-photoshopzero-to-advanced",
+            "title": "Architectural Post-Production in Photoshop(Zero to Advanced)",
+            "subtitle": "Fully step by step guide to learn post-production of architectural visualization from very basic level to advanced level",
+            "image": "https://img-c.udemycdn.com/course/240x135/4080338_9d71.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "General workflow of post-production.",
+                "Basic fundamentals of post-processing AKA post-production.",
+                "How to use Adobe Photoshop to achieve a good presentation result.",
+                "How to use different render paths of your render elements.",
+                "Photo compositing & photo manipulation.",
+                "How to use mask, smart objects, adjustment layers to achieve the best result without any destructive method.",
+                "Create different versions of single render shots like day & night and different weather.",
+                "Using & creating brushes for creating clouds, grass, lighting effects, etc.",
+                "Improve render details & quality.",
+                "Prepare files for printing and web publishing.",
+                "And many useful tips & tricks in Adobe Photoshop."
+            ],
+            "requirements": [
+                "A Computer & Adobe Photoshop.",
+                "Basic understanding of computer graphics.",
+                "Basic knowledge of computer and adobe photoshop, however I explain every tool and command step by step with all descriptions without skipping."
+            ],
+            "description": "<p>Generally, you will learn the workflow of different post-processing types for architectural visualization.</p><p><br></p><p>Also, you will learn:</p><ul><li><p> General pipelines of post-production</p></li><li><p> Basic fundamentals of post-processing AKA post-production</p></li><li><p> How to use Adobe Photoshop to achieve a good presentation result</p></li><li><p> How to use different render paths of your render elements</p></li><li><p> Photo combination &amp; photo manipulation</p></li><li><p> How to use masks, smart objects, adjustment layers to achieve the best result without any destructive method.</p></li><li><p> Create different versions of single render shots like day&amp;night and different weather.</p></li><li><p> Using &amp; creating brushes for creating clouds, grass, lighting effects, etc.</p></li><li><p> Improve render details &amp; quality.</p></li><li><p> Prepare files for print and web publishing.</p></li><li><p> And many useful tips &amp; tricks in Adobe Photoshop.</p></li></ul><p><br></p><p><strong>What is a requirement to path this course?</strong></p><ul><li><p> For sure you need a decent performance computer, adobe photoshop.</p></li><li><p> Basic knowledge of computer and adobe photoshop.</p></li><li><p> Basic understanding of computer graphics.</p></li></ul><p><br></p><p>I use Adobe Photoshop 2021 which I recommend, but you could follow this tutorial with older versions of photoshop too.</p><p>Also, I recommend having a computer with a minimum of 4GB of RAM.</p><p><br></p><p>Generally, to process the post-production in 3D architectural visualization you could work on 3 modes.</p><p><strong>a. You have a whole render scene and you need to improve your lights, scene, and a few simple retouches.</strong></p><p><strong>b. You have your building render shot and you would add environment and other assets into that render shot.</strong></p><p><strong>c. You just have raw building geometry or concept and you want to present that as a 3D visualized scene.</strong></p><p><br></p><p>Also, there are several reasons to do post-production or post-process your renders.</p><p><strong>1- First you may don’t have enough hardware or software resources to achieve the final result quality you need.</strong></p><p><strong>2- Making an environment or assets or some effects you need takes too much time or high investment required for that.</strong></p><p><strong>3- You don’t have enough skill to create your elements and visual effects or so in 3D software.</strong></p><p><br></p><p><strong><em>* Updated some features in photoshop 2022 latest version such as Neural Filters and new masking in Camera Raw Filter</em></strong></p><p><br></p><p>For any reason I mentioned or any type of post-production you need to create in photoshop, there is no worry, in this series of tutorials I will cover them all and show you the process step by step.</p>",
+            "suitableLearners": [
+                "Architecture students (School & University).",
+                "Who looking for get job with architectural visualization post-production.",
+                "Graphic designers, Graphic generalists.",
+                "3D Artists for improve they final renders or don't have strong equipment to add everything in 3D software."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-02-01T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-02-04T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e833f9c9b04f3f624d7b9"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 113,
+            "studentCount": 1090,
+            "avgRatingScore": 4.488286,
+            "contentVideoLength": 5848
+        },
+        "basicInfo": {
+            "udemyCourseId": 455744,
+            "slug": "reinforced-prestressed-concrete-for-construction-managers",
+            "title": "Reinforced & Prestressed Concrete for Construction Managers",
+            "subtitle": "Increase your value as a construction manager by gaining vital knowledge about concrete reinforcing and prestressing.",
+            "image": "https://img-c.udemycdn.com/course/240x135/455744_a719_9.jpg",
+            "price": 687970,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Explain the meaning of passive reinforcing versus active reinforcing",
+                "List examples of active and passive reinforcing",
+                "Discuss the effects of adding rebar to concrete",
+                "Explain how the change in location of the rebar within the concrete effects its performance",
+                "List advantages of prestressed concrete",
+                "Describe the difference between pre-tensioned and post-tensioned reinforcing",
+                "Describe the precast concrete process ",
+                "Explain how post-tensioned concrete works ",
+                "List common examples of prestressed concrete structures "
+            ],
+            "requirements": [
+                "You should have a basic understanding of concrete and its use as a building material.",
+                "The course briefly discusses concrete and its properties relative to reinforcing, but if you need a better understanding of concrete, try our Understanding Concrete course here on Udemy",
+                "You will need a program or app that allows you to view PDF files in order to read the downloadable material and handouts"
+            ],
+            "description": "<p style=\"\">Concrete is the most widely used building material in the world. In addition to understanding concrete, today&#039;s construction professional needs to understand the principles of concrete reinforcing and how prestressed concrete works. This includes both pre-tensioned concrete that is typically manufactured in a precast plant, and post-tensioned concrete that is cast-in-place. Post-tensioned concrete is being used more and more throughout the world to build multi-story structures, slabs-on-ground, and bridges, while precast prestressed concrete continues to be used in rapidly built structures like parking garages. Understanding how and why reinforcing and prestressing works in a concrete structure. </p><p style=\"\"><strong style=\"\">Gain a better understanding of the principle and theory behind concrete reinforcing and prestressing to help you be a better construction management professional. </strong></p><p style=\"\">After completing this course you will be able to...</p><ul style=\"\"><li style=\"\">Explain the meaning of passive reinforcing versus active reinforcing and list examples of each</li><li style=\"\">Discuss the effects of adding rebar to a concrete element</li><li style=\"\"><span style=\"\"></span>Explain how the change in location of the rebar within the concrete effects its performance</li><li style=\"\"><span style=\"\"></span>List advantages of prestressed concrete</li><li style=\"\"><span style=\"\"></span>Describe the difference between pre-tensioned and post-tensioned reinforcing</li><li style=\"\">Describe the precast concrete process</li><li style=\"\">Explain how post-tensioned concrete works</li><li style=\"\">List common examples of prestressed concrete structures</li></ul><p style=\"\"><strong style=\"\">Learn from a professional</strong></p><p style=\"\">My courses have been created as a place where everyone, whether you are an experienced professional, a young project engineer, new to a trade or a seasoned journeyman, can come to learn more about the industry that we have chosen as our profession. That&#039;s what this platform is about. These courses are meant to be a way for you to increase your knowledge of the construction industry in a variety of cutting edge topics from concrete reinforcing and prestressing, to micro trenching, to safety management systems. This is not a course that teaches you how to install rebar or prestressing steel. It is a course that educates you on why we reinforce concrete and how it works. This is information you need as a construction professional in order to talk to designers, owners and subcontractors. </p><p style=\"\">This course is a great way for you to increase your knowledge about concrete reinforcing and prestressing. </p>",
+            "suitableLearners": [
+                "This course is meant for anyone that has responsibilities as a construction management professional. This course will give you an understanding of the principle and theory behind reinforced and prestressed concrete and will get you familiar with the terms used by the professionals and experts in the industry. This course is ideal for construction professionals that may not have formal training in reinforcing or prestressing. This course is also ideal for anyone that is just getting started in the industry, or anyone that wants to go beyond a basic understanding of concrete reinforcing and move to a level of understanding that will help you communicate with designers, producers and other professionals.",
+                "If you work around, or manage projects that utilized prestressed concrete (pre-tensioned or post-tensioned) then this course is for you!",
+                "If you have been through a PTI Certification course or one of the Ironworker's apprenticeship courses, then you may already have a good understanding of the material in this course."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2015-04-17T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2015-04-20T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e833f9c9b04f3f624d7b9"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 111,
+            "studentCount": 585,
+            "avgRatingScore": 4.4648876,
+            "contentVideoLength": 13302
+        },
+        "basicInfo": {
+            "udemyCourseId": 570058,
+            "slug": "autodesk-revit-architecture-bim-training",
+            "title": "Autodesk Revit Architecture BIM Training",
+            "subtitle": "A course based on the experience gained in more than ten years in the Autodesk Authorized Training Center I founded",
+            "image": "https://img-c.udemycdn.com/course/240x135/570058_8511_3.jpg",
+            "price": 1032070,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Design and build an architectural project from scratch in Autodesk Revit like professional!"
+            ],
+            "requirements": [
+                "you will only need a pc with Autodesk Revit installed in order to follow the exercises."
+            ],
+            "description": "<p>From zero to Autodesk professional! </p><p>This course will cover everything you need to know about Revit with many easy and practical tutorials. Learn to design and build an architectural project from scratch in Autodesk Revit, if you are interested in automated drawing, design, architecture this is the right course for you!</p><p>The course 'Autodesk Revit Bim training' is based on my personal experience as an Autodesk Authorized Instructor, it starts with a preliminary tutorial so that you can become familiar with the graphic interface of the program Autodesk Revit Architecture, then we will learn how to set up a project from scratch, establish structural grid lines and reference lines and start setting up structural columns.</p><p>The next step will be installing walls, control their wall assembly and learn how to customize elements, you will learn how to use the curtain wall tool and how to create slabs and stairs.</p>A whole tutorial is focused on roofs, how to build them and give the proper slope. Later you will learn how to use of the area command which will allow you to generate quickly and effectively area calculation for your project and how to generate schedules and area takeoffs.<p>Modelling a terrain, a classical complex task with other software, such as AutoCAD, 3ds Max or Rhino is made very easy by Revit, you'll see!</p><p>At the end of the course we will examine how to develop details to go with our construction document and you will learn how to create a parametric 3d component, the so-called “Revit families\" <br> <br>Post Scriptum: I originally recorded the tutorials in Italian and then asked Alessandro, a friend of mine who lives in the States, to translate them in English, so don't be surprised when you'll hear a very manly voice speaking! <br> <br>Have fun! and learn well! <br> <br>Elisabetta Cenci</p><p><br></p>",
+            "suitableLearners": [
+                "If you are interested in automated drawing, design, architecture, this is the right course for you! Drawing time will be radically reduced!"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2015-12-01T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2015-12-04T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e833f9c9b04f3f624d7b9"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 109,
+            "studentCount": 921,
+            "avgRatingScore": 4.0898223,
+            "contentVideoLength": 9801
+        },
+        "basicInfo": {
+            "udemyCourseId": 1465454,
+            "slug": "how-to-design-a-kitchen-with-sketchup-and-layout",
+            "title": "How to design a Kitchen with SKetchUp and Layout",
+            "subtitle": "Learn how to quickly design a modern kitchen from start to finish with SketchUp and Layout",
+            "image": "https://img-c.udemycdn.com/course/240x135/1465454_44e6_3.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "At the end of this course students will be able to design their own kitchen plans"
+            ],
+            "requirements": [
+                "Should have a basic knowledge of Sketchup"
+            ],
+            "description": "<p>In this course you will learn how to design a modern style kitchen from start to finish.&nbsp; </p><p>This course is taught by Thomas Soltren, Thomas has been designing residential homes for over 20 years. You will learn a workflow system that will allow you to build a kitchen in a short time and contain all the necessary elements for construction.&nbsp; </p><p>Once your model is designed in SketchUp we will go over how to import your model into Layout to create construction documents. You will also learn how to render your design using the free SketchUp plugin Twilight Render.&nbsp;&nbsp;&nbsp;</p><p>Students who take this course will be able to design their&nbsp;own kitchen and also&nbsp;design kitchens for others. </p><p>Topic covered in this course are:</p><ul><li><p>Preparing for design</p></li><li><p>Creating Base Cabinets</p></li><li><p>Creating Wall Cabinets</p></li><li><p>Creating a oven cabinet and tall cabinets</p></li><li><p>How to place cabinets</p></li><li><p>Adding countertops</p></li><li><p>Inserting fixtures such as sinks, range, refrigerator and vent hood</p></li><li><p>How to apply materials</p></li><li><p>Adding a backsplash</p></li><li><p>Rendering your scene with Twilight Render v2</p></li><li><p>How to create and save scenes in SketchUp</p></li><li><p>How to insert your model in to Layout</p></li><li><p>How to Dimension your Kitchen in Layout</p></li><li><p>How to create elevations scenes in Layout</p></li><li><p>How to create a cover page and print</p></li></ul><p>Ready to master drawing Kitchens, Join to day and lets get started</p>",
+            "suitableLearners": [
+                "New to experienced users in Sketchup, Designers and Architects"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2018-01-25T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2018-01-28T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e833f9c9b04f3f624d7b9"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 106,
+            "studentCount": 513,
+            "avgRatingScore": 4.702402,
+            "contentVideoLength": 8911
+        },
+        "basicInfo": {
+            "udemyCourseId": 1518104,
+            "slug": "revit-template-creation-for-a-bim-workflow",
+            "title": "Revit Template Creation For a BIM Workflow",
+            "subtitle": "This course is designed to assist in providing collaboration through Revit template and becoming a prominent BIM manager",
+            "image": "https://img-b.udemycdn.com/course/240x135/1518104_8dc5.jpg",
+            "price": 687970,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "You will be able to create and customize Revit templates for company standards"
+            ],
+            "requirements": [
+                "Basic computing skills and a version of Revit 2016 or higher"
+            ],
+            "description": "<p>Thinking about becoming a BIM manager? Tired of having no collaboration among a team? then this course is for you! In this course you will learn how to set up and create new Revit templates for BIM and company standards. Revit templates are an important part of implementing any BIM workflow within a company, it not only saves money and time through efficient modelling and documenting, but also ensures a coordinated drafting and modelling standard company wide, this will ensure quality documents and plans for all jobs big and small. This is your first step to becoming a prominent BIM manager.</p>\n\n<p><br></p>\n\n\n\n\n\n\n\n<p>For more information about template creation please visit ArchSmarter website (Link on profile)<br></p>",
+            "suitableLearners": [
+                "Anyone who is interested in Revit or BIM management"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2018-01-20T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2018-01-23T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "625e82a09c9b04f3f624d732",
+            "625e833f9c9b04f3f624d7b9"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 99,
+            "studentCount": 728,
+            "avgRatingScore": 2.8025448,
+            "contentVideoLength": 7983
+        },
+        "basicInfo": {
+            "udemyCourseId": 697872,
+            "slug": "mastering-light-architectural-design-interior-decoration",
+            "title": "Mastering Light; Architectural Design & Interior Decoration",
+            "subtitle": "Great Design Begins With Light - Every Time! Learn The Secrets Of Lighting From An Architect And Interior Designer",
+            "image": "https://img-b.udemycdn.com/course/240x135/697872_f4d5_3.jpg",
+            "price": 1146770,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Vastly increase design quality through Lighting selection",
+                "Work successfully with Lighting",
+                "Apply Lighting principals to art and design",
+                "Apply correct Lighting in any given scenario",
+                "Apply Lighting psychology to design outcomes",
+                "Choose the right Lights to use to for the given application",
+                "Create the best possible Lighting coordination"
+            ],
+            "requirements": [
+                "A desire to become a greater designer or visual professional",
+                "No additional equipment or materials needed",
+                "No software needed",
+                "An open mind and a desire to learn"
+            ],
+            "description": "<p><strong><em>Learn The Secrets </em></strong><strong><em>o</em></strong><strong><em>f Light</em></strong><strong><em> from a</em></strong><strong><em>n Architect </em></strong><strong><em>a</em></strong><strong><em>nd </em></strong><strong><em>I</em></strong><strong><em>nterior Designer </em></strong><strong><em>with Over a Decade of Industry Experience. </em></strong><strong><em>Providing designers from all disciplines with everything they need to become a true, confident lighting Designer.</em></strong><br></p>\n\n\n\n<p><strong><em>* * *</em></strong></p>\n\n\n\n<p>An in-depth understanding of Light is one of the most useful and important assets to a visual professional.</p>\n\n\n\n<p>Start creating the best possible lighting design through an understanding of light interaction, coordination and application of artificial lighting.</p>\n\n\n\n<p><strong><em>* * *</em></strong></p>\n\n\n\n<p><strong>Pre-Release Review</strong></p>\n\n\n\n<p>“Thorough explanation of light. This course has made me aware of the effects of lighting on my designs. In a word: Enlightened!\" - Jessica Stott</p>\n\n\n\n<p><em><strong>* * *</strong></em></p>\n\n\n\n<p><strong><em>About This Course</em></strong><br></p>\n\n\n\n<ul><li><em>An in-depth understanding of Light</em></li><li><em>How to vastly increase design quality through Lighting selection</em></li><li><em>How to create best possible lighting solutions in design</em></li><li><em>Full, free lifetime access</em></li><li><em>All future extra lectures and upgrades are always included free</em></li><li><em>Unconditional Udemy 30 day money-back guarantee. You need no prior experience and there’s nothing further to buy or pay for.</em></li></ul>\n\n\n\n<p><strong><em>You’ll Learn</em></strong></p>\n\n\n\n<ol><li><em><em><strong>An in-depth understanding of Light</strong></em></em></li><li><em><em><strong>How to vastly increase design quality through controlled Lighting</strong></em></em></li><li><em><em><strong>How to work successfully with Light</strong></em></em></li><li><em><em><strong>How to apply Lighting principals to design</strong></em></em></li><li><em><em><strong>Understand Light control in any given scenario</strong></em></em></li><li><em><em><strong>How to apply Lighting psychology to design outcomes</strong></em></em></li><li><em><em><strong>How to select artificial Lights effectively based on lighting theory</strong></em></em></li><li><em><em><strong>How to choose the right Luminosity to use to for the given application</strong></em></em></li><li><em><em><strong>How to create the best possible Lighting coordination</strong></em></em></li></ol>\n\n\n\n<p><em><strong></strong></em><em><em><strong>... and much, much more!</strong></em></em></p>\n\n\n\n<p>Take action and enroll in this course by clicking the “take this course” button, top right now .. and claim your most important asset to your design career!</p>\n\n\n\n<p>Michael Dean</p>",
+            "suitableLearners": [
+                "Designers and Visual Professionals who would like to gain a deeper understanding of Lighting knowledge and application",
+                "Designers and Visual Professionals from any background, whos training left out or skimmed how to work successfully with Light to achieve desired design outcomes",
+                "Indiviuals who would like to increase their design quality through effective Light selection",
+                "Designers and Visual Professionals who are interested in deepening their knowledge and skills to become a greater designer"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2019-08-18T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2019-08-21T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    }
+]

@@ -1,0 +1,1 @@
+export const INVALID_FILE_URL = 'FILE URL IS INVALID';

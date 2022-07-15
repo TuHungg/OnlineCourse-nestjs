@@ -1,0 +1,1201 @@
+[{
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625e78caf55d3252cd0f78a5"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 5085,
+            "studentCount": 46707,
+            "avgRatingScore": 4.068089,
+            "contentVideoLength": 59586
+        },
+        "basicInfo": {
+            "udemyCourseId": 1172996,
+            "slug": "react-native-advanced-concepts",
+            "title": "React Native: Advanced Concepts",
+            "subtitle": "Master the advanced topics of React Native: Animations, Maps, Notifications, Navigation and More!",
+            "image": "https://img-c.udemycdn.com/course/240x135/1172996_0241_5.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Make compelling applications using expert-level features of React Native",
+                "Create amazingly smooth and performant animations",
+                "Build new React Native apps with Expo",
+                "Understand the latest Navigation options for new React Native apps",
+                "Add logic to your Firebase backend with Google Cloud Functions",
+                "Update your users with cross platform Push Notifications",
+                "Handle your users going offline with Redux Persist"
+            ],
+            "requirements": [
+                "Basic understanding of React Native"
+            ],
+            "description": "<p><em>Note: This course assumes you've got the basics of React Native down.  Check out my course 'The Complete React Native and Redux' course, its the perfect preparation!</em><br></p>\n\n<p>Go beyond the basics of React Native!  This course will teach you the <strong>advanced topics</strong><strong> you need to make a #1 best-selling app.</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Push Notifications?</strong> You will learn it.  <strong>In Depth </strong><strong>Animations? </strong>Included.  <strong>Offline Data Persistence</strong><strong>? </strong>Of course!</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>------------------------------</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><em></em><strong><em>What Will You Build?</em></strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>All of my courses are 'learn-by-doing': no boring endless lectures with Powerpoints, only live, interactive coding examples.  In this course we'll build three separate apps with increasing complexity, each of which will profile different features of React Native.  By putting each concept into a real app, you'll get a better idea of when to use each unique and powerful feature.<br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>1) Build a Tinder-like Swipe Deck. </strong>Yes, the classic animated component!  We'll make a big stack of beautiful cards that a user can slide around the screen, swiping right to 'like' an item, or 'left' to dislike an item.  This warmup will get you familiar with interpreting touch input through the PanResponder system, moving elements around with the Animated module, and turning extrapolating animation values through the Interpolation system.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>2) Dive into the backend with One Time Password authentication. </strong>Ever been prompted to sign in using a code that gets texted to you?  One Time Passwords are a new authentication flow that leverages a user's phone number as their unique identifying token.  We will use the Twilio API to send a text message to a user to verify their identity, while securing our business logic into Firebase's new Google Cloud Functions.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>3) Your own Job-Search app.  Tinder for jobs! </strong>This app is is 100% feature complete!  We'll build an app with a full welcome-screen tutorial for our new user's, Facebook authentication, and map components.  The user will be presented with a list of jobs to like or dislike based on their location by leveraging Indeed's Job API, then follow up and apply to their choice jobs.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Both OSX and Windows supported - develop iOS or Android!</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>------------------------------</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Here's what we'll learn:</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>Learn the theory and practice of implementing complex <strong>Animation </strong>systems</li><li>Bootstrap your app using the new <strong>Expo</strong> platform</li><li>Navigate your user around using <strong>React-Navigation</strong></li><li>Engage your users with automated <strong>Push Notifications</strong></li><li>Enhance authentication flows in your app with One Time Passwords with <strong>Twilio</strong></li><li>Increase your app's reliability with <strong>Offline Data Persistence</strong></li><li>Educate your users on how to use your app with<strong> Welcome Tutorial</strong> pages</li><li>Authenticate your users using <strong>Facebook OAuth</strong></li><li>Go beyond the mobile front end with <strong>Google Cloud Functions</strong>: Add custom logic to your Firebase backend</li><li>Locate your users with cross-platform<strong> MapView</strong> components</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p>I've built the course that I would have wanted to take when I was learning React Native. A course that explains the concepts and how they're implemented in the best order for you to learn and deeply understand them.</p>",
+            "suitableLearners": [
+                "This course is for anyone looking to learn advanced topics of React Native"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2019-10-28T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2019-10-31T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625e78caf55d3252cd0f78a5"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4675,
+            "studentCount": 21881,
+            "avgRatingScore": 4.4130573,
+            "contentVideoLength": 92666
+        },
+        "basicInfo": {
+            "udemyCourseId": 1575278,
+            "slug": "flutter-dart-the-complete-flutter-app-development-course",
+            "title": "Flutter & Dart - The Complete Flutter App Development Course",
+            "subtitle": "Build Flutter iOS and Android Apps with a Single Codebase: Learn Google's Flutter Mobile Development Framework & Dart",
+            "image": "https://img-c.udemycdn.com/course/240x135/1575278_a828_6.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Be ABLE to Build Any iOS and Android App You Want",
+                "MASTER Dart and Flutter Framework",
+                "BUILD Full-fledged Apps for Your Startup or Business",
+                "CREATE a Portfolio of Apps to Apply for Development Job",
+                "WORK as A Cross-Platform Mobile Developer Who can Develop iOS and Android Apps",
+                "GAIN a Competitive Advantage in the Workplace as a Flutter Mobile Developer"
+            ],
+            "requirements": [
+                "A Computer - Mac or PC",
+                "No Previous Programming Experience Required - I'll go over Everything You'll Need to Get Started",
+                "Anyone Who Has the \"I Can Do It\" Mentality",
+                "Willingness to Learn By Doing - You'll have a Step-by-Step Learning Process with Challenges and Exercises for Better Retention"
+            ],
+            "description": "<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong></p><p><strong>Flutter Development is here to stay!</strong></p><p>Welcome to <strong>The Complete Flutter App Development Course (The World's First Complete Dart and Flutter Course). </strong></p><p><strong>Flutter</strong> is the new <strong>Cross-platform Mobile Development Framework </strong>created by Google, allowing developers to build Android and iOS Apps with <strong>one single codebase!</strong></p><p>Flutter is the <strong>BEST </strong>way to create cross-platform apps that otherwise would require two distinct mobile development teams to create.</p><p><strong>Why is Flutter a BIG Deal?</strong></p><p>Flutter is a big deal because any developer (or anyone who wants to learn mobile development) can now build native Android and iOS apps with one codebase ONLY! This means, instead of having to learn Objective-C or Swift to build iOS apps, and Java, or Kotlin to build Android apps, you can now use Flutter Mobile Development Framework to build apps that run natively on both iOS and Android devices using the <strong>General-purpose Dart Programming Language.</strong></p><p><strong>By learning Flutter App Development, you'll be able to build iOS and Android apps with a single codebase!&nbsp; </strong>This course is the ultimate <strong>Flutter tutorial </strong>created for those who want to build cross-platform iOS and Android mobile apps using the Dart Programming language.</p><p><br></p><p>This course is fully hands-on, in which you'll get the chance to practice and learn:</p><ul><li><p>Dart Programming Language - Fundamentals and intermediate topics</p></li><li><p>How to understand Flutter Mobile Development by building apps incrementally.</p></li><li><p>How to design, build, debug Flutter Android and iOS Apps</p></li><li><p>How to get Flutter apps to communicate with a realtime database - Firestore</p></li><li><p>How to build robust apps with Flutter.</p></li></ul><p><strong>You’ll see how easy it’s to get started building Android and iOS apps using Google’s Flutter App Development Framework!</strong></p><p>The course is structured in such a way to improve your knowledge retention - by having a lot of hands-on projects.&nbsp; In each section of the course, you will be practicing and building something meaningful and useful, which will further your understanding of Flutter iOS and Android Development.</p><p>For instance, you'll start by learning the very basics of the <strong>Dart Programming language</strong> (which is the programming language used in Flutter) - you'll learn control flow and functions, how to do arithmetic in Dart, and so forth.&nbsp; </p><p>Next, you'll learn <strong>Object-Oriented Programming in Dart </strong>- understanding how to construct classes and Objects and how it all works when building robust programs.&nbsp; Furthermore, you'll learn intermediate and advanced Dart topics such as Abstract classes, Interfaces, and Data Structures.&nbsp; </p><p>Once you've learned the Dart Programming language, you'll then start with Flutter Mobile Development.&nbsp; You'll start by building small, simple iOS and Android apps using Flutter, such as the Business Card app.&nbsp; Then, we move into the realm of <strong>Stateful Widgets in Flutter</strong> - how to manage state in an App.</p><p>Along the way, we continue to build several fun apps to solidify the main, fundamental Flutter concepts.&nbsp; You'll also have several challenges you need to further dive deeper into understanding Flutter concepts.</p><p>Continuing with the course, you'll also have the opportunity to learn how to parse JSON from a remote API into your Flutter app and cleanly display the parsed data to the user using <strong>Material Design</strong> concepts.&nbsp; Additionally, you'll learn how to connect your app to <strong>Firebase/Firestore</strong> and use a real-time database.</p><p>You'll finish the journey by learning how to package up your Flutter iOS or Android app to publish on either the Appstore or Google Play store.</p><p>The course will take you from zero to hero - from knowing nothing (or a little) about Flutter iOS and Android Mobile development to building complex, stunning mobile applications!</p><p><br></p><p><strong>Why Should You Take This Course?</strong></p><p><strong><br></strong>My name is Paulo Dichone; I've created the most best-selling online programming courses (<strong>with over 100,000 happy and satisfied students</strong>). </p><p>I'm a Software Engineer, a teacher, and the author of highly rated Development courses on Udemy. I've taught over 100,000 students online and received over 15,000 reviews. Students love my teaching methodology, which is heavy on hands-on, project-based approaches.</p><p>I know how hard it can be to learn programming and Android development - there's a lot of information out there, but the problem is that none is complete, nor is it updated.&nbsp; I understand how frustrating it's to try to learn something on your own and spend months without seeing progress!&nbsp; </p><p><strong>Here's what my current and past students have to say about this course and my other courses:</strong></p><p><br></p><p><em>\"It's a good course for Intermediate Learners...</em></p><p><em>Nice job, Paulo...</em></p><p><em>I've learned a lot from you\" - </em>Collins ★★★★★ (5 stars rating)</p><p><br></p><p><em>Best tutor ever !!! Very kind, polite, great explanation, loved your course content !!! Covered a wide range of topics !!!! Above expectations, super amazing... Thanks a lot for helping me start my mobile development career and making this field super easy for me !!!!!!! ?????????? - </em>Mehul&nbsp; ★★★★★ (5 stars rating)</p><p><br></p><p>\"<em>I liked the course and the professor. I'm taking another course with him because he's excellent in my opinion, starts from beginner to advanced, very organized classes. A lot of examples in the course, and he was updating the course often too. Money well spent.</em>\" - Kevin ★★★★ (4.5 stars rating)</p><p><br></p><p>\"<em>Great course. Very easy in understanding and friendly learning. Good Job, Sir. Thanks for this.</em>\" - Muhammad - ★★★★ (5 stars rating)</p><p>\"<em>Well, in my opinion, this is a great course since I knew nothing about java and by now I'm able to write my own apps pretty easily</em>.\" - Michael - ★★★★ (5 stars rating)</p><p><br></p><p><em>\"Great course! I learned lots from the numerous examples. I now have the confidence to build my own apps and to explore different areas of Android programming. - </em>★★★★ (4.5 stars rating)</p><p><br></p><p><em>Great Course!!!! Thanks, Paulo!!!!!\" - Ian - </em>★★★★ (5 stars rating)</p><p><br></p><p>\"<em>I am delighted with this course. I have only attended the Android part because I had a basic knowledge of Java. I really like how Paulo teaches. He goes step by step, and you can understand everything. My first language is not English, but he speaks very. Clearly, I can understand every word. Also, he is a happy guy, and you can hear that through the courses that he really loves what he is doing.</em>\" - Antal - ★★★★ (5 stars rating)</p><p><br></p><p>\"<em>Very well thought-out course. Flows smoothly with great delivery. I have been developing Android Apps for several years, and I still found this course informative, relevant, and helpful. I would recommend everyone take this course if you are new to Android or returning for a refresher course.</em>\" - Douglas - ★★★★ (5 stars rating)</p><p><br></p><p>=======================================</p><p><strong>This Course Also Comes With:</strong></p><ul><li><p>&nbsp; Lifetime Access to All Future Updates</p></li><li><p>&nbsp; A responsive instructor in the Q&amp;A Section</p></li><li><p>&nbsp; Links to interesting articles and lots of good code to base your next template onto</p></li><li><p>&nbsp; Udemy Certificate of Completion Ready for Download</p></li><li><p>&nbsp; A 30 Day, \"No Questions Asked\" Money Back Guarantee!</p></li></ul><p><br></p><p><strong>Take this complete Flutter course now, completely risk-free!</strong></p><p><br></p><p><br></p>",
+            "suitableLearners": [
+                "Beginner Developers and Intermediate- Advanced Web or Mobile Developers new to Dart and Google Flutter Mobile SDK",
+                "Android Developers Who Want to Build iOS Apps with Single Codebase",
+                "iOS Developers Who Want to Build Android Apps with Single Codebase",
+                "Web Developers Who Want to Build Android and iOS Apps with Single Codebase",
+                "Entrepreneurs Who Want to Build Android and iOS Apps with Single Codebase",
+                "Managers and Program Managers Who Want to Learn How to Build Android and iOS Apps with Single Codebase"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-09-02T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-09-05T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625e78caf55d3252cd0f78a5"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4542,
+            "studentCount": 39972,
+            "avgRatingScore": 3.9914067,
+            "contentVideoLength": 155854
+        },
+        "basicInfo": {
+            "udemyCourseId": 1261830,
+            "slug": "ios-11-swift-4-from-beginner-to-paid-professional",
+            "title": "iOS 11 & Swift 4: From Beginner to Paid Professional™",
+            "subtitle": "Build iOS Apps & Learn iOS 11, Swift 4, ARKit (Augmented Reality), CoreML (Machine Learning)",
+            "image": "https://img-b.udemycdn.com/course/240x135/1261830_16ff_3.jpg",
+            "price": 2523170,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Build iOS 11 & Swift 4 apps",
+                "Work as an iOS contractor",
+                "Apply to jr. iOS development jobs",
+                "Submit iOS apps to the Apple App Store"
+            ],
+            "requirements": [
+                "Must have a computer with OSX or macOS on it"
+            ],
+            "description": "<p>Welcome to the world's most comprehensive course on iOS development. This course is designed like an in-person coding bootcamp to give you the most amount of content and help with the least amount of cost.</p>\n\n<p>NO PRIOR CODING EXPERIENCE REQUIRED</p>\n\n\n\n<p><strong>Here are some of the things you'll be able to do after taking this course:</strong></p>\n\n\n\n\n\n<ul><li>Submit apps to the app store</li><li>Understand programming &amp; basic algorithms</li><li>Work fluently with Swift 4 &amp; iOS 11</li><li>Apply to jr iOS development jobs</li><li>Work as an iOS contractor</li></ul>\n\n\n\n<p><strong>Who this course is for:</strong></p>\n\n\n\n<ul><li>People who want to build apps!</li><li>Those who want to create their own startup</li><li>Those looking to get a full time job as a developer</li><li>Business owners</li><li>Students &amp; teenagers</li><li>People who want to make money building apps</li></ul>\n\n\n\n\n\n<p><strong>If you are absolutely new to programming you should start at the beginning of the course and go to the end.</strong></p>\n\n\n\n\n\n<p>I've designed this course to take you down a guided learning path. Lectures are not broken out by specific topics. You build apps and then learn a ton of principles within those apps. So don't skip around!</p>\n\n\n\n\n\n<p><strong>If you already know Swift then you can skip the Swift section since the changes between Swift 3 and Swift 4 are minor.</strong>\n</p>\n\n\n\n\n\n<p>If you've never programmed before, make sure you DO take the Swift lessons. We'll teach you core foundational principles so you can build complex apps.</p>\n\n\n\n\n\n<p><strong>If you are a student of iOS 10: From Beginner to Paid Professional then feel free to start taking this iOS 11 course.</strong></p>\n\n\n\n\n\n<p>Keep in mind that this iOS 11 course has a bunch of new apps. So there is a HUGE benefit to ALSO go through the iOS 10 course - or you'll miss out on awesome content. </p>\n\n\n\n\n\n<p><strong>Don't forget to join the free live community where you can get free help anytime from other students.</strong></p>\n\n\n\n<p>Here are a few things you'll learn:</p>\n\n\n\n<ul><li>Swift 4</li><li>Xcode 9</li><li>Interface Builder</li><li>Firebase</li><li>Build a Slack Clone</li><li>Maps &amp; GPS</li><li>Core Data</li><li>ARKit &amp; Augmented Reality<br>CoreML &amp; Machine Learning</li><li>Tables &amp; Data</li><li>APIs, HTTP, and Networking</li><li>App Design</li><li>Storyboards &amp; Segues</li><li>And a lot more...</li></ul>",
+            "suitableLearners": [
+                "If you are an absolute beginner to coding take this course",
+                "If you are an absolute beginner to iOS or mobile development then take this course"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2018-08-23T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2018-08-26T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 367040,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625e78caf55d3252cd0f78a5"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4492,
+            "studentCount": 24739,
+            "avgRatingScore": 4.505723,
+            "contentVideoLength": 112310
+        },
+        "basicInfo": {
+            "udemyCourseId": 1736426,
+            "slug": "dart-and-flutter-the-complete-developers-guide",
+            "title": "Dart and Flutter: The Complete Developer's Guide",
+            "subtitle": "Everything you need to know for building mobile apps with Flutter and Dart, including RxDart and Animations!",
+            "image": "https://img-c.udemycdn.com/course/240x135/1736426_5cc3_3.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Build beautiful multi-screen apps  with Flutter",
+                "Understand the different approaches for loading and maintaining data in Flutter apps",
+                "Create and publish open source projects using Dart",
+                "Learn how to build offline-enabled apps with incredibly efficient data loading",
+                "Comprehend the best method for reading the incredible amount of Flutter documentation",
+                "Store long-term data on a user's physical device using SQLite",
+                "Master streams and understand reactive programming to create Flutter apps"
+            ],
+            "requirements": [
+                "Previous programming experience with Javascript, Java, Python, or similar is required ."
+            ],
+            "description": "<p>If you're tired of spinning your wheels learning Swift or Android, this is the course for you.<br></p>\n\n<p><strong>Animations</strong>? You will learn it.  <strong><strong>Architectural Patterns</strong></strong>? Included.  <strong>Navigation</strong>? Of course!</p>\n\n\n\n<p>Flutter is a newcomer to the mobile development scene.  <strong>Strongly supported by Google</strong>, it is already viewed as an ideal platform for replacing native Swift and Android development.  Thanks to its amazing <strong>standard library</strong> of widgets, <strong>fast compile times</strong>, and <strong>amazing documentation</strong>, developers are falling in love with Flutter!  </p><p><em>This course supports MacOS and Windows - develop Android and iOS apps easily!</em></p><p>Flutter apps are created using the language <strong>Dart.  </strong>No problem if you're not already familiar with Dart; this course includes a lightning fast introduction to Dart at the beginning, along with <strong>hours of bonus lectures</strong> at the end of the course solely focused on Dart and its advanced features.  If you come from a background working with Java, Ruby, or Javascript, <strong>you'll feel right at home with Dart</strong> - the syntax is nearly identical, only a few core concepts need to be learned.  Dart is a strongly typed language - but don't be discouraged if you're not a fan of strong types!  I spend special time in this course to make it extra clear why developing with a <strong>strongly typed language is a breeze</strong>!<br></p><p>One of the greatest challenges around developing Flutter applications right now is understanding <strong>how to design and architect apps</strong>.  Flutter is still in rapid development, and the community at large is still trying to find out the best techniques.  With this in mind, special attention is paid in the course to making sure you understand the <strong>primary design patterns</strong><strong> advocated by Google's Flutter team</strong>, including both the 'Stateful Widget' pattern and the 'BLOC' pattern.  The 'BLOC' pattern makes heavy use of Reactive Programming techniques, which you'll learn about in this course as well.  These techniques can be easily applied to other languages and frameworks as well - talk about a bonus!</p><p>Of course, no mobile app is complete without some nice looking <strong>animations.  </strong>You'll learn how to build animations using Flutter's standard library of tools, which can be easily used to make interactions that your users will love.  You should plan to complete the course with knowledge of how to reference Flutter's standard library of widgets to assemble complex animations.</p><p><strong>Sign up today and you will:</strong></p><ul><li>Understand the <strong>Dart language</strong> and its primary features</li><li>Store information for long periods of time on the user's device with <strong>offline storage</strong></li><li>Learn how to <strong>optimize network requests</strong> for improved performance on mobile networks</li><li>Delight your users with complex <strong>animations</strong></li><li>Expose the functionality of your apps with <strong>multi-screen</strong> <strong>navigation</strong></li><li>Steer through the incredible amount of <strong>Flutter documentation</strong></li><li>Master <strong>Reactive Programming</strong> with <strong>streams</strong> by using <strong>RxDart</strong></li><li>Implement <strong>advanced design patterns </strong>advocated by Google's official Flutter team</li><li>Handle user input with <strong>form validation</strong></li><li>Learn to build <strong>open source Dart packages </strong>and distribute them to other developers</li></ul><p>I've built the course that I would have wanted to take when I was learning Flutter. A course that explains the concepts and how they're implemented in the best order for you to learn and deeply understand them.</p><p><br></p>",
+            "suitableLearners": [
+                "Developers looking to build quality apps with Flutter"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-04-01T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-04-04T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625e78caf55d3252cd0f78a5"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4167,
+            "studentCount": 32951,
+            "avgRatingScore": 4.250652,
+            "contentVideoLength": 664640
+        },
+        "basicInfo": {
+            "udemyCourseId": 900464,
+            "slug": "the-complete-android-s-java-developer-course-2022",
+            "title": "The Complete Android S + Java Developer Course™ : 2022",
+            "subtitle": "In this course, you'll learn Android Development and get to build your own Android R apps by using Java.",
+            "image": "https://img-c.udemycdn.com/course/240x135/900464_a431_19.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Apply for your dream job as an Android Developer",
+                "Build complex, production ready Java Android Applications",
+                "Build server based Android Applications with Paypal integration from scratch",
+                "Build a fantastic resume in order to show to employers",
+                "Create Professional Java Applications",
+                "Create Great Android Applications",
+                "Bring your own App Idea to Life",
+                "Master Java Programming Language"
+            ],
+            "requirements": [
+                "No Programming Experience is Required",
+                "No Programming Knowledge Required",
+                "Passion to Create Awesome Android Apps",
+                "A Windows PC, Mac or Linux Computer"
+            ],
+            "description": "<p><strong><em>[NOTE: This course includes two courses: a brand new Android S + Java course, as well as my legacy course that contains dozens of hours of app creation.] </em></strong></p><p><br></p><p>The main goal of this course is to teach you <strong>Android Development </strong>and how to build amazing <strong>Android S apps (latest version) </strong>using its most popular programming language, <strong>Java</strong>.&nbsp;&nbsp; </p><p>My name is <strong>Morteza Kordi</strong>, senior mobile app developer and Udemy instructor with over 60,000&nbsp;satisfied students, and I’ve designed<strong> The Complete Android + java Developer Course</strong> with one thing in mind: you should learn by practicing your skills and building apps.&nbsp;</p><p>I’ll personally be answering any questions you might have and I’ll be happy to provide links, resources and&nbsp;<strong>any help I can offer </strong>to help you master Java programming and<strong> Android S</strong> app development.&nbsp;</p><p>In this course, you will discover the power of Android app development, and obtain the skills to <strong>dramatically increase your career prospects</strong> as a mobile app developer. </p><p>You'll build apps like:</p><p><strong>Instagram Clone, Uber Clone, What's App Clone, Twitter Clone, Firebase Social Network app and so much more...</strong></p><p><strong>So... Why This Course?!</strong></p><ul><li><p>Learn to code like the pros - not just copy and paste</p></li><li><p>Learn the latest Android S APIs and services - we don't teach old junk</p></li><li><p>Build apps - a lot of them</p></li><li><p>No Experience is needed</p></li><li><p>Lifetime support</p><p><br></p></li></ul><p>Don't wait and join us now by clicking the <strong>BUY NOW </strong>button!</p><p><br></p><p>Course image attribution:</p><p>by vecteezy</p><p><br></p>",
+            "suitableLearners": [
+                "People who have no programming experience",
+                "This Course teaches the more Advanced Concepts of Android Development, so it's also Essential for Advanced Android Developers too.",
+                "People who want create their own android applications",
+                "People who want to get a job as an Android Developer",
+                "People who want to create awesome Android Applications just for fun",
+                "People who want to work as a Freelancer"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-03-08T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-03-11T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625e78caf55d3252cd0f78a5"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4132,
+            "studentCount": 26891,
+            "avgRatingScore": 4.8131638,
+            "contentVideoLength": 131601
+        },
+        "basicInfo": {
+            "udemyCourseId": 1253188,
+            "slug": "the-complete-ios-11-swift-developer-course-build-20-apps",
+            "title": "The Complete iOS 11 & Swift Developer Course - Build 20 Apps",
+            "subtitle": "Use Xcode 9 & Swift 4 to make real iOS 11 apps like Uber and Instagram, with CoreML & ARKit, and more!",
+            "image": "https://img-c.udemycdn.com/course/240x135/1253188_58f7_2.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Develop any iOS app you want",
+                "Become a professional iOS developer",
+                "Build apps for your business or organisation",
+                "Get app development jobs on freelancer sites"
+            ],
+            "requirements": [
+                "No pre-knowledge required - I'll teach you everything you need to know",
+                "A Mac laptop or iMac (or Windows PC running OSX)",
+                "No paid software is required - all coding is done using Xcode 9 (which is free)"
+            ],
+            "description": "<p><strong>***&nbsp;Now Updated For Xcode 9.2 January 2018&nbsp;***</strong></p><p><strong>Dreaming of developing an app?</strong></p><p>Maybe you’ve got a vision, some inspiration and you’re ready to learn?</p><p>Or maybe, you’re looking to get ahead at work? Become an expert coder… be star of the show…&nbsp;</p><p>Or, maybe you’re looking for a complete career change?</p><p>Either way, you’re here because you wanna make something BRILLIANT… life changing…. IMMENSE…</p><p>Then congratulations!! Nick Walter and I have built The Complete iOS 11 Developer Course just for you.</p><p>I mean, check out what Apple says about iOS 11…</p><p>“iOS 11 sets a new standard for the world’s most advanced mobile operating system. Your apps can now become more intelligent using the power of machine learning with Core ML. You can create incredible augmented reality experiences with ARKit. And you can deliver a more unified and immersive user experience with new multitasking features, including drag and drop for iPad, the new Files app, new camera APIs, new SiriKit domains, Apple Music integration, and more.”</p><p>What does all this mean for you?</p><ul><li><p>More power…</p></li><li><p>More possibilities…</p></li><li><p>More va-va-voom…</p></li></ul><p><strong>So why choose MY course over others?</strong></p><p>I’m Rob Pervical, Udemy’s all time bestselling instructor, with over 600,00 students. Take a peek at my iOS 10 course and you’ll read things like:</p><p><em>***** Excellent explanation, right pace. Appreciate the exercises together with solutions right at the end of each part. Nice compromise between depth and overall view. Good Job!&nbsp; P. Leikauf</em></p><p><em>***** This course is simply too good. Rob does a great job in explaining and it is very easy to understand. Also, all the challenges are very interesting and I am loving it !! :-) V. Saravana</em></p><p><em>***** This course is so well planned out with the perfect blend of teaching vs challenging. I love the fact that as each and every minute goes by in the videos I am becoming a better swift programmer. Well worth every cent!!!!&nbsp; M.Fenech</em></p><p><em>\n\n</em></p><p><strong>But enough about me! What about YOU?</strong></p><p><strong>\n\n</strong>My guess is you’re looking to shake things up a bit.&nbsp; Change career, rev up your earning potential, sock it to the man… Am I right?</p><p>Well, if you sign up today…. you really can.&nbsp; And this is what you’ll get to set you up for success..</p><p><strong>Sign up now and immediately access:</strong></p><ul><li><p>A colossal 34 hours of rigorously tested, five-star pro content</p></li><li><p>A complete toolkit to get designing your own apps with iOS 11, Swif 4, ARKit, MLKit, MusicKit and the new Depth Photo API.</p></li><li><p>PLUS → A side-scrolling running game (like a Super Mario clone) AND a new Bluetooth app</p></li></ul><p><strong>And, like all my other courses you get my ULTIMATE JUMBO BONUS BUNDLE →→→→</strong></p><ul><li><p>$200 worth of unlimited web hosting (for a whole year)&nbsp;*Limited to one year per student not per course*</p></li><li><p>Instant access to my five-star rated book: How to Earn $10,000 While Learning To Code</p></li><li><p>Your very own graphical asset library, worth $300 and featuring over 1000 backgrounds, icons and buttons.</p></li></ul><p><strong>Wait, still not convinced?</strong></p><p>I really am so confident you’re going to love this course, I’ll give you your money back within 30 days -- if you’re not completely happy.&nbsp;</p><p><strong>Ready to jump in? GREAT.</strong></p><p>Click that BUY NOW button to your right… or read on for the full course outline.</p><p><em>***** Very thorough clear explanations of swift development concepts. Best iOS development course I've tried so far. J. McCraw</em></p><p><em>***** From knowing nothing about makings app, I feel confident with being able to construct my own apps now. I'm only mid section 5 right now. Excellent course! H Hazari</em></p><p>\n</p><p>\n</p><ul><li><p>XCode and Interface Builder</p></li><li><p>Inputs, Buttons, and Reactive Interfaces</p></li><li><p>Apple’s New Programming Language: Swift</p></li><li><p>Variables, Arrays, Tables, and Loops</p></li><li><p>Navigation, Storage, and Live Content</p></li><li><p>Images, Maps and Music</p></li><li><p>Accelerometers and Motion Feedback</p></li><li><p>Core Data and JSON</p></li><li><p>Online Storage With Parse</p></li><li><p>Games and the Sprite Kit</p></li><li><p>Instagram and Snapchat Clones</p></li><li><p>App Store Submission</p></li><li><p>Making a Marketing Website For Your App</p></li></ul><p><strong>Novice? Beginner? Programmer? Pro-developer?</strong></p><p>Yes, this course is absolutely for YOU. Whatever stage you’re at.</p><p>Beginner? No problem. We start with the basics. Already coding? Good. This is the perfect refresh for your skills…&nbsp; It’s all about building your confidence at this stage.&nbsp;</p><p>How? Because you’re literally building apps as you go. There’s no better, or more exciting (or efficient) way to learn. &nbsp; We know you’re busy. We know you wanna get started. And we hear you!</p><p>You’ll find the lectures whizz by, as you dash through each one, picking up my most powerful strategies for using iOS 11 -- and quickly tessellating them into your own projects.</p><p>You’ll be staggered at how quickly you’ll pick things up (and how you barely notice as we shift things up a gear) into more advanced apps like x and x, using x, x and x.&nbsp;</p><p>Imagine how you’ll feel after building own version of Super Mario World?&nbsp; According to this guy, pretty awesome, amIright?</p><p><em>***** The videos are awesome, the teaching is awesome, the examples are awesome. I started with never having built an app on iOS and now I am extremely comfortable building apps. I don't know why you would need any other course for iOS development. Just in case I was not clear: this course is awesome. S. Ramakrishnan</em></p><p>\n</p><p><strong>Look: you don’t need to remortage your home or sign away three years of your life…</strong></p><p>I recommend taking this course in six weeks. Power through it faster if you really want to, or take things easy and enjoy the ride in your own time.</p><p>That’s the beauty of The Complete iOS 11 Developer Course - it fits around you, your life and it doesn’t a fortune. Pretty transformative, right?</p><p><em>***** I had quite a bit of background in c++ before taking this course. Above all, I am so happy to have found that Rob's style of coding is exactly the same as mine. It is very \"airy\", clean, spaced out, and extraordinarily easy to read. Simply speaking, this class is exactly what you are looking for. J. Barr</em></p><p>\n</p><p><em>***** Excellent course, very easy to follow along with and makes learning Swift actually fun and entertaining. T. McGee</em></p><p>\n</p><p><strong>Help when YOU need it</strong></p><p>Need support? Absolutely. My team and I are here to answer your questions. Just hop on email, Twitter or the Udemy forums and we’ll get back to you. Simple as that. We don’t bite -- and genuinely, we love hearing your incredible success stories… Got a suggestion for making things better? This is your course, and we want your feedback. Whatever it is, we’re here for you.</p><p><em>***** Really well paced and informative. All my questions get answered super quick. One of, if not the best swift courses on udemy. J. Albertyn</em></p><p><em>***** Great course- shows you how to effectively build on top of prior knowledge. I've coded before, but never in iOS, so this is great for total beginners or people who haven't coded in awhile and want to improve or learn a new environment. He breaks it down so Xcode doesn't seem like a scary interface anymore. S. Hernandez</em></p><p>Join thousands of my happy students and start building your dream apps, today.&nbsp;</p><p><strong><em>&nbsp;“OK, I’m sold Rob – what do I need to get started?”</em></strong></p><ul><li><p>Your brain, this course and a laptop/computer – nothing more, nothing less</p></li><li><p>No pre-knowledge required</p></li><li><p>A Mac is required, but no special software or fancypants hardware required</p></li></ul><p>\n</p><p><strong>Can I really become an expert app developer with this course?</strong></p><p>Sure! Check out my bio to see how I changed careers by teaching people to code.&nbsp; It’s been the best decision I ever made. I can spend more time with my family, enjoy the freedom of working for myself and all the amazing benefits that comes with that.</p><p>Whoever you are, wherever you are; this course is designed to get you up and coding like a pro. The rest is up to you.&nbsp; The opportunities are out there – they’re just waiting to be grasped. And with this course, you’ll be in the right place to do just that.</p><p>So don’t hang around. Start now and become the expert app developer you’ve always dreamed of. &nbsp;</p><p>And don’t forget, you get ALL those bonuses, the e-book, the free web hosting for a year and support from me and my team… AND a 30-day money back guarantee, if you’re not completely happy.</p><p><strong>You really have got nothing to lose!</strong></p><p>Click that the buy now button… and let’s begin your adventure, today.</p>",
+            "suitableLearners": [
+                "Anyone wanting to learn how to build apps",
+                "People wanting to make a living (or side-income) from app development",
+                "Anyone who wants to learn to code"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-08-06T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-08-09T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625e78caf55d3252cd0f78a5"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 4119,
+            "studentCount": 98024,
+            "avgRatingScore": 4.16194,
+            "contentVideoLength": 61344
+        },
+        "basicInfo": {
+            "udemyCourseId": 709660,
+            "slug": "the-complete-android-developer-course-beginner-to-advanced",
+            "title": "The Complete Android Developer Course: Beginner To Advanced!",
+            "subtitle": "In this complete course students will learn how to build and develop Android Applications for smartphone and beyond",
+            "image": "https://img-c.udemycdn.com/course/240x135/709660_24ad_7.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Create their very own android applications from scratch! ",
+                "Understand the concepts and techniques used in creating applications.",
+                "Learn how to use databases to store data from android applications",
+                "Deploy self developed applications on android devices.",
+                "Learn how games are developed in android using Libgdx.",
+                "Learn how to create user interfaces for android applications."
+            ],
+            "requirements": [
+                "Students should have basic knowledge of Java.",
+                "Students should have knowledge of basic Java concepts such as inheritance, classes and methods.",
+                "Students should be familiar with the concepts like loops,variable and objects.",
+                "Students should have a PC which has at least 4GB of RAM for running the apps on the emulator to run the normal apps. and students should have an android device to run heavy apps and games.",
+                "A computer with internet access ",
+                "A willingness to learn and study Android Studio "
+            ],
+            "description": "<p><strong>Welcome To The Complete Android Developer Course: Beginner To Advanced </strong></p>\n\n<p><strong>⇉ Watch the promo video </strong>to see How You Can Begin Building And Developing Your Very Own Android Applications Today! <br></p>\n\n\n\n\n\n<p><strong>⇉ This Course is MASSIVE! </strong>You receive over<strong> 17+ hours of video</strong> content &amp; <strong>140+ lectures!</strong></p>\n\n\n\n\n\n<p><strong></strong></p><p><strong>⇉ Join Over 275,000+</strong> Students Who Have Enrolled In My Udemy Courses This Year!</p>\n\n<p><strong>⇉ 7,500+ Five Star Reviews </strong>on our courses prove Students Who Enrolling Are Getting Real Results!</p>\n\n<p>Then this course is for you! <strong>Click \"Take This Course Now\"</strong> For Instant Life-Time Access!</p>\n\n\n\n\n\n\n\n<p><em>\"Thank you very much Ashutosh and Joe for such a simple and excellent course. I am still in the process of learning.\"</em> -Mohammed Imran Farooqui</p>\n\n\n\n<p><em>\"It's good to follow a course from beginner to advanced! I am so excited... Thank you! </em></p>\n\n\n\n<p>-Asma Hawari</p>\n\n\n\n<p><em>\"Good course. The instructor is using a simple way to explain the course that every student could understand easily.\" -</em>Salim Ben</p>\n\n\n\n\n\n<p><em>__________________________________________________________________________</em><br></p>\n\n\n\n\n\n<p><strong>Here Is Everything You Will Learn In This Complete Course: </strong></p>\n\n\n\n\n\n<ul><li>How to create android applications from scratch! </li><li>We will learn how we could use Java to make android applications.</li><li>We will learn what tools are required to develop android applications.</li><li>We will also learn about Android Studio, AVD to run apps on pc. Then we move on to learn how to make user interface for our application by using multiple widgets. Also we go through how we could add properties to widgets.</li></ul>\n\n\n\n\n\n<p>We then study the different types of layouts used to design the user interface for <br>our application. we go through the methods used for handling events such as a touch.<br>we also learn how to handle multiple events. Understanding fragments and their use is the <br>next which we study in this course, we also learn how to use create fragments to merge multiple activities on a single screen. We have an overview about gestures and the techniques to handle them</p>\n\n\n\n\n\n<p>To go through the basic concepts we develop a basic workout android applications which suggests workouts depending on the option selected by the user, this gives you an idea about how android apps work.Moving along we learn how to add animations and transitions to our app, so as to make it more attractive to the end user. We then move on to intents and from there we go on to study about threads and their usage in developing android applications. Next part includes concepts such as intent,services and list views.we study about them in depth as well.</p>\n\n\n\n\n\n<p>We then move to the most important part of saving the data in database using SQLite.<br>We will then learn and understand the basic database queries such as adding and deleting data from database. After we are done with database we then move on to multimedia in which we study how to apply filters and styles to our image.</p>\n\n\n\n\n\n<p>Last but not the least we have a basic introduction to game development by studying the<br>game development platform Libgdx, here we study the basic structure of a game.<br>Also we learn how to animate characters while developing games for android. We also go through the sound effects while developing games using Libgdx.</p>\n\n\n\n\n\n<p>You will learn all of this and so much more by enrolling in our course! </p>\n\n\n\n\n\n<p><em>__________________________________________________________________________</em></p>\n\n\n\n\n\n<p>With the right mindset, understanding, and application of the teachings in this course, you will instantly begin to move towards becoming an <strong>Android Developer! </strong></p>\n\n\n\n\n\n<p><strong>When we learn something new,</strong> I add it to the course - at no additional cost to you! This is a course that will continue to add more and more to every aspect of your life.</p>\n\n\n\n\n\n<p>In addition to the <strong>Udemy</strong> <strong>30-day money back guarantee</strong>, you have my personal guarantee that you will love what you learn in this course. If you ever have any questions please feel free to message us directly and we will do our best to get back to you as soon as possible! </p>\n\n\n\n\n\n<p>__________________________________________________________________________</p>\n\n\n\n\n\n<p><em>What I can't do in this Course..</em></p>\n\n\n\n\n\n<p><em>I can't guarantee your success – this course does take work on your part. But You Can Do It!</em> </p>\n\n\n\n\n\n<p><em>I am also not responsible for your actions. You are responsible for 100% of the decisions and actions you make while using this course.</em></p>\n\n\n\n\n\n<p><em>__________________________________________________________________________</em></p>\n\n\n\n\n\n<p>This course will not remain this price forever! It's time to take action!</p>\n\n\n\n\n\n<p><strong>Click the \"take this course\" button at the top right now!</strong></p>\n\n\n\n\n\n<p>...<em>every hour you delay is costing you money</em>...</p>\n\n\n\n\n\n<p>See you in the course!</p>\n\n\n\n\n\n<p><strong>Sincerely,</strong></p>\n\n\n\n\n\n<p><strong>Joe Parys &amp; Ashutosh Pawar </strong></p>",
+            "suitableLearners": [
+                "Any student looking to learn how to develop android applications ",
+                "Students with basic knowledge of Java who want to develop android apps.",
+                "Students who need a basic introduction to game development using platforms such as Libgdx."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2017-03-01T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2017-03-04T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625e78caf55d3252cd0f78a5"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 3986,
+            "studentCount": 21717,
+            "avgRatingScore": 4.318559,
+            "contentVideoLength": 98002
+        },
+        "basicInfo": {
+            "udemyCourseId": 1419490,
+            "slug": "the-complete-xamarin-developer-course-ios-and-android",
+            "title": "The Complete Xamarin Developer Course:  iOS And Android!",
+            "subtitle": "Build Cross Platform Android and iOS apps with Xamarin Forms, Xamarin Classic, Azure Mobile App Services, Rest and more",
+            "image": "https://img-b.udemycdn.com/course/240x135/1419490_f988.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Create native Android and iOS apps that share up to 100% code",
+                "Apply for junior mobile development positions (Android and iOS)",
+                "Increased career options as a Multiplatform developer",
+                "Learning Xamarin opens up opportunities to build Windows Desktop, Windows Store, Mac, and even smart watch apps that share the logic of your iOS and Android app"
+            ],
+            "requirements": [
+                "A Windows computer preferably with 8.1 or higher required for first part of the course (Xamarin Forms) or you can use Windows 7 or higher for the Xamarin classic part of the course.",
+                "A Mac computer with OS X El Capitan (10.11) or higher if you want to use a Mac for Xamarin development.",
+                "If you want to test iOS apps you need a Mac, however you can code and design them from Windows."
+            ],
+            "description": "<p>So you've learnt some programming, but are struggling to get an interview, let alone a job.<br></p>\n\n<p>Or you are stuck in a low paying programming job, and want to move up to a better, more senior position.</p>\n\n\n\n<p>Maybe you have never programmed before, and are looking for a way to get into programming for the first time.</p>\n\n\n\n<p>But, just how do you get employers to notice you?  How do you make your resume stand out of the crowd of programmers looking for work?\n</p>\n\n\n\n<p><strong>By learning to create cross platform applications targeting both iOS and Android from the one codebase, using Xamarin.</strong></p>\n\n<p><strong>What is Xamarin?</strong></p>\n\n<p>Xamarin is a Microsoft owned company, that allows developers, using a C#-shared codebase, to write native Android, iOS (and even Windows and MacOS) apps with native user interfaces and share code.</p>\n\n<p>This means you can create an application once, and deploy it to both Android and iOS, both which run natively on the platform.  One codebase, two platforms.</p>\n\n<p>Learning to create apps with Xamarin makes you more valuable to your employer or clients as a result.</p>\n\n<p><strong>What does Xamarin mean to you?</strong></p>\n\n<p>You can create native Android and iOS apps that share up to 100% code! No more writing separate versions of apps for both platforms.</p>\n\n<p>This is especially useful for indie developers or small teams who may not have had the resources to target both platforms.  Now they can code once, and deploy to both platforms.</p>\n\n<p>Ongoing maintenance costs are reduced because you have one code base!  It also means by learning one language (C#) you can now write apps for both platforms.<br></p>\n\n<p>The Microsoft Visual Studio software package is available on Windows and Mac, and both are shown in the course.  You can use and deploy Xamarin whether you have a Windows machine or a Mac.</p>\n\n<p>Xamarin creates native apps unlike most other cross platform tools, meaning the code you write and deploy from Xamarin is faster, and more efficient because it can target the inbuilt features of each platform.  </p>\n\n<p>Because Xamarin was recently purchased by Microsoft, you can be sure that it is getting the attention of small and large companies alike, meaning more opportunities are available for developers who have learnt and can use this technology to build apps (and you will learn to do that in this course).</p>\n\n<p>Some of the key Xamarin things you will learn and be able to put to use in your own apps after going through this course include Xamarin Forms, Xamarin Classic, Using Azure Mobile App Services, Consuming REST services, Implementing SQLite databases and using the MVVM pattern (very important to learn and understand).</p>\n\n<p><strong>Why enrolling in this course is the best decision you can make.</strong></p>\n\n<p>Most other Xamarin courses only focus on Xamarin.Forms or Xamarin classic.  <strong>BOTH are covered in this course</strong>.  Also this course teaches you all about Azure Mobile App services (cloud database integration), which no other course teaches.</p>\n\n<p>Your instructor, Eduardo Rosas, is a certified Xamarin Mobile Developer with 3 years of experience using the platform, and 5 years of experience using C#. He started developing apps for Windows Phone 7 back in 2012, which, just like Windows 8 and Windows 10, use C# and XAML, and uses those two languages for building Xamarin.Forms apps.</p>\n\n<p>This means you are learning from someone who has all the professional training, skills, and experience you need to teach you how to become proficient in Xamarin the right way, as fast as possible.</p>\n\n<p>If you are ready to get that first paid programming job, or to move up to a more senior programming position, then this course is for you!<br></p>\n\n\n\n<p><strong>After completing this course, you will have the necessary skills to be able to use Xamarin and create your own apps that target both iOS and Android.<br></strong><br>The sooner you sign up for this course, the sooner you will have the skills and knowledge you need to increase your job or consulting opportunities.    Xamarin skills are in high demand, as are Azure Mobile App services, and you will understand and be able to use both after going through this course.<br></p>\n\n\n\n<p>Your new job or consulting opportunity awaits!  </p><p>Why not get started today?</p><p> Click the <strong>Signup</strong> button to sign up for the course!</p>",
+            "suitableLearners": [
+                "Anybody who wants to learn how to code in Xamarin",
+                "Some knowledge of programming is desirable, but not essential"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-08-30T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-09-02T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625e78caf55d3252cd0f78a5"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 3255,
+            "studentCount": 18861,
+            "avgRatingScore": 4.4184427,
+            "contentVideoLength": 109424
+        },
+        "basicInfo": {
+            "udemyCourseId": 1693472,
+            "slug": "swiftui-masterclass-2022-ios-15-app-development-swift-5",
+            "title": "SwiftUI Masterclass 2022 - iOS 15 App Development & Swift 5",
+            "subtitle": "The Complete iOS 15 App Development Course with SwiftUI 3 From Beginner to Advanced App Developer with Xcode and Swift 5",
+            "image": "https://img-c.udemycdn.com/course/240x135/1693472_e1d5_13.jpg",
+            "price": 458570,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Develop iOS 15 iPhone and iPad apps with gorgeous layout and design",
+                "Learn Swift 5 programming language - Essential iOS Development Skill",
+                "SwiftUI 3 Concurrency / Async / Await",
+                "Learn how to save and load data on your iPhone and iPad with Core Data and SwiftUI",
+                "Learn how to fetch data from internal and external JSON file using Web APIs",
+                "Master Apple's greatest and latest user interface framework - SwiftUI 3",
+                "Learn macOS desktop app development with Apple's Catalyst framework",
+                "The Complete iOS App Development Course with SwiftUI 3",
+                "Basic mobile application design and prototyping skills",
+                "Learn how to integrate various iOS frameworks (MapKit, AVFoundation, etc)",
+                "Create custom user interfaces with the SwiftUI 3 framework",
+                "Learn how to publish iOS and macOS apps to the App Store",
+                "Gorgeous in-app interactions and animations",
+                "Visually develop iOS, iPadOS, macOS and watchOS apps",
+                "Create a top-notch portfolio of real apps and apply for iOS developer jobs",
+                "Test-driven iOS iPhone and iPadOS app development",
+                "Xcode 13 editor tips and tricks for iOS Developers",
+                "Learn to use Apple's new Combine framework and handle asynchronous events",
+                "Learn how to implement Swift Package manager in your work",
+                "Learn how to integrate Core Data with CloudKit"
+            ],
+            "requirements": [
+                "Xcode 13 from Apple (free)",
+                "macOS Monterey from Apple (free)",
+                "Willing to create awesome apps by following the instructor step by step",
+                "You do not need any other prior programming experience or knowledge"
+            ],
+            "description": "<p><strong>=== SWIFTUI MASTERCLASS&nbsp;COURSE&nbsp; ===</strong></p><p><br></p><p><strong>Important notice&nbsp;before&nbsp;you&nbsp;enroll in&nbsp;this masterclass!</strong></p><p><strong>1. </strong></p><p><strong>Every project is compatible with iOS 15 so if you run the finished project on the latest operating system then, Xcode will compile it. </strong></p><p>I would also highlight that Apple did not deprecate SwiftUI 1 and 2 frameworks. The latest iteration of SwiftUI 3 is nothing more than some new features and exciting additions on top of the base of SwiftUI 1 and SwiftUI 2 releases. </p><p>I hope this information helps those who are new to app development.</p><p><strong>2.</strong></p><p><strong>This is not a random YouTube tutorial with low-quality videos teaching random topics for ad revenue or for the Silver Play Button. </strong></p><p><strong>We are building applications from scratch with resources made by professionals!!!</strong></p><p>Creating the Bestseller SwiftUI Course with high-quality production value takes a lot of time. </p><p>This SwiftUI course is already more than 30.5+ hours long and it will be much longer by the end of this year.&nbsp;</p><p><strong>3.</strong></p><p><strong>You will experience the \"LEARNING BY DOING\" teaching method during the course-taking. </strong></p><p><strong>Having said that, this is a project-based course where 70% are practical activities and only 30% theories.</strong></p><p><strong>Don't buy this course if you do not like this hands-on approach!!!</strong></p><p>There is no other instructor in this category I am aware of who provides more free previews than I do, so you can educate yourself about how things are done in this course. </p><p>Think about it before you decide to purchase this course. Unlike others, I hide nothing from you.</p><p><br></p><p><strong>=== PROJECTS ===</strong></p><p><br></p><ol><li><p><strong>RESTART </strong><em>– iOS 15 app design</em></p></li><li><p><strong>PINCH </strong><em>– This iOS 15 Project</em></p></li><li><p><strong>FOX&nbsp;CARS </strong><em>♥️</em> <em>– iOS 15 app with Async/Await and MVVM [ Coming Soon ]</em></p></li><li><p><strong>SWIFTUI 3 STARTER GUIDE</strong></p></li><li><p><strong>FRUITS</strong> <em>- iOS app with SwiftUI and Xcode</em></p></li><li><p><strong>AFRICA</strong> - <em>iOS, iPadOS and macOS desktop app</em></p></li><li><p><strong>TOUCHDOWN </strong><em>- iOS E-commerce app</em></p></li><li><p><strong>DEVOTE </strong><em>- Core Data with SwiftUI integration</em></p></li><li><p><strong>NOTES</strong> - <em>watchOS with SwiftUI</em></p></li><li><p><strong>DEVELOPERS</strong> <em>- iOS and iPadOS app</em></p></li><li><p><strong>AVOCADO RECIPES</strong> <em>- iOS and iPadOS app</em></p></li><li><p><strong>SLOT&nbsp;MACHINE </strong><em>- iPhone, iPad, Mac Game</em></p></li><li><p><strong>TODO </strong>- <em>Core Data, App Themes, and Alternate App Icons</em></p></li><li><p><strong>HONEYMOON </strong>- <em>iOS and iPadOS app</em></p></li></ol><p><br></p><p><em>\"Tell me and I forget.</em></p><p><em>Show me and I remember.</em></p><p><em>Let me do it and I understand.\"</em></p><p><em>– Confucius</em></p><p><br></p><p><strong>=== WHY&nbsp;THIS&nbsp;COURSE? ===</strong></p><p><br></p><p><strong>Why should you take this Bestseller course? </strong> </p><p>Visually learn SwiftUI 3 and build top-notch iOS 15, iPadOS mobile apps, Apple Watch apps, and even macOS desktop applications. This complete iOS application development course is designed to teach you how to become an advanced multiplatform app developer using Apple's native user interface framework: SwiftUI.</p><p>This class takes learning programming concepts through a project-based approach. By taking this class, you will improve your app design and development skills while creating many hands-on applications.</p><p><br></p><p><strong>What kind of advanced topics will be covered in 2022</strong></p><ul><li><p>Swift 5.5 Programming Language,</p></li><li><p>SwiftUI Framework Foundation,</p></li><li><p>Swift 5.5 Concurrency,</p></li><li><p>SwiftUI 3 Async/Await feature,</p></li><li><p>Core Data with SwiftUI,</p></li><li><p>MVVM Architecture - Design Pattern, </p></li><li><p>External REST APIs integration, </p></li><li><p>Combine Framework, </p></li><li><p>SwiftUI Animation,</p></li><li><p>Advanced Core Data with Apple's CloudKit integration, </p></li><li><p>App Clips, </p></li><li><p>WidgetKit framework,&nbsp; </p></li><li><p>SpriteKit with SwiftUI, </p></li><li><p>Swift Package Manager (SPM), </p></li><li><p>Google FireStore integration with SPM,</p></li><li><p>Version control with Git, </p></li><li><p>Native macOS app development, </p></li><li><p>watchOS, </p></li><li><p>App design, UI design, UX design, </p></li><li><p>HealthKit, </p></li><li><p>MapKit,&nbsp; </p></li><li><p>RealityKit framework,</p></li><li><p>PencilKit, </p></li><li><p>Push Notification, </p></li><li><p>WKWebView, </p></li><li><p>Face ID and Touch ID, </p></li><li><p>App distributions to App Store, </p></li><li><p>and so on.</p></li></ul><p><strong>Learn mobile app development with hands-on tutorials!</strong></p><p>Master app design and development with the SwiftUI 3 framework and create remarkable applications. This SwiftUI Masterclass gives you a practical and engaging activity&nbsp;- with the right learning material and teacher.</p><p><br></p><p><strong>Let's face the truth that most SwiftUI and even iOS development courses teach you how to build ugly and hideous applications but not this one.</strong></p><p>Do you want to create outstanding apps with SwiftUI? Then this course is for you!</p><p><br></p><p><strong>Would you like to show your apps to your friends, co-workers, even family members, and make them look up to you?</strong></p><p>If yes, then enroll in the best SwiftUI course and create 1st class apps coding in Swift 5 programming language!</p><p><br></p><p><strong>Moreover, are you eager to build up your professional portfolio and show up in your next job interview with confidence?&nbsp; By the way, your new employer will be impressed by your work so much for sure.</strong></p><p>You know, you should definitely take this SwiftUI and iOS 15 Masterclass course!</p><p><br></p><p><strong>Learn faster with the up-to-date SwiftUI code examples. You are in good hands.</strong></p><ul><li><p>Do not waste time getting lost and bored looking at endless and outdated tutorials and code examples on the Internet!</p></li><li><p>You will grasp Apple's latest SwiftUI framework quickly and easily by following the instructor line by line.&nbsp; </p></li></ul><p><br></p><p><strong>Welcome to the world's Best Seller iOS 15 and 14 Development Course with SwiftUI</strong></p><p>This up-to-date SwiftUI course contains step-by-step instructions to teach you how to build several fully-fledged iOS, iPadOS, macOS, and even watchOS applications programming in Swift 5 language.</p><p><br></p><p><strong>What’s in it for you?</strong></p><p>As a student in this masterclass, you're going to create dozens of eye-catchy apps with the latest and greatest technologies that Apple has recently released such as:</p><p><br></p><ol><li><p><strong>SwiftUI 3 </strong>is Apple's native declarative user interface design framework,</p></li><li><p><strong>Swift 5 programming language,</strong></p></li><li><p><strong>Xcode 13 development tool </strong>(code editor, test environment, live preview, simulators, etc),</p></li><li><p><strong>Combine framework </strong>helps developers work with events,</p></li><li><p><strong>Mac Catalyst</strong> technology is designed to allow developers to bring their iPad apps to Macintosh computers,</p></li><li><p><strong>iOS and iPadOS Widgets on the Home Screen</strong></p></li></ol><p>In case, if you're someone who wants to get a job as an iOS or macOS developer then this masterclass is perfect for building up your professional portfolio to show off at your next interview. They will be interested in your work after all.</p><p><br></p><p>On the other hand, if you're somebody who wants to build your very own apps for your startup business then in addition to all of the coding tutorials I've also included full exercises on <strong>user interface design and app animation</strong> too.</p><p><br></p><p>You should know that this course assumes absolutely no programming experience. So if you're a complete beginner then I'll be there for you and guide you in this program.</p><p><br></p><p>Finally, if you're an experienced developer, on the other hand, I'm sure that you are going to find plenty of advanced <strong>Swift programming best practices using Xcode editor</strong>.</p><p><br></p><p>That being said, by the end of the course you'll know how to develop, design, and publish your next app into the Apple App Store.</p><p><br></p><p><strong>So what are you waiting for? Join in this SwiftUI Masterclass course now!</strong></p>",
+            "suitableLearners": [
+                "If you are a beginner iPhone developers curious about iOS development, then jump straight into this course",
+                "For Advanced iOS and macOS developers eager to learn SwiftUI framework",
+                "If you want to get a job as an App developer, then take this course",
+                "If you are going to build and publish your App to Apple's App Store, then start this SwiftUI course and get up speed quickly with the latest iOS development"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2022-01-04T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2022-01-07T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625e78caf55d3252cd0f78a5"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 3157,
+            "studentCount": 17978,
+            "avgRatingScore": 4.63575,
+            "contentVideoLength": 177834
+        },
+        "basicInfo": {
+            "udemyCourseId": 2235576,
+            "slug": "the-comprehensive-android-app-development-masterclass",
+            "title": "The Comprehensive Android App Development Masterclass",
+            "subtitle": "Master Android App Development: ROOM Database, ML Kit Face Recognition, Firestore, Firebase, Maps and Android Studio IDE",
+            "image": "https://img-b.udemycdn.com/course/240x135/2235576_b9d9_3.jpg",
+            "price": 2752570,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Master Java Programming Language",
+                "Build Dynamic Android Apps From Scratch",
+                "Master Android Development and MVC Pattern when Building Android Apps",
+                "Master Modern Android Development with DataBinding",
+                "Build Several Android Apps with the latest Android API's: ROOM, Firebase, Firestore and ML Kit Face Recognition",
+                "Learn Android Development Best Practices",
+                "Learn Android User Interface Design",
+                "Master the Android Studio IDE and Become More Productive",
+                "Learn How to Publish Android Apps to Google Play"
+            ],
+            "requirements": [
+                "Basic programming experience in general is helpful but not required.  The course covers everything you'll need to build Android Apps",
+                "Be Willing to Work and Learn"
+            ],
+            "description": "<p><br></p><p><strong>Android App Development </strong>will open many doors for you since AAndroidis the most popular operating system in the World.</p><p>You may have many reasons you want to learn Android development - maybe you have lots of app ideas but don't know where to start?&nbsp; Or perhaps it's time for a career change, and Android Development picked your interest?&nbsp; Or maybe you want to be more valuable at your company... whatever the reason, you're are on the right path by being here!</p><p><br></p><p><strong>Build a strong foundation in Android Development, Android Studio, and object-oriented Java Programming with this Complete, Up-to-date course.&nbsp; This is the Android Development Bootcamp you'll ever need to learn Android Development from scratch!</strong></p><p>In this Android App Development Bootcamp course, you will be:</p><ul><li><p>Building Android apps from scratch using Android Studio and <strong>Java</strong> <strong>Programming</strong> <strong>Language</strong></p></li><li><p>Thoroughly learn the <strong>Java Programming Language,</strong> which is used to make Android Apps.</p></li><li><p><strong>Android</strong> Building <strong>Blocks</strong> </p></li><li><p>Building several full-fledged apps from scratch</p></li><li><p>Learning how to leverage Android Internal Persistence API's (<strong>SharedPreference</strong> and <strong>SQLite</strong>)</p></li><li><p>Master Android App Design, from start to finish (<strong>Android</strong> <strong>Material</strong> <strong>Design</strong>)</p></li><li><p>Android <strong>DataBinding</strong></p></li><li><p>Master new Android APIs such as <strong>ROOM</strong> Persistence, <strong>Firestore</strong> Realtime Database, and <strong>ML</strong> <strong>Kit</strong> - <strong>Face</strong> <strong>Recognition.</strong></p></li><li><p>Upload your apps to Google Play Store and reach Millions of Android users worldwide!</p></li><li><p>And so much more...</p></li></ul><p><strong>This is a hands-on course, which means you will be building several android apps as you learn!</strong></p><p>The course is structured in such a way to improve your knowledge retention - by having a lot of hands-on projects. In each section of the course, you will be practicing and building something meaningful, which will further your understanding of Android App Development. Of course, there are quizzes and challenges as well.</p><p><br></p><p><strong>No Prior Programming Experience is Required!</strong></p><p>If you are not an experienced developer, don't worry. This course was designed with beginners in mind - <strong>you don't have to have any prior experience!</strong></p><p>All you need is an open mind and willingness to work (and some patience, too).</p><p>You'll learn the Java programming language fundaments such as Java variables, variable types, relational and logical operators, loops, and methods.&nbsp; Once the language basics are covered, you'll then move on to learning <strong>Java</strong> <strong>Object</strong>-<strong>Oriented</strong> <strong>Programming</strong> concepts - classes, <strong>Java</strong> <strong>Inheritance</strong>, and how to create objects from Java classes.&nbsp; </p><p>Next, you'll learn the most fundamental <strong>Java</strong> <strong>Data</strong> <strong>Structures</strong>, which help programmers store and manipulate programs' data efficiently and quickly (Arrays and ArrayLists).&nbsp; </p><p>Suppose you are familiar with the Java programming language. In that case, you can always fast-forward to the Android Development part of the course, which introduces the fool Bootcamp for Android App Development.&nbsp; In the Android App Development part of the course, you'll focus on building an Android app from the get-go. Thus, you'll be learning Android concepts such as <strong>Android</strong> <strong>Activities</strong>, <strong>Android Basic Project Structure</strong>, <strong>Android</strong> <strong>Layouts</strong>, and <strong>XML</strong> by actually doing the work, building android apps from scratch!</p><p>The goal is to take you through the whole process of learning Android development, from zero to hero, meaning from building simple Android apps to building apps that connect to <strong>Firebase</strong> (remote <strong>realtime</strong>-<strong>database</strong>). These apps recognize faces on a photo (<strong>MLKit</strong> <strong>Face</strong> <strong>Recognition</strong>) to learn how to build Android map-driven applications!&nbsp; Along the way, you'll learn how to store data in android(<strong>SQLite</strong> and Sharedpreferences).&nbsp; You'll learn how to use the fundamental design pattern called <strong>MVC</strong> - Model-View-Controller to structure your Android projects. You'll learn how to use the most modern Android libraries and APIs like <strong>Android ROOM</strong> - an alternative way to save Android data! Finally, you'll master how to use <strong>Android</strong> <strong>Fragments</strong> to make your apps more versatile and run on different device sizes (phone, tablet).</p><p>Additionally, you'll learn how to play sound (<strong>Android SoundPool, Android ExoPlayer</strong>) and use Android native classes to draw shapes on the screen - by using the <strong>Android Canvas</strong> class and so much more!</p><p>As you can see, this is the course you'll need to get started in Android Development with Java - this is your Android Development Bootcamp course that will take you from zero to hero!</p><p><br></p><p><br></p><p><strong>Why Should You Take This Course?</strong></p><p><strong><br></strong>My name is Paulo Dichone, creator of the best-selling online programming courses (<strong>with over 100,000 happy and satisfied students</strong>). This time, I have designed this Android Masterclass course - especially for YOU.</p><p>I know how hard it can be to learn programming and Android development - there's a lot of information out there, but the problem is that none is complete, nor is it updated.&nbsp; I understand how frustrating it's to try to learn something on your own and spend months without seeing progress!&nbsp; </p><p><strong>That's why I do what I do - teach.&nbsp; </strong></p><p>My sole goal is to show you that you can get started right away with Android development and start building your app ideas!&nbsp; </p><p><strong>Don't just take our word for it; see what my past students had to say about the course:</strong></p><p><br></p><p>\"<em>I liked the course and the professor. I'm taking another course with him because he's excellent in my opinion, starts from beginner to advanced, very organized classes. A lot of examples in the course, and he was updating the course often too. Money well spent.</em>\" - Kevin ★★★★ (4.5 stars rating)</p><p><br></p><p>\"<em>Great course. Very easy in understanding and friendly learning. Good Job, Sir. Thanks for this.</em>\" - Muhammad - ★★★★ (5 stars rating)</p><p>\"<em>Well, in my opinion, this is a great course since I knew nothing about java and by now I'm able to write my own apps pretty easily</em>.\" - Michael - ★★★★ (5 stars rating)</p><p><br></p><p><em>\"Great course! I learned a lot from the numerous examples. I now have the confidence to build my own apps and explore different areas of Android programming. - </em>★★★★ (4.5 stars rating)</p><p><br></p><p><em>Great Course!!!! Thanks, Paulo!!!!!\" - Ian - </em>★★★★ (5 stars rating)</p><p><br></p><p>\"<em>I am delighted with this course. I have only attended the Android part because I had a basic knowledge of Java. I really like how Paulo teaches. He goes step by step, and you can understand everything. My first language is not English, but he speaks very; clearly, I can understand every word. Also, he is a happy guy, and you can hear that through the courses that he really loves what he is doing.</em>\" - Antal - ★★★★ (5 stars rating)</p><p><br></p><p>\"<em>Very well thought-out course. Flows smoothly with great delivery. I have been developing Android Apps for several years, and I still found this course informative, relevant, and helpful. I would recommend everyone take this course if you are new to Android or returning for a refresher course.</em>\" - Douglas - ★★★★ (5 stars rating)</p><p><br></p><p><strong>Sign up today, and look forward to:</strong></p><ul><li><p>Over 45 hours of HD 1080p video content (and growing)</p></li><li><p>Build several fully-fledged apps, including ones that use ML Kit Face Recognition, Android ROOM Database, Firebase, Maps and JSON APIs, etc.</p></li><li><p>Challenges and Solutions</p></li><li><p>Fast and helpful support if you need anything or have questions</p></li><li><p>My great sense of humor :)</p></li></ul><p><br></p><p>So what are you waiting for?&nbsp; Start learning in this ultimate Android Development tutorial, where you'll go deep into android development tools, such as Android Studio and Android App Development.&nbsp; </p><p>Enroll today and start learning.</p><p>See you inside.</p><p><br></p><p>Paulo</p>",
+            "suitableLearners": [
+                "Beginner Android Developers",
+                "Web Developers who want to Learn Android and Java",
+                "Curious students who Want to Build their own Android Apps",
+                "Project Managers who Want to Learn How Android Apps are Built",
+                "Anyone who wants to Learn Java and Android Development"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-11-11T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-11-14T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 389980,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625e78caf55d3252cd0f78a5"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 3084,
+            "studentCount": 12275,
+            "avgRatingScore": 4.618024,
+            "contentVideoLength": 74778
+        },
+        "basicInfo": {
+            "udemyCourseId": 2149344,
+            "slug": "flutter-firebase-build-a-complete-app-for-ios-android",
+            "title": "Flutter & Firebase: Build a Complete App for iOS & Android",
+            "subtitle": "Learn Dart, Flutter & Firebase by Google, and build a real-world, production ready app",
+            "image": "https://img-c.udemycdn.com/course/240x135/2149344_97e8_3.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Build a complete, real-world app with Flutter & Firebase",
+                "Write iOS & Android apps with a single codebase",
+                "Write production-ready code following best practices and become a competent Flutter developer",
+                "Fast-track your Flutter learning with practical tips and proven techniques"
+            ],
+            "requirements": [
+                "Experience with another programming language is beneficial, but not strictly required",
+                "NO prior Dart, Flutter and Firebase experience required",
+                "NO prior mobile app development experience required"
+            ],
+            "description": "<p><strong>NOTE:&nbsp;This course is NOT&nbsp;updated to Null Safety and the latest packages. If you want to use Null Safety and the latest APIs, be prepared to do some extra work to get things working. With that said, many of the concepts taught in the course are still very valuable.<br><br>Want to learn how to build native mobile apps with Flutter?</strong></p><p>Then you are in the right place.&nbsp;</p><p>Flutter is a mobile framework by Google for building&nbsp;<strong>beautiful and fast native apps</strong>. Flutter is very productive and offers a rich set of widgets that makes building apps a breeze. Once you experience&nbsp;<strong>hot-reload</strong>&nbsp;and everything else Flutter has to offer, you will never want to go back.</p><p>In this course you will build a&nbsp;<strong>complete, real-world application</strong>&nbsp;for iOS and Android, by using&nbsp;<strong>Dart, Flutter and Firebase</strong>.</p><p>This course&nbsp;<strong>starts from the basics</strong>, and includes a&nbsp;<strong>full introduction</strong>&nbsp;to Dart and Flutter. This means that&nbsp;<strong>NO prior experience</strong>&nbsp;with Dart and mobile app development is needed.</p><p>As you make progress, the course will introduce more advanced topics, with special emphasis on writing <strong>production-ready code</strong>, so that you can <strong>learn how to build robust applications that scale</strong>.</p><p>And by learning Firebase as well, you will understand how to make&nbsp;<strong>modern reactive apps</strong>, and see why Flutter and Firebase are a great combination.</p><p>Important concepts are explained with clear diagrams. You will always learn <strong>what</strong> you will be building and <strong>why</strong>, and then <strong>how</strong> to do it.</p><p>This will give you a strong foundation, and the techniques you learn here will be valuable in your own Flutter apps.</p><p>So by the end of this course&nbsp;<strong>you will be a competent Flutter developer</strong>.</p><p><strong>Course Structure</strong></p><p>This is a <strong>complete course</strong>. With 21 hours of content, it will teach you everything you need to know about Flutter.</p><p>- Each lesson builds on top of the previous one (source code included).</p><p>- Each section covers a different topic.</p><p>You can follow the course from beginning to end, or choose the topics you’re most interested in.</p><p><strong>Fast-track your learning</strong></p><p>This course offers a lot of practical advice, along with tips and techniques that I have battle-tested over years of experience.</p><p>It goes far beyond \"making things work\", and gives you a very solid understanding of many different techniques and their trade-offs.</p><p>And it will show you how to <strong>think</strong> about <strong>problems</strong> and their <strong>solutions</strong>, with the mindset of a top <strong>professional software engineer</strong>.</p><p>So taking this course <strong>will save you a lot of time and money</strong>, and will prepare you for building real-world apps.</p><p>And if you get stuck, you can ask questions and they will be quickly answered.</p><p><strong>Included in this course</strong></p><ul><li><p>Introduction to Dart</p></li><li><p>Setup instructions for macOS and Windows</p></li><li><p>Introduction to Flutter and widgets</p></li><li><p>Building layouts with Material &amp;&nbsp;Cupertino widgets +&nbsp;build your own custom widgets</p></li><li><p>Navigation</p></li><li><p>Firebase Authentication (anonymous, email &amp; password, Google, Facebook)</p></li><li><p><strong>State Management</strong>: how to use <strong>setState</strong>, <strong>lifting state up</strong> via callbacks, <strong>global access</strong>, <strong>scoped access</strong> with <strong>Provider</strong>, <strong>BLoCs</strong>, <strong>ValueNotifier</strong> &amp; <strong>ChangeNotifier</strong></p></li><li><p>Streams, building reactive apps &amp; advanced stream operations with RxDart</p></li><li><p>Forms, input handling and validation</p></li><li><p>Managing and updating packages</p></li><li><p>Databases and Cloud Firestore</p></li><li><p>Working with Forms and&nbsp;Cloud Firestore</p></li><li><p>Working with ListViews and multiple UI&nbsp;states</p></li><li><p>Date &amp; time pickers</p></li><li><p>Unit &amp; Widget tests with mockito (basics to advanced)</p></li></ul><p><strong>System requirements</strong></p><ul><li><p>Windows, macOS or Linux for Android app development</p></li><li><p>macOS for iOS app development</p></li></ul>",
+            "suitableLearners": [
+                "Beginner or intermediate Dart and Flutter developers",
+                "Experienced iOS and Android developers",
+                "Developers who want to write apps on iOS and Android with a single codebase",
+                "Developers that want to write modern, reactive apps with Firebase"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-05-28T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-05-31T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625e78caf55d3252cd0f78a5"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 2780,
+            "studentCount": 13823,
+            "avgRatingScore": 4.496356,
+            "contentVideoLength": 82368
+        },
+        "basicInfo": {
+            "udemyCourseId": 1323462,
+            "slug": "kotlin-for-android-beginner-to-advanced",
+            "title": "Kotlin for Android: Beginner to Advanced",
+            "subtitle": "Kotlin is an expressive, concise & powerful development language on Android. Learn everything you need to know to start",
+            "image": "https://img-b.udemycdn.com/course/240x135/1323462_db04_2.jpg",
+            "price": 2752570,
+            "lan": "en",
+            "level": "intermediate",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Build professional, fully functional apps using Kotlin",
+                "Apply for Jr. Android app development jobs",
+                "Submit apps to the Google Play store"
+            ],
+            "requirements": [
+                "Must have PC with Windows 8+ OR macOS OR Linux/Ubuntu",
+                "Recommend having an actual Android device but it is not required"
+            ],
+            "description": "<p><strong>KOTLIN FOR ANDROID</strong></p>\n\n<p>Welcome to the world's most comprehensive course on Kotlin for Android development. Whether your a developer coming from Java, or have NO Android experience, we start from the ground up and teach you everything you need to know how to build apps using Kotlin.</p>\n\n\n\n\n\n\n\n\n\n<p><strong>WHY TAKE THIS COURSE?</strong></p>\n\n\n\n\n\n\n\n\n\n<p>We don't only focus on the Kotlin language like most courses on Kotlin do. Learn to code the Devslopes way. We'll teach you everything about developing with Kotlin, working with interface builder and all the SDK's you actually need to build apps. And as always, you'll be building professional, amazing looking apps from start to finish.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Here are some of the things you'll be able to do after taking this course:</strong><br></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>Learn to code how the PROs code - not just copy and paste</li><li>Learn everything you need to know about submitting to the Google Play store </li><li>Build beautiful Apps - We don't build trash - you'll create amazing real-world apps</li><li>Build Real Projects - You'll get to build projects that help you retain what you've learned</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>WHAT YOU WILL LEARN:</strong></p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<ul><li>Installing JDK and Android Studio as well as IntelliJ</li><li>How to run apps on own device</li><li>Those looking to get a full time job as a developer</li><li>Kotlin Foundations - Variables, Strings, Collections, Classes, Inheritance, Lambda Expressions</li><li>In depth look at activity life cycle, intents, and context</li><li>Deep dive on constraint layout and supporting multiple device sizes.</li><li>Enhance your UI with custom drawables</li><li>Using Kotlin with Android SDK</li><li>Comprehensive overview of List and Recycler Views</li><li>Learn all about web requests and working with APIs and even implement web sockets in a fully functional <strong>Slack</strong> app clone.</li></ul>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<p><strong>Don't forget to join the free live community where you can get free help anytime from other students.</strong></p>",
+            "suitableLearners": [
+                "This course is for absolute beginners with no coding experience",
+                "Programmers coming from Java who want to learn Kotlin for Android"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2018-03-29T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2018-04-01T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 389980,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625e78caf55d3252cd0f78a5"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 2549,
+            "studentCount": 83055,
+            "avgRatingScore": 4.3589535,
+            "contentVideoLength": 8056
+        },
+        "basicInfo": {
+            "udemyCourseId": 1632804,
+            "slug": "flutter-beginners-course",
+            "title": "Flutter - Beginners Course",
+            "subtitle": "Learn Flutter mobile programming",
+            "image": "https://img-c.udemycdn.com/course/240x135/1632804_aa69_4.jpg",
+            "price": 573270,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Make basic flutter applications"
+            ],
+            "requirements": [
+                "Understanding of the Dart language"
+            ],
+            "description": "<p>Learn how to create fast and stunning mobile applications using Flutter, a new mobile framework by google. In this course you will quickly learn how to build an application in Flutter with no previous experience. It is HIGHLY recommended you understand the Dart programming language, see my Dart programming tutorials.</p>",
+            "suitableLearners": [
+                "Anyone interested in learning Flutter mobile development"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-09-29T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-10-02T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625e78caf55d3252cd0f78a5"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 2464,
+            "studentCount": 8015,
+            "avgRatingScore": 4.2913685,
+            "contentVideoLength": 6276
+        },
+        "basicInfo": {
+            "udemyCourseId": 2544521,
+            "slug": "microsoft-powerapps-essential-training-2021",
+            "title": "Microsoft Powerapps Essential Training 2021",
+            "subtitle": "Create Business Apps Without Coding",
+            "image": "https://img-c.udemycdn.com/course/240x135/2544521_6216_5.jpg",
+            "price": 1376170,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Getting Started with Powerapps",
+                "Signing Up For Powerapps Trial",
+                "Identify Different Plans For Powerapps",
+                "Working With Connection In Powerapps",
+                "Working With CDS",
+                "Creating An App From Common Data Service(CDS)",
+                "Establishing data connection between powerapps and excel",
+                "Work with Versions",
+                "Create An App From a SharePoint list",
+                "Signing Up For Sharepoint",
+                "Saving and Sharing Apps With Stakeholders"
+            ],
+            "requirements": [
+                "You have basic knowledge of Microsoft Excel"
+            ],
+            "description": "<p><strong>PowerApps</strong> is an initiative by <strong>Microsoft</strong> that allows developers and non-technical users to build mobile applications from selectable templates. <strong>Microsoft</strong> touts an intuitive visual design for <strong>PowerApps</strong>, with drag-and-drop functionality and a familiar look and feel taken from applications like PowerPoint.This course is specially designed to leverage your powerapps skills to a new level. </p><p>Instructor <strong>Shaher Yar Hamid </strong>explores how to leverage PowerApps to turn an Excel workbook into a simple business app that can be used on a mobile device or in a browser. This course also includes how to <strong>create an app from CDS and Sharepoint</strong> and how to share an app and work with releases of apps. And last but not least is how to create an app from a Built-in template provided by powerapps.</p>",
+            "suitableLearners": [
+                "Everyone who want to start career as a Powerapps developer."
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2020-11-25T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2020-11-28T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625e78caf55d3252cd0f78a5"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 2237,
+            "studentCount": 15707,
+            "avgRatingScore": 4.2808256,
+            "contentVideoLength": 89491
+        },
+        "basicInfo": {
+            "udemyCourseId": 705934,
+            "slug": "android-n-from-beginner-to-paid-professional",
+            "title": "Android N: From Beginner to Paid Professional",
+            "subtitle": "Comprehensive Android Nougat app development",
+            "image": "https://img-c.udemycdn.com/course/240x135/705934_83b6.jpg",
+            "price": 2523170,
+            "lan": "en",
+            "level": "all",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Build Android Marshmallow apps",
+                "Apply for Jr. Android app development jobs",
+                "Program and code with Java",
+                "Implement Object Oriented Programming with Java and Android"
+            ],
+            "requirements": [
+                "Must have PC with Windows 8+ OR macOS OR Linux/Ubuntu",
+                "Recommend having an actual Android device but it is not required"
+            ],
+            "description": "<p><strong>Android: From Beginner to Paid Professional</strong></p>\n\n<p>Learn to code the Devslopes way. At Devslopes we teach you the platform and the underlying coding principles. We believe in building engineers and not copy-and-paste students. You can get started with no experience or with lots of coding experience.</p>\n\n<p>Learn everything you need to know to have professional Android development skills.</p>\n\n<p><strong>Why This Course?</strong></p>\n\n<p>Devslopes first flagship course iOS 9 &amp; Swift:  From Beginner to Paid Professional took the world by storm and is the most effective course on iOS development on the Internet with thousands of 5 star reviews and tons of success stories.</p>\n\n<p>Using that same formula for success we have brought you the even better Android course.</p>\n\n<ul><li>Learn to code how the PROs code - not just copy and paste</li><li>Learn the latest Android APIs and services - we don't teach old junk</li><li>SUPER FUN - You will laugh and have fun while learning</li><li>Beautiful Apps - We don't build trash - you'll create amazing real-world apps</li><li>Zero Experience needed to start</li><li>Build Real Projects - You'll get to build projects that help you retain what you've learned</li><li>Live Help - I've brought on a bunch of Teacher's Aides who are always available to help in our online chatroom </li></ul>\n\n<p><strong>How Long Will This Take?</strong></p>\n\n<p>This course with all of its exercises should take you a good 6 weeks if you spend 1-2 hours on it every day.</p>\n\n<p><strong>How Is The Course Structured?</strong></p>\n\n<p>You start by learning how to code with Java. Then you start building some simpler apps and move on to more complex fully-functional apps. You build projects in-between that allow you to stretch and grow using the principles you just learned, but without copying and pasting code.<br></p><p><strong>What Do I Get?</strong></p><ul><li>Tons of amazing Android learning content</li><li>10 FREE App Asset Packs (Worth thousands of dollars)</li><li>Live support in our online chatroom</li><li>Certificate of completion (when completed)</li><li>Potential for a whole new career / lifestyle</li></ul>",
+            "suitableLearners": [
+                "This course is for absolute beginners with no coding experience AND it is for existing programmers who want to learn Android",
+                "This course is NOT for veteran Android developers"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2018-09-04T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2018-09-07T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 367040,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625e78caf55d3252cd0f78a5"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 1236,
+            "studentCount": 27959,
+            "avgRatingScore": 4.695487,
+            "contentVideoLength": 15624
+        },
+        "basicInfo": {
+            "udemyCourseId": 2010554,
+            "slug": "the-complete-flutter-app-development-course-for-android-ios",
+            "title": "The Complete Flutter App Development Course for Android, iOS",
+            "subtitle": "A Complete Guide to the Flutter Framework for building native iOS and Android apps with single code base",
+            "image": "https://img-c.udemycdn.com/course/240x135/2010554_3bb5_3.jpg",
+            "price": 2064370,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Start developing mobile apps for both Android and iOS with single code base"
+            ],
+            "requirements": [
+                "Basic programming language knowledge",
+                "A computer: Windows or Mac or Linux",
+                "Curiosity and Enthusiam"
+            ],
+            "description": "<p>Flutter - a framework developed by Google - allows you to learn one language (Dart) and build beautiful native mobile apps in no time. Flutter is a SDK providing the tooling to compile Dart code into native code and it also gives you a rich set of pre-built and pre-styled UI elements (so called widgets) which you can use to compose your user interfaces.</p><p><strong>Flutter is extremely trending</strong> and gets used for major Google apps like their Adwords app - it's now marked as \"ready for production\", hence now is the time to jump in and learn it!</p><p>This course will teach Flutter &amp; Dart from scratch, NO prior knowledge of either of the two is required! And you certainly don't need any Android or iOS development experience since the whole idea behind Flutter is to only learn one language.</p><p>You'll learn Flutter not only in theory but <strong>we'll build a complete, realistic app</strong> throughout this course. This app will feature both all the core basics as well as advanced features like using Google Maps, the device camera, adding animations and more!</p><p><strong>With Flutter, you'll be able to write code only once and ship your apps both to the Apple AppStore and Google Play.</strong></p><p>Use Google's Material Design to build beautiful, yet fully customizable, apps in no time with almost zero effort. You can use the rich widget suite Flutter provides to add common UI elements like buttons, switches, forms, toolbars, lists and more - or you simply build your own widgets - Flutter makes that a breeze, too.</p><p><strong>Here's what's included in the course:</strong></p><ul><li><p>Detailed setup instructions for both macOS and Windows</p></li><li><p>A thorough introduction to Flutter, Dart and the concept behind widgets</p></li><li><p>An overview of the built-in widgets and how you may add your own ones</p></li><li><p>Debugging tips &amp; tricks</p></li><li><p>Page navigation with tabs, side drawers and stack-based navigation</p></li><li><p>State management solutions</p></li><li><p>Handling and validating user input</p></li><li><p>Adding Google Maps</p></li><li><p>Using native device features like the camera</p></li><li><p>Adding beautiful animations &amp; page transitions</p></li><li><p>How to publish your app to the app stores</p></li><li><p>And more!</p></li></ul>",
+            "suitableLearners": [
+                "Anyone who is enthusiastic to start developing apps in Flutter"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2018-11-06T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2018-11-09T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 298220,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625e78caf55d3252cd0f78a5"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 1078,
+            "studentCount": 7460,
+            "avgRatingScore": 4.6277266,
+            "contentVideoLength": 25531
+        },
+        "basicInfo": {
+            "udemyCourseId": 1803806,
+            "slug": "android-architecture-masterclass",
+            "title": "Android Architecture Masterclass",
+            "subtitle": "Embrace clean design and architecture in your Android applications",
+            "image": "https://img-b.udemycdn.com/course/240x135/1803806_162c_3.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Learn the most important aspects of Android architecture",
+                "Decouple user interface logic in your codebase using MVC pattern",
+                "Employ Dependency Injection to follow Separation of Concerns principle",
+                "Discover the real roles of Activities and Fragments in Android applications",
+                "Understand Single-Activity vs. Multi-Activity trade-offs",
+                "Use clean packages structure to reflect the business domain of your application",
+                "Avoid \"Spaghetti Code\" and \"God Classes\""
+            ],
+            "requirements": [
+                "Hands-on experience with Android development"
+            ],
+            "description": "<p>In this course, you'll deep dive into Android design and architecture and learn how to write <strong>clean, readable and maintainable code</strong> in your Android applications.</p><p>As you probably know, starting developing for Android isn't that hard. Really, you can go from zero to publishing an app on Google Play in just few months. However, it's even easier to mess up your Android project with dirty code. </p><p>The symptoms of dirty code are all too common: classes with thousands of lines of code, duplicated code all over the place, obscure naming, random structure of packages, Singletons, etc. All these are very serious problems which, sooner or later, appear in and slow down most Android projects.</p><p>However, it doesn't have to be like that! There are best practices which you can learn and use in your Android applications that will ensure their long-term quality: </p><ul><li><p>Clean Architecture</p></li></ul><ul><li><p>Model-View-X architectural patterns</p></li></ul><ul><li><p>Dependency Injection</p></li></ul><ul><li><p>Package by Feature</p></li></ul><ul><li><p>Logic Reuse Through Composition and Inheritance</p></li></ul><ul><li><p>Many more...</p></li></ul><p>After completing this course, you'll start writing clean and readable code. Different features will be encapsulated in small, decoupled classes which will be organized into meaningful packages to reflect your application's business domain. You'll be using standard design and architectural patterns, so other developers will have easier time ramping up on your code. And much, much more...</p><p>No more Activities and Fragments having thousands of lines of code. No more code duplication. No more changes in many different places each time you add a new feature. No more spaghetti code!</p><p>Over the years, I worked as a corporate Android developer, wrote Android applications as a freelancer and, today, I&nbsp;consult companies about their Android projects and train their developers. The material in this course summarizes years of professional experience with many different types of Android applications. </p><p>All in all, in this course you'll acquire advanced knowledge and skills which will make you more productive as a developer and boost your career. Furthermore, you'll start taking professional pride in your work and enjoy Android development much more going forward. If this sounds appealing, this course is for you!</p>",
+            "suitableLearners": [
+                "Professional Android developers"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2020-08-30T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2020-09-02T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625e78caf55d3252cd0f78a5"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 981,
+            "studentCount": 3387,
+            "avgRatingScore": 4.752039,
+            "contentVideoLength": 35228
+        },
+        "basicInfo": {
+            "udemyCourseId": 3388796,
+            "slug": "the-complete-dart-language-guide-for-beginners-and-beyond",
+            "title": "The Complete Dart Language Guide for Beginners and Beyond",
+            "subtitle": "Learn Dart Programming in depth. Includes: basic to advanced topics, exercises, and projects. Fully updated to Dart 2.15",
+            "image": "https://img-c.udemycdn.com/course/240x135/3388796_8fda_10.jpg",
+            "price": 1949670,
+            "lan": "en",
+            "level": "expert",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Dart Programming Language in-depth",
+                "How to write command line apps with Dart",
+                "Fundamental concepts in programming: variables, types, control flow, collections, functions, classes, asynchronous programming & more",
+                "How to write clear and effective code using best practices",
+                "All the basics needed to understand Flutter, Angular Dart, and Dart on Backend"
+            ],
+            "requirements": [
+                "A Windows, macOS or Linux machine",
+                "Enough free space to install Visual Studio Code and the Dart SDK"
+            ],
+            "description": "<p><strong>Welcome to this full and complete course on the Dart language.</strong></p><p>Dart is the language behind Flutter: Google's UI toolkit for building <strong>beautiful and fast native apps</strong> for iOS, Android, web and beyond.</p><p>With Dart you can build Flutter apps across all these different platforms with a <strong>single codebase</strong>.</p><p>According to GitHub, Dart was the fastest growing programming language in 2019, making it a very valuable language to learn.</p><p><strong>Course overview</strong></p><p>Covering all the fundamental concepts for Dart development, this is the <strong>most comprehensive and updated Dart course</strong> available online.</p><p>As a Google Developer Expert for Dart and Flutter, I'll teach you everything you need to know about Dart, even if you've never written a single line of code before.</p><p>This is a beginners course, but it goes well <strong>beyond the basics</strong> and teach you many advanced topics with clear diagrams and explanations.</p><p><strong>Why is this important?</strong></p><p>To make Flutter apps, you’ll use the Dart language <strong>every single day</strong>. If you want to go beyond simple apps, you <strong>must</strong> know and understand it well.</p><p>This course will prepare you for this, by covering the more advanced Dart features that are needed to build complex Flutter apps.</p><p>This Dart course also includes many exercises and practical projects. These will help you consolidate your knowledge as you make progress.</p><p><strong>Included in this course</strong></p><p>The course follows a carefully designed structure, and guides you through all these topics:</p><ol><li><p>Introduction</p></li><li><p>Dart Basics</p></li><li><p>Dart Type System</p></li><li><p>Control Flow</p></li><li><p><strong>Project</strong>: Build a Command Line App</p></li><li><p>Collections</p></li><li><p><strong>Project</strong>: Data Processing in Dart</p></li><li><p>Null Safety</p></li><li><p>Functions: Basics</p></li><li><p>Functions:&nbsp;Advanced</p></li><li><p>Classes: Basics</p></li><li><p>Classes: Advanced</p></li><li><p><strong>Project</strong>:&nbsp;Simple eCommerce</p></li><li><p>Mixins and Extensions</p></li><li><p>Error Handling &amp;&nbsp;Exceptions</p></li><li><p>Asynchronous programming</p></li><li><p><strong>Project</strong>:&nbsp;Weather App</p></li></ol><p>I will teach you the language features using Dartpad - a free online editor for writing Dart code.</p><p>Beyond that, you will also learn how to write command line applications in Dart, using Visual Studio Code.</p><p>As part of this, you will complete some real-world projects, and be prepared for the next steps in your programming journey.</p><p><strong>Course Structure</strong></p><p>I designed this course to be a step-by-step guide, as well as a reference that you can use to explore specific topics in depth.</p><p>If you're new to Dart and programming in general, this is a great place to start and you can follow the course from beginning to end.</p><p>Or if you already have some experience and you want to fill some gaps in your knowledge, you can jump right into the sections that are most relevant.</p><p>The course also comes with a complete GitHub page. This includes:</p><ul><li><p>a complete list of all the course lessons, so that you can more easily find the content you need</p></li><li><p>all the course exercises, along with their solutions</p></li><li><p>all the course projects</p></li></ul><p>By buying this course you'll have access to<strong> 10 hours</strong> of content as well as many exercises, and any bonus materials that I will include in the future.</p><p><strong>Premium Support Included</strong></p><p>You can ask questions if you get stuck. I'll do my best to answer all questions within 24 hours - <em>but please keep them relevant to the course material</em>.</p><p><strong>Enroll Today</strong></p><p>This is a great package, and by the end of this course:</p><ul><li><p>you'll be comfortable with all aspects of the Dart Language.</p></li><li><p>you'll have a strong foundation that you can use as you continue your programming journey and learn about Flutter and beyond.</p></li></ul><p>I'm very excited to share this course with you, so enroll now to get started.</p>",
+            "suitableLearners": [
+                "Students who are new to Dart and programming in general",
+                "Experienced developers who want to dive into Dart & Flutter",
+                "Flutter developers who want to learn Dart more in-depth"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-12-20T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-12-23T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    },
+    {
+        "status": "active",
+        "categories": [
+            "622c1fa5a2de424e23bbe971",
+            "625e78caf55d3252cd0f78a5"
+        ],
+        "topics": [],
+        "reviews": [],
+        "meta": {
+            "ratingCount": 904,
+            "studentCount": 4526,
+            "avgRatingScore": 4.3906035,
+            "contentVideoLength": 31177
+        },
+        "basicInfo": {
+            "udemyCourseId": 2595366,
+            "slug": "unit-testing-swift-mobile-app",
+            "title": "Unit Testing Swift Mobile App",
+            "subtitle": "Apply Test-Driven Development(TDD) process to iOS mobile app development in Swift",
+            "image": "https://img-c.udemycdn.com/course/240x135/2595366_47d8_5.jpg",
+            "price": 1146770,
+            "lan": "en",
+            "level": "beginner",
+            "currency": "vnd",
+            "isFree": false
+        },
+        "details": {
+            "objectives": [
+                "Unit Test iOS Mobile App",
+                "XCTest Framework",
+                "Create, Run and Debug Unit Tests",
+                "Mock Dependencies",
+                "Use Dependency Injection",
+                "UI Testing"
+            ],
+            "requirements": [
+                "Knowledge of Swift",
+                "Mac OS and Xcode"
+            ],
+            "description": "<p><strong>Unit Testing is a must-have skill and this video course is about unit testing. </strong></p><p>If you take this video course, you will learn how to follow a <strong>T</strong>est <strong>D</strong>riven <strong>D</strong>evelopment process to implement a feature for an iOS&nbsp;mobile app built with Swift.&nbsp; &nbsp;</p><p>This video course starts with Unit Test basics and continues with a very practical set of lessons that demonstrates how to follow a Test-Driven process to implement the User Signup feature in the <strong>M</strong>odel <strong>V</strong>iew <strong>P</strong>resenter mobile app.</p><p>By the end of this video course, you will have a very clear understanding of how to write <strong>Unit Tests and UI Tests</strong>.</p><p>If you are a freelance developer you might postpone learning how to unit test iOS app for some time. But if you are planning to join a bigger team, then unit testing is a must-have skill for you to be able to work on important app features.</p>",
+            "suitableLearners": [
+                "Beginner Swift developers with no experience with Unit Testing"
+            ],
+            "sections": []
+        },
+        "messages": {
+            "welcome": "",
+            "congratulations": ""
+        },
+        "history": {
+            "createdAt": "2021-01-06T00:00:00.000Z",
+            "createdBy": "622c1f382e96f2828a7dae2d",
+            "publishedAt": "2021-01-09T00:00:00.000Z"
+        },
+        "promotions": {
+            "discountPrice": 275280,
+            "startAt": "2022-01-31T17:00:00.000Z",
+            "endAt": "2023-01-31T17:00:00.000Z",
+            "enabled": true
+        }
+    }
+]

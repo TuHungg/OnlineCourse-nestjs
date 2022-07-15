@@ -1,0 +1,86 @@
+export default [
+    {
+        _id: '626d7df6776f06d53e484b67',
+        timestamps: {
+            createdAt: '2022-04-30T18:20:25.511Z',
+        },
+        user: '622c1f382e96f2828a7dae2f',
+        content: 'I just want to save this content super quality',
+        parent: null,
+        unit: '6253d256f83c22c4839ab196',
+        course: '622db7eaa2463b43c6eaa250',
+        __v: 0,
+    },
+    {
+        _id: '626d7df6776f06d53e484b68',
+        timestamps: {
+            createdAt: '2022-04-30T18:20:25.511Z',
+        },
+        user: '622c1f382e96f2828a7dae30',
+        content: 'You are good teacher',
+        parent: null,
+        unit: '6253d256f83c22c4839ab196',
+        course: '622db7eaa2463b43c6eaa250',
+        __v: 0,
+    },
+    {
+        _id: '626d7df6776f06d53e484b69',
+        timestamps: {
+            createdAt: '2022-04-30T18:20:25.511Z',
+        },
+        user: '622c1f382e96f2828a7dae31',
+        content: 'You are saving my life!',
+        parent: null,
+        unit: '6253d256f83c22c4839ab196',
+        course: '622db7eaa2463b43c6eaa250',
+        __v: 0,
+    },
+    {
+        _id: '626d7df6776f06d53e484b6a',
+        timestamps: {
+            createdAt: '2022-04-30T18:20:25.511Z',
+        },
+        user: '622c1f382e96f2828a7dae32',
+        content: 'Now I understand it better',
+        parent: null,
+        unit: '6253d256f83c22c4839ab196',
+        course: '622db7eaa2463b43c6eaa250',
+        __v: 0,
+    },
+    {
+        _id: '626d7df6776f06d53e484b6b',
+        timestamps: {
+            createdAt: '2022-04-30T18:20:25.511Z',
+        },
+        user: '622c1f382e96f2828a7dae2e',
+        content: 'I will recommend this course for my friends!',
+        parent: null,
+        unit: '6253d256f83c22c4839ab196',
+        course: '622db7eaa2463b43c6eaa250',
+        __v: 0,
+    },
+    {
+        _id: '626e46ad8c1c6cd948c6f9e2',
+        timestamps: {
+            createdAt: '2022-05-01T08:36:58.274Z',
+        },
+        user: '622c1f382e96f2828a7dae2f',
+        content: 'Ya! me too',
+        parent: '626d7df6776f06d53e484b6b',
+        unit: '6253d256f83c22c4839ab196',
+        course: '622db7eaa2463b43c6eaa250',
+        __v: 0,
+    },
+    {
+        _id: '626e4fbd18d8672ee1aa30a6',
+        timestamps: {
+            createdAt: '2022-05-01T09:15:38.756Z',
+        },
+        user: '622c1f382e96f2828a7dae31',
+        content: 'You are right',
+        parent: '626d7df6776f06d53e484b6b',
+        unit: '6253d256f83c22c4839ab196',
+        course: '622db7eaa2463b43c6eaa250',
+        __v: 0,
+    },
+];
